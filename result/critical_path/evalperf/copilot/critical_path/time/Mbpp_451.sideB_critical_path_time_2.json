@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_451.py",
+    "total_cumtime_hint": 0.005009813,
+    "total_tottime_sum_topk": 0.005019049,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_451.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.18e-07,
+        "cumtime": 0.005009813,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_whitespaces",
+        "file": "Mbpp_451.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4540000000000002e-06,
+        "cumtime": 0.0050089950000000005,
+        "pct_cumtime": 99.983672045244
+      },
+      {
+        "func": "sub",
+        "file": "__init__.py",
+        "line": 183,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.7630000000000006e-06,
+        "cumtime": 0.005007541,
+        "pct_cumtime": 99.9546490058611
+      },
+      {
+        "func": "<method 'sub' of 're.Pattern' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.004998304,
+        "cumtime": 0.004998304,
+        "pct_cumtime": 99.77027086639761
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.236000000000001e-06,
+        "cumtime": 9.236000000000001e-06,
+        "pct_cumtime": 0.1843581786386039
+      },
+      {
+        "func": "_compile",
+        "file": "__init__.py",
+        "line": 330,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.458e-06,
+        "cumtime": 3.474e-06,
+        "pct_cumtime": 0.0693439056507698
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.016e-06,
+        "cumtime": 1.016e-06,
+        "pct_cumtime": 0.02028019808324183
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_451.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.18e-07,
+        "cumtime": 0.005009813,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_whitespaces",
+        "file": "Mbpp_451.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4540000000000002e-06,
+        "cumtime": 0.0050089950000000005,
+        "pct_cumtime": 99.983672045244
+      }
+    ]
+  }
+]

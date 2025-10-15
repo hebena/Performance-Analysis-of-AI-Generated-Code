@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_752.py",
+    "total_cumtime_hint": 0.000102077,
+    "total_tottime_sum_topk": 0.00010760200000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_752.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.168e-06,
+        "cumtime": 0.000102077,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "jacobsthal_num",
+        "file": "Mbpp_752.py",
+        "line": 14,
+        "calls_primitive": 90,
+        "calls_total": 810,
+        "tottime": 9.390900000000001e-05,
+        "cumtime": 9.390900000000001e-05,
+        "pct_cumtime": 91.99819743918806
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.5250000000000005e-06,
+        "cumtime": 5.5250000000000005e-06,
+        "pct_cumtime": 5.412580698884176
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_752.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.168e-06,
+        "cumtime": 0.000102077,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "jacobsthal_num",
+        "file": "Mbpp_752.py",
+        "line": 14,
+        "calls_primitive": 90,
+        "calls_total": 810,
+        "tottime": 9.390900000000001e-05,
+        "cumtime": 9.390900000000001e-05,
+        "pct_cumtime": 91.99819743918806
+      }
+    ]
+  }
+]

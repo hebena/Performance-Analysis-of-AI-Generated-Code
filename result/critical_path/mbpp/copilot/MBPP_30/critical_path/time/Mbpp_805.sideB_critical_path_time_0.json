@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_805.py",
+    "total_cumtime_hint": 7.5534e-05,
+    "total_tottime_sum_topk": 8.135400000000001e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_805.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.592e-05,
+        "cumtime": 7.5534e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_sum_list",
+        "file": "Mbpp_805.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.3852e-05,
+        "cumtime": 5.9614e-05,
+        "pct_cumtime": 78.9233987343448
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 2.5762000000000002e-05,
+        "cumtime": 2.5762000000000002e-05,
+        "pct_cumtime": 34.106495088304605
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.82e-06,
+        "cumtime": 5.82e-06,
+        "pct_cumtime": 7.705139407419176
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_805.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.592e-05,
+        "cumtime": 7.5534e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_sum_list",
+        "file": "Mbpp_805.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.3852e-05,
+        "cumtime": 5.9614e-05,
+        "pct_cumtime": 78.9233987343448
+      }
+    ]
+  }
+]

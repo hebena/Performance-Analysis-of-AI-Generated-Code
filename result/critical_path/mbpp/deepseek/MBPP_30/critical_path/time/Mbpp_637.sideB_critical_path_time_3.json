@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_637.py",
+    "total_cumtime_hint": 1.2221e-05,
+    "total_tottime_sum_topk": 1.8109000000000002e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_637.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.501e-06,
+        "cumtime": 1.2221e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.888e-06,
+        "cumtime": 5.888e-06,
+        "pct_cumtime": 48.17936339088455
+      },
+      {
+        "func": "noprofit_noloss",
+        "file": "Mbpp_637.py",
+        "line": 12,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.7200000000000004e-06,
+        "cumtime": 3.7200000000000004e-06,
+        "pct_cumtime": 30.43940757712135
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_637.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.501e-06,
+        "cumtime": 1.2221e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "noprofit_noloss",
+        "file": "Mbpp_637.py",
+        "line": 12,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.7200000000000004e-06,
+        "cumtime": 3.7200000000000004e-06,
+        "pct_cumtime": 30.43940757712135
+      }
+    ]
+  }
+]

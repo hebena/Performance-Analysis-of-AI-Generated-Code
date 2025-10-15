@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_723.py",
+    "total_cumtime_hint": 6.403000000000001e-05,
+    "total_tottime_sum_topk": 7.0987e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_723.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.7092e-05,
+        "cumtime": 6.403000000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_same_pair",
+        "file": "Mbpp_723.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.2967000000000005e-05,
+        "cumtime": 3.6938000000000004e-05,
+        "pct_cumtime": 57.688583476495396
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.9570000000000005e-06,
+        "cumtime": 6.9570000000000005e-06,
+        "pct_cumtime": 10.86521942839294
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.971000000000001e-06,
+        "cumtime": 3.971000000000001e-06,
+        "pct_cumtime": 6.201780415430267
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_723.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.7092e-05,
+        "cumtime": 6.403000000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_same_pair",
+        "file": "Mbpp_723.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.2967000000000005e-05,
+        "cumtime": 3.6938000000000004e-05,
+        "pct_cumtime": 57.688583476495396
+      }
+    ]
+  }
+]

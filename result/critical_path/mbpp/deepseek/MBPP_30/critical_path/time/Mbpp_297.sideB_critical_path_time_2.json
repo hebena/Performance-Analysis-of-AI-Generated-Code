@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_297.py",
+    "total_cumtime_hint": 0.001028717,
+    "total_tottime_sum_topk": 0.0010350350000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_297.py",
+        "line": 37,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.5506000000000003e-05,
+        "cumtime": 0.001028717,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "flatten_list",
+        "file": "Mbpp_297.py",
+        "line": 20,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000585378,
+        "cumtime": 0.0010032110000000002,
+        "pct_cumtime": 97.52060090384433
+      },
+      {
+        "func": "<method 'pop' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2880,
+        "calls_total": 2880,
+        "tottime": 0.000186832,
+        "cumtime": 0.000186832,
+        "pct_cumtime": 18.16165184399597
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2400,
+        "calls_total": 2400,
+        "tottime": 0.000152802,
+        "cumtime": 0.000152802,
+        "pct_cumtime": 14.853647796235506
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1440,
+        "calls_total": 1440,
+        "tottime": 7.1353e-05,
+        "cumtime": 7.1353e-05,
+        "pct_cumtime": 6.936115569199304
+      },
+      {
+        "func": "<method 'reverse' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.846e-06,
+        "cumtime": 6.846e-06,
+        "pct_cumtime": 0.6654891481330628
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.318e-06,
+        "cumtime": 6.318e-06,
+        "pct_cumtime": 0.6141630788642553
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_297.py",
+        "line": 37,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.5506000000000003e-05,
+        "cumtime": 0.001028717,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "flatten_list",
+        "file": "Mbpp_297.py",
+        "line": 20,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000585378,
+        "cumtime": 0.0010032110000000002,
+        "pct_cumtime": 97.52060090384433
+      }
+    ]
+  }
+]

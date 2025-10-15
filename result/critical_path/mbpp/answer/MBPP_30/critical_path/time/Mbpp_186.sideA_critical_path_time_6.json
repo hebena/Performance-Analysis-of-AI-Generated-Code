@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_186.py",
+    "total_cumtime_hint": 0.00013831500000000002,
+    "total_tottime_sum_topk": 0.00014717000000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_186.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.7931e-05,
+        "cumtime": 0.00013831500000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_literals",
+        "file": "Mbpp_186.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.8164000000000003e-05,
+        "cumtime": 0.000120384,
+        "pct_cumtime": 87.0361132198243
+      },
+      {
+        "func": "search",
+        "file": "__init__.py",
+        "line": 174,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.7461e-05,
+        "cumtime": 9.222000000000001e-05,
+        "pct_cumtime": 66.67389654050537
+      },
+      {
+        "func": "_compile",
+        "file": "__init__.py",
+        "line": 330,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.6339000000000003e-05,
+        "cumtime": 3.8092e-05,
+        "pct_cumtime": 27.540035426381802
+      },
+      {
+        "func": "<method 'search' of 're.Pattern' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6667e-05,
+        "cumtime": 1.6667e-05,
+        "pct_cumtime": 12.050030726963813
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1753e-05,
+        "cumtime": 1.1753e-05,
+        "pct_cumtime": 8.49727072262589
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.855e-06,
+        "cumtime": 8.855e-06,
+        "pct_cumtime": 6.402053284170191
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_186.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.7931e-05,
+        "cumtime": 0.00013831500000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_literals",
+        "file": "Mbpp_186.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.8164000000000003e-05,
+        "cumtime": 0.000120384,
+        "pct_cumtime": 87.0361132198243
+      }
+    ]
+  }
+]

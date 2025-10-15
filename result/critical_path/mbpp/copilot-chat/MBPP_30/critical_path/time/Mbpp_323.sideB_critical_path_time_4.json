@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_323.py",
+    "total_cumtime_hint": 0.000254844,
+    "total_tottime_sum_topk": 0.000261017,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_323.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0444000000000003e-05,
+        "cumtime": 0.000254844,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "re_arrange",
+        "file": "Mbpp_323.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000157798,
+        "cumtime": 0.0002344,
+        "pct_cumtime": 91.9778374221092
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 480,
+        "calls_total": 480,
+        "tottime": 3.1073e-05,
+        "cumtime": 3.1073e-05,
+        "pct_cumtime": 12.192949412189417
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 570,
+        "calls_total": 570,
+        "tottime": 2.9922000000000003e-05,
+        "cumtime": 2.9922000000000003e-05,
+        "pct_cumtime": 11.741300560342799
+      },
+      {
+        "func": "<method 'extend' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.5607e-05,
+        "cumtime": 1.5607e-05,
+        "pct_cumtime": 6.124138688766462
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.173e-06,
+        "cumtime": 6.173e-06,
+        "pct_cumtime": 2.4222661706769633
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_323.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0444000000000003e-05,
+        "cumtime": 0.000254844,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "re_arrange",
+        "file": "Mbpp_323.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000157798,
+        "cumtime": 0.0002344,
+        "pct_cumtime": 91.9778374221092
+      }
+    ]
+  }
+]

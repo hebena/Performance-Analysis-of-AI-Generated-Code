@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_424.py",
+    "total_cumtime_hint": 0.000273334,
+    "total_tottime_sum_topk": 0.000281197,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_424.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.807e-06,
+        "cumtime": 0.000273334,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "extract_rear",
+        "file": "Mbpp_424.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000270527,
+        "cumtime": 0.000270527,
+        "pct_cumtime": 98.97305128524077
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.863e-06,
+        "cumtime": 7.863e-06,
+        "pct_cumtime": 2.876700300730974
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_424.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.807e-06,
+        "cumtime": 0.000273334,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "extract_rear",
+        "file": "Mbpp_424.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000270527,
+        "cumtime": 0.000270527,
+        "pct_cumtime": 98.97305128524077
+      }
+    ]
+  }
+]

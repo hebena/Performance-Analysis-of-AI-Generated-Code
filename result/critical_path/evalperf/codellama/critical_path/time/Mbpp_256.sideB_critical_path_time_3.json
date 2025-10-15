@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_256.py",
+    "total_cumtime_hint": 1.610823055,
+    "total_tottime_sum_topk": 1.6108295910000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_256.py",
+        "line": 32,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0670000000000001e-06,
+        "cumtime": 1.610823055,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Primes_nums",
+        "file": "Mbpp_256.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.610821988,
+        "cumtime": 1.610821988,
+        "pct_cumtime": 99.99993376057063
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.536000000000001e-06,
+        "cumtime": 6.536000000000001e-06,
+        "pct_cumtime": 0.00040575530501082876
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_256.py",
+        "line": 32,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0670000000000001e-06,
+        "cumtime": 1.610823055,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Primes_nums",
+        "file": "Mbpp_256.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.610821988,
+        "cumtime": 1.610821988,
+        "pct_cumtime": 99.99993376057063
+      }
+    ]
+  }
+]

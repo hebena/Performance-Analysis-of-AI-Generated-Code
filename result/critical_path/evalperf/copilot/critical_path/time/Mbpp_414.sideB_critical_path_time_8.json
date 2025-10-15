@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_414.py",
+    "total_cumtime_hint": 0.001208153,
+    "total_tottime_sum_topk": 0.001217568,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_414.py",
+        "line": 25,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000168056,
+        "cumtime": 0.001208153,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "overlapping",
+        "file": "Mbpp_414.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.001040097,
+        "cumtime": 0.001040097,
+        "pct_cumtime": 86.08984127010405
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.415e-06,
+        "cumtime": 9.415e-06,
+        "pct_cumtime": 0.7792887159159477
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_414.py",
+        "line": 25,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000168056,
+        "cumtime": 0.001208153,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "overlapping",
+        "file": "Mbpp_414.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.001040097,
+        "cumtime": 0.001040097,
+        "pct_cumtime": 86.08984127010405
+      }
+    ]
+  }
+]

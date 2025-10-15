@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_145.py",
+    "total_cumtime_hint": 0.000136234,
+    "total_tottime_sum_topk": 0.000142286,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_145.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.557e-06,
+        "cumtime": 0.000136234,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_Abs_Diff",
+        "file": "Mbpp_145.py",
+        "line": 14,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.355500000000001e-05,
+        "cumtime": 0.000126677,
+        "pct_cumtime": 92.98486427763994
+      },
+      {
+        "func": "<built-in method builtins.abs>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 810,
+        "calls_total": 810,
+        "tottime": 3.3122e-05,
+        "cumtime": 3.3122e-05,
+        "pct_cumtime": 24.312579825887813
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.052000000000001e-06,
+        "cumtime": 6.052000000000001e-06,
+        "pct_cumtime": 4.442356533611287
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_145.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.557e-06,
+        "cumtime": 0.000136234,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_Abs_Diff",
+        "file": "Mbpp_145.py",
+        "line": 14,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.355500000000001e-05,
+        "cumtime": 0.000126677,
+        "pct_cumtime": 92.98486427763994
+      }
+    ]
+  }
+]

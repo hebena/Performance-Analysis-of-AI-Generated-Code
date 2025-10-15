@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_837.py",
+    "total_cumtime_hint": 2.6171e-05,
+    "total_tottime_sum_topk": 3.1987000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_837.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.956e-06,
+        "cumtime": 2.6171e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "cube_Sum",
+        "file": "Mbpp_837.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.7215e-05,
+        "cumtime": 1.7215e-05,
+        "pct_cumtime": 65.77891559359597
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.816000000000001e-06,
+        "cumtime": 5.816000000000001e-06,
+        "pct_cumtime": 22.223071338504454
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_837.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.956e-06,
+        "cumtime": 2.6171e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "cube_Sum",
+        "file": "Mbpp_837.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.7215e-05,
+        "cumtime": 1.7215e-05,
+        "pct_cumtime": 65.77891559359597
+      }
+    ]
+  }
+]

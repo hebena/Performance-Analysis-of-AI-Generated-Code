@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_339.py",
+    "total_cumtime_hint": 0.00040193600000000004,
+    "total_tottime_sum_topk": 0.00038471100000000004,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_339.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4387000000000001e-05,
+        "cumtime": 0.00040193600000000004,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Divisor",
+        "file": "Mbpp_339.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00019556,
+        "cumtime": 0.000387549,
+        "pct_cumtime": 96.42057441980812
+      },
+      {
+        "func": "most_common",
+        "file": "__init__.py",
+        "line": 622,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.1880000000000006e-05,
+        "cumtime": 9.9208e-05,
+        "pct_cumtime": 24.682536523227576
+      },
+      {
+        "func": "nlargest",
+        "file": "heapq.py",
+        "line": 523,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.7202e-05,
+        "cumtime": 4.7422e-05,
+        "pct_cumtime": 11.79839576449982
+      },
+      {
+        "func": "__init__",
+        "file": "__init__.py",
+        "line": 599,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.364e-05,
+        "cumtime": 3.9229e-05,
+        "pct_cumtime": 9.760011544126428
+      },
+      {
+        "func": "_handle_fromlist",
+        "file": "<frozen importlib._bootstrap>",
+        "line": 1390,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4866000000000002e-05,
+        "cumtime": 3.6971e-05,
+        "pct_cumtime": 9.1982305640699
+      },
+      {
+        "func": "__missing__",
+        "file": "__init__.py",
+        "line": 613,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 1.6581000000000003e-05,
+        "cumtime": 1.6581000000000003e-05,
+        "pct_cumtime": 4.125283627244139
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.3666000000000001e-05,
+        "cumtime": 1.3666000000000001e-05,
+        "pct_cumtime": 3.4000437880657617
+      },
+      {
+        "func": "<method 'items' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.906000000000001e-06,
+        "cumtime": 9.906000000000001e-06,
+        "pct_cumtime": 2.464571474065523
+      },
+      {
+        "func": "<built-in method builtins.hasattr>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.023e-06,
+        "cumtime": 7.023e-06,
+        "pct_cumtime": 1.7472931013892758
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_339.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4387000000000001e-05,
+        "cumtime": 0.00040193600000000004,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Divisor",
+        "file": "Mbpp_339.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00019556,
+        "cumtime": 0.000387549,
+        "pct_cumtime": 96.42057441980812
+      }
+    ]
+  }
+]

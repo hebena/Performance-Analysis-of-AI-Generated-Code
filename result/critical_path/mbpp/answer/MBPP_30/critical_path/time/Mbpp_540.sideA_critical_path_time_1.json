@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_540.py",
+    "total_cumtime_hint": 0.00013224000000000002,
+    "total_tottime_sum_topk": 0.00013863700000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_540.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1966e-05,
+        "cumtime": 0.00013224000000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Diff",
+        "file": "Mbpp_540.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.950100000000001e-05,
+        "cumtime": 0.00012027400000000001,
+        "pct_cumtime": 90.95130066545674
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 1.5746e-05,
+        "cumtime": 1.5746e-05,
+        "pct_cumtime": 11.90713853599516
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 1.5161000000000001e-05,
+        "cumtime": 1.5161000000000001e-05,
+        "pct_cumtime": 11.464761040532364
+      },
+      {
+        "func": "<method 'sort' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.866e-06,
+        "cumtime": 9.866e-06,
+        "pct_cumtime": 7.460677555958862
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.397000000000001e-06,
+        "cumtime": 6.397000000000001e-06,
+        "pct_cumtime": 4.837416817906836
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_540.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1966e-05,
+        "cumtime": 0.00013224000000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Diff",
+        "file": "Mbpp_540.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.950100000000001e-05,
+        "cumtime": 0.00012027400000000001,
+        "pct_cumtime": 90.95130066545674
+      }
+    ]
+  }
+]

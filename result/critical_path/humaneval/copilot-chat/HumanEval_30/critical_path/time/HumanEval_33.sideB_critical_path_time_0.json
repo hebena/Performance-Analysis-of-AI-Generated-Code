@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_33.py",
+    "total_cumtime_hint": 0.000286258,
+    "total_tottime_sum_topk": 0.000292363,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_33.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.967900000000001e-05,
+        "cumtime": 0.000286258,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sort_third",
+        "file": "HumanEval_33.py",
+        "line": 1,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 0.00017366400000000002,
+        "cumtime": 0.000216579,
+        "pct_cumtime": 75.65867154804407
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 2.9552e-05,
+        "cumtime": 2.9552e-05,
+        "pct_cumtime": 10.323554276212368
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 1.3363e-05,
+        "cumtime": 1.3363e-05,
+        "pct_cumtime": 4.668166479190101
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.105e-06,
+        "cumtime": 6.105e-06,
+        "pct_cumtime": 2.1326914880981493
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_33.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.967900000000001e-05,
+        "cumtime": 0.000286258,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sort_third",
+        "file": "HumanEval_33.py",
+        "line": 1,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 0.00017366400000000002,
+        "cumtime": 0.000216579,
+        "pct_cumtime": 75.65867154804407
+      }
+    ]
+  }
+]

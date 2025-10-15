@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_130.py",
+    "total_cumtime_hint": 0.0035342810000000002,
+    "total_tottime_sum_topk": 0.0035428200000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_130.py",
+        "line": 26,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000105019,
+        "cumtime": 0.0035342810000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_occurrences",
+        "file": "Mbpp_130.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.001187581,
+        "cumtime": 0.003429262,
+        "pct_cumtime": 97.02856111327877
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0014833440000000002,
+        "cumtime": 0.0022411880000000003,
+        "pct_cumtime": 63.41284125399198
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_130.py",
+        "line": 11,
+        "calls_primitive": 20755,
+        "calls_total": 20755,
+        "tottime": 0.000757844,
+        "cumtime": 0.000757844,
+        "pct_cumtime": 21.44266401002071
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.539e-06,
+        "cumtime": 8.539e-06,
+        "pct_cumtime": 0.24160501103336154
+      },
+      {
+        "func": "<method 'items' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.93e-07,
+        "cumtime": 4.93e-07,
+        "pct_cumtime": 0.013949088937749996
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_130.py",
+        "line": 26,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000105019,
+        "cumtime": 0.0035342810000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_occurrences",
+        "file": "Mbpp_130.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.001187581,
+        "cumtime": 0.003429262,
+        "pct_cumtime": 97.02856111327877
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_130.py",
+        "line": 11,
+        "calls_primitive": 20755,
+        "calls_total": 20755,
+        "tottime": 0.000757844,
+        "cumtime": 0.000757844,
+        "pct_cumtime": 21.44266401002071
+      }
+    ]
+  }
+]

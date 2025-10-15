@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_69.py",
+    "total_cumtime_hint": 0.0020464430000000002,
+    "total_tottime_sum_topk": 0.001991079,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_69.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000141478,
+        "cumtime": 0.0020464430000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "search",
+        "file": "HumanEval_69.py",
+        "line": 1,
+        "calls_primitive": 750,
+        "calls_total": 750,
+        "tottime": 0.000605072,
+        "cumtime": 0.0019049650000000002,
+        "pct_cumtime": 93.08663862125648
+      },
+      {
+        "func": "__init__",
+        "file": "__init__.py",
+        "line": 599,
+        "calls_primitive": 750,
+        "calls_total": 750,
+        "tottime": 0.00025199900000000004,
+        "cumtime": 0.0009547370000000001,
+        "pct_cumtime": 46.653486073152294
+      },
+      {
+        "func": "update",
+        "file": "__init__.py",
+        "line": 673,
+        "calls_primitive": 750,
+        "calls_total": 750,
+        "tottime": 0.00016956300000000002,
+        "cumtime": 0.0007027380000000001,
+        "pct_cumtime": 34.339485634342125
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1500,
+        "calls_total": 1500,
+        "tottime": 0.00016050800000000002,
+        "cumtime": 0.00031146900000000004,
+        "pct_cumtime": 15.220018344024242
+      },
+      {
+        "func": "_handle_fromlist",
+        "file": "<frozen importlib._bootstrap>",
+        "line": 1390,
+        "calls_primitive": 750,
+        "calls_total": 750,
+        "tottime": 0.00018894900000000002,
+        "cumtime": 0.000286481,
+        "pct_cumtime": 13.99897285191916
+      },
+      {
+        "func": "<built-in method _collections._count_elements>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 750,
+        "calls_total": 750,
+        "tottime": 0.00026387400000000004,
+        "cumtime": 0.00026387400000000004,
+        "pct_cumtime": 12.894275579627676
+      },
+      {
+        "func": "__instancecheck__",
+        "file": "<frozen abc>",
+        "line": 117,
+        "calls_primitive": 750,
+        "calls_total": 750,
+        "tottime": 8.704800000000001e-05,
+        "cumtime": 0.00015096100000000002,
+        "pct_cumtime": 7.376750781722237
+      },
+      {
+        "func": "<built-in method _abc._abc_instancecheck>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 750,
+        "calls_total": 750,
+        "tottime": 6.391300000000001e-05,
+        "cumtime": 6.391300000000001e-05,
+        "pct_cumtime": 3.123126322111097
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 900,
+        "calls_total": 900,
+        "tottime": 5.8675e-05,
+        "cumtime": 5.8675e-05,
+        "pct_cumtime": 2.8671700115761833
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_69.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000141478,
+        "cumtime": 0.0020464430000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "search",
+        "file": "HumanEval_69.py",
+        "line": 1,
+        "calls_primitive": 750,
+        "calls_total": 750,
+        "tottime": 0.000605072,
+        "cumtime": 0.0019049650000000002,
+        "pct_cumtime": 93.08663862125648
+      }
+    ]
+  }
+]

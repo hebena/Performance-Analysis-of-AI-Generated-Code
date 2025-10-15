@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_159.py",
+    "total_cumtime_hint": 2.9805000000000003e-05,
+    "total_tottime_sum_topk": 3.5720000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_159.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.9854e-05,
+        "cumtime": 2.9805000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "eat",
+        "file": "HumanEval_159.py",
+        "line": 1,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 9.951e-06,
+        "cumtime": 9.951e-06,
+        "pct_cumtime": 33.38701560140915
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.915e-06,
+        "cumtime": 5.915e-06,
+        "pct_cumtime": 19.845663479281995
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_159.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.9854e-05,
+        "cumtime": 2.9805000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "eat",
+        "file": "HumanEval_159.py",
+        "line": 1,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 9.951e-06,
+        "cumtime": 9.951e-06,
+        "pct_cumtime": 33.38701560140915
+      }
+    ]
+  }
+]

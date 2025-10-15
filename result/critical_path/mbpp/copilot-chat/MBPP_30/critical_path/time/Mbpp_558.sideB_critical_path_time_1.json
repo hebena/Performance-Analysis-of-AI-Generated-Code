@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_558.py",
+    "total_cumtime_hint": 0.00019932200000000001,
+    "total_tottime_sum_topk": 0.00020548600000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_558.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1595e-05,
+        "cumtime": 0.00019932200000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "digit_distance_nums",
+        "file": "Mbpp_558.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.945100000000001e-05,
+        "cumtime": 0.000187727,
+        "pct_cumtime": 94.1827796229217
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.7020000000000002e-05,
+        "cumtime": 8.079e-05,
+        "pct_cumtime": 40.53240485244981
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_558.py",
+        "line": 8,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 4.5560000000000004e-05,
+        "cumtime": 5.377e-05,
+        "pct_cumtime": 26.976450166062953
+      },
+      {
+        "func": "<method 'zfill' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.2846e-05,
+        "cumtime": 1.2846e-05,
+        "pct_cumtime": 6.444848034838101
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 8.773e-06,
+        "cumtime": 8.773e-06,
+        "pct_cumtime": 4.401420816568166
+      },
+      {
+        "func": "<built-in method builtins.abs>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 8.210000000000001e-06,
+        "cumtime": 8.210000000000001e-06,
+        "pct_cumtime": 4.118963285537974
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.164000000000001e-06,
+        "cumtime": 6.164000000000001e-06,
+        "pct_cumtime": 3.0924835191298503
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.867000000000001e-06,
+        "cumtime": 5.867000000000001e-06,
+        "pct_cumtime": 2.9434783917480263
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_558.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1595e-05,
+        "cumtime": 0.00019932200000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "digit_distance_nums",
+        "file": "Mbpp_558.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.945100000000001e-05,
+        "cumtime": 0.000187727,
+        "pct_cumtime": 94.1827796229217
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_558.py",
+        "line": 8,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 4.5560000000000004e-05,
+        "cumtime": 5.377e-05,
+        "pct_cumtime": 26.976450166062953
+      }
+    ]
+  }
+]

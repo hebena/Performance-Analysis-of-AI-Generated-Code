@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_593.py",
+    "total_cumtime_hint": 0.000140631,
+    "total_tottime_sum_topk": 0.00014704500000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_593.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.797000000000001e-06,
+        "cumtime": 0.000140631,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "removezero_ip",
+        "file": "Mbpp_593.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.7525e-05,
+        "cumtime": 0.000130834,
+        "pct_cumtime": 93.03354167999943
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.9023e-05,
+        "cumtime": 9.2489e-05,
+        "pct_cumtime": 65.76714949051062
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_593.py",
+        "line": 5,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 5.3466000000000006e-05,
+        "cumtime": 5.3466000000000006e-05,
+        "pct_cumtime": 38.018644537833055
+      },
+      {
+        "func": "<method 'split' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0820000000000001e-05,
+        "cumtime": 1.0820000000000001e-05,
+        "pct_cumtime": 7.693893949413715
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.414000000000001e-06,
+        "cumtime": 6.414000000000001e-06,
+        "pct_cumtime": 4.56087206945837
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_593.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.797000000000001e-06,
+        "cumtime": 0.000140631,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "removezero_ip",
+        "file": "Mbpp_593.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.7525e-05,
+        "cumtime": 0.000130834,
+        "pct_cumtime": 93.03354167999943
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_593.py",
+        "line": 5,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 5.3466000000000006e-05,
+        "cumtime": 5.3466000000000006e-05,
+        "pct_cumtime": 38.018644537833055
+      }
+    ]
+  }
+]

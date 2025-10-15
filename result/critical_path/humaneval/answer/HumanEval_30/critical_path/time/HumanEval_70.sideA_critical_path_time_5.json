@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_70.py",
+    "total_cumtime_hint": 0.0006620290000000001,
+    "total_tottime_sum_topk": 0.000667881,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_70.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.07e-05,
+        "cumtime": 0.0006620290000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "strange_sort_list",
+        "file": "HumanEval_70.py",
+        "line": 1,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 0.000331143,
+        "cumtime": 0.000621329,
+        "pct_cumtime": 93.85223305927684
+      },
+      {
+        "func": "<method 'remove' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1230,
+        "calls_total": 1230,
+        "tottime": 0.00010418600000000001,
+        "cumtime": 0.00010418600000000001,
+        "pct_cumtime": 15.737377063542532
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1230,
+        "calls_total": 1230,
+        "tottime": 7.564e-05,
+        "cumtime": 7.564e-05,
+        "pct_cumtime": 11.42548136108841
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 660,
+        "calls_total": 660,
+        "tottime": 5.9861e-05,
+        "cumtime": 5.9861e-05,
+        "pct_cumtime": 9.042051027976115
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 570,
+        "calls_total": 570,
+        "tottime": 5.0499000000000006e-05,
+        "cumtime": 5.0499000000000006e-05,
+        "pct_cumtime": 7.627913580825009
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.852e-06,
+        "cumtime": 5.852e-06,
+        "pct_cumtime": 0.8839491925580298
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_70.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.07e-05,
+        "cumtime": 0.0006620290000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "strange_sort_list",
+        "file": "HumanEval_70.py",
+        "line": 1,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 0.000331143,
+        "cumtime": 0.000621329,
+        "pct_cumtime": 93.85223305927684
+      }
+    ]
+  }
+]

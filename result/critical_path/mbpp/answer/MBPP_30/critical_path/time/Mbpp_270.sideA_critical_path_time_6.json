@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_270.py",
+    "total_cumtime_hint": 3.6479e-05,
+    "total_tottime_sum_topk": 4.4388e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_270.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4234000000000001e-05,
+        "cumtime": 3.6479e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_even_and_even_index",
+        "file": "Mbpp_270.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.2245e-05,
+        "cumtime": 2.2245e-05,
+        "pct_cumtime": 60.9802900298802
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.909e-06,
+        "cumtime": 7.909e-06,
+        "pct_cumtime": 21.680967131774445
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_270.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4234000000000001e-05,
+        "cumtime": 3.6479e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_even_and_even_index",
+        "file": "Mbpp_270.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.2245e-05,
+        "cumtime": 2.2245e-05,
+        "pct_cumtime": 60.9802900298802
+      }
+    ]
+  }
+]

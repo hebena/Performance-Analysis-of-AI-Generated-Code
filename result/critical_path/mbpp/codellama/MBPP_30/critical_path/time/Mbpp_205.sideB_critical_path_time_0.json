@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_205.py",
+    "total_cumtime_hint": 9.6088e-05,
+    "total_tottime_sum_topk": 0.00010215800000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_205.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2973000000000001e-05,
+        "cumtime": 9.6088e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "inversion_elements",
+        "file": "Mbpp_205.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.0807e-05,
+        "cumtime": 8.3115e-05,
+        "pct_cumtime": 86.49883440179835
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_205.py",
+        "line": 5,
+        "calls_primitive": 540,
+        "calls_total": 540,
+        "tottime": 2.2308e-05,
+        "cumtime": 2.2308e-05,
+        "pct_cumtime": 23.216218466405795
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.07e-06,
+        "cumtime": 6.07e-06,
+        "pct_cumtime": 6.3171259678627925
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_205.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2973000000000001e-05,
+        "cumtime": 9.6088e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "inversion_elements",
+        "file": "Mbpp_205.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.0807e-05,
+        "cumtime": 8.3115e-05,
+        "pct_cumtime": 86.49883440179835
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_205.py",
+        "line": 5,
+        "calls_primitive": 540,
+        "calls_total": 540,
+        "tottime": 2.2308e-05,
+        "cumtime": 2.2308e-05,
+        "pct_cumtime": 23.216218466405795
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_181.py",
+    "total_cumtime_hint": 0.00014641800000000002,
+    "total_tottime_sum_topk": 0.00015247900000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_181.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2391e-05,
+        "cumtime": 0.00014641800000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "common_prefix",
+        "file": "Mbpp_181.py",
+        "line": 14,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.2880000000000004e-05,
+        "cumtime": 0.000134027,
+        "pct_cumtime": 91.53724268874043
+      },
+      {
+        "func": "common_prefix_util",
+        "file": "Mbpp_181.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 8.442100000000001e-05,
+        "cumtime": 0.00010114700000000001,
+        "pct_cumtime": 69.08098731030337
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 1.6726000000000002e-05,
+        "cumtime": 1.6726000000000002e-05,
+        "pct_cumtime": 11.42345886434728
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.061e-06,
+        "cumtime": 6.061e-06,
+        "pct_cumtime": 4.1395183652283185
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_181.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2391e-05,
+        "cumtime": 0.00014641800000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "common_prefix",
+        "file": "Mbpp_181.py",
+        "line": 14,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.2880000000000004e-05,
+        "cumtime": 0.000134027,
+        "pct_cumtime": 91.53724268874043
+      },
+      {
+        "func": "common_prefix_util",
+        "file": "Mbpp_181.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 8.442100000000001e-05,
+        "cumtime": 0.00010114700000000001,
+        "pct_cumtime": 69.08098731030337
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_885.py",
+    "total_cumtime_hint": 0.000248216,
+    "total_tottime_sum_topk": 0.00025403700000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_885.py",
+        "line": 30,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5047e-05,
+        "cumtime": 0.000248216,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_Isomorphic",
+        "file": "Mbpp_885.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00015164,
+        "cumtime": 0.000233169,
+        "pct_cumtime": 93.93794114803237
+      },
+      {
+        "func": "<method 'get' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 540,
+        "calls_total": 540,
+        "tottime": 3.3629e-05,
+        "cumtime": 3.3629e-05,
+        "pct_cumtime": 13.54828052986109
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 2.3294e-05,
+        "cumtime": 2.3294e-05,
+        "pct_cumtime": 9.38456827924066
+      },
+      {
+        "func": "<method 'values' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.5718e-05,
+        "cumtime": 1.5718e-05,
+        "pct_cumtime": 6.332387920198538
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 8.888e-06,
+        "cumtime": 8.888e-06,
+        "pct_cumtime": 3.580752248042028
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.821000000000001e-06,
+        "cumtime": 5.821000000000001e-06,
+        "pct_cumtime": 2.345134882521675
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_885.py",
+        "line": 30,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5047e-05,
+        "cumtime": 0.000248216,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_Isomorphic",
+        "file": "Mbpp_885.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00015164,
+        "cumtime": 0.000233169,
+        "pct_cumtime": 93.93794114803237
+      }
+    ]
+  }
+]

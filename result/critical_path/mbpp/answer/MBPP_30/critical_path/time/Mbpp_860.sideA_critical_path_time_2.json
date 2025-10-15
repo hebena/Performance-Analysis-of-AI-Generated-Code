@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_860.py",
+    "total_cumtime_hint": 8.901800000000001e-05,
+    "total_tottime_sum_topk": 9.4895e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_860.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.655e-06,
+        "cumtime": 8.901800000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_alphanumeric",
+        "file": "Mbpp_860.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.3054e-05,
+        "cumtime": 7.9363e-05,
+        "pct_cumtime": 89.15387899076592
+      },
+      {
+        "func": "search",
+        "file": "__init__.py",
+        "line": 174,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.2861e-05,
+        "cumtime": 6.6309e-05,
+        "pct_cumtime": 74.48942910422612
+      },
+      {
+        "func": "_compile",
+        "file": "__init__.py",
+        "line": 330,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6956e-05,
+        "cumtime": 2.4162e-05,
+        "pct_cumtime": 27.142825046619784
+      },
+      {
+        "func": "<method 'search' of 're.Pattern' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.9286e-05,
+        "cumtime": 1.9286e-05,
+        "pct_cumtime": 21.665281179087376
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.206e-06,
+        "cumtime": 7.206e-06,
+        "pct_cumtime": 8.094992024085016
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.877000000000001e-06,
+        "cumtime": 5.877000000000001e-06,
+        "pct_cumtime": 6.602035543373251
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_860.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.655e-06,
+        "cumtime": 8.901800000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_alphanumeric",
+        "file": "Mbpp_860.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.3054e-05,
+        "cumtime": 7.9363e-05,
+        "pct_cumtime": 89.15387899076592
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_24.py",
+    "total_cumtime_hint": 0.806588152,
+    "total_tottime_sum_topk": 0.8065996780000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_24.py",
+        "line": 2,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.36e-07,
+        "cumtime": 0.806588152,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "largest_divisor",
+        "file": "HumanEval_24.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.8065874160000001,
+        "cumtime": 0.8065874160000001,
+        "pct_cumtime": 99.99990875144917
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1526000000000001e-05,
+        "cumtime": 1.1526000000000001e-05,
+        "pct_cumtime": 0.0014289820612192678
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_24.py",
+        "line": 2,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.36e-07,
+        "cumtime": 0.806588152,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "largest_divisor",
+        "file": "HumanEval_24.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.8065874160000001,
+        "cumtime": 0.8065874160000001,
+        "pct_cumtime": 99.99990875144917
+      }
+    ]
+  }
+]

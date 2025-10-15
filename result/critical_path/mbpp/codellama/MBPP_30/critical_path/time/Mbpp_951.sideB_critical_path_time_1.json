@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_951.py",
+    "total_cumtime_hint": 0.00014585500000000002,
+    "total_tottime_sum_topk": 0.00015198500000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_951.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.7394e-05,
+        "cumtime": 0.00014585500000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_similar_indices",
+        "file": "Mbpp_951.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.1013e-05,
+        "cumtime": 0.00012846100000000002,
+        "pct_cumtime": 88.07445750917007
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 540,
+        "calls_total": 540,
+        "tottime": 2.6991000000000003e-05,
+        "cumtime": 2.6991000000000003e-05,
+        "pct_cumtime": 18.5053649172123
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.6040000000000002e-05,
+        "cumtime": 1.6040000000000002e-05,
+        "pct_cumtime": 10.997223269685646
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.130000000000001e-06,
+        "cumtime": 6.130000000000001e-06,
+        "pct_cumtime": 4.202804154811285
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.417e-06,
+        "cumtime": 4.417e-06,
+        "pct_cumtime": 3.028350073703335
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_951.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.7394e-05,
+        "cumtime": 0.00014585500000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_similar_indices",
+        "file": "Mbpp_951.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.1013e-05,
+        "cumtime": 0.00012846100000000002,
+        "pct_cumtime": 88.07445750917007
+      }
+    ]
+  }
+]

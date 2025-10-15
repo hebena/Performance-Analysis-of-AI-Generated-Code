@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_874.py",
+    "total_cumtime_hint": 3.9718e-05,
+    "total_tottime_sum_topk": 4.5823e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_874.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.333e-06,
+        "cumtime": 3.9718e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_Concat",
+        "file": "Mbpp_874.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.3235e-05,
+        "cumtime": 3.0385e-05,
+        "pct_cumtime": 76.5018379576011
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 7.15e-06,
+        "cumtime": 7.15e-06,
+        "pct_cumtime": 18.001913490105242
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.105e-06,
+        "cumtime": 6.105e-06,
+        "pct_cumtime": 15.370864595397551
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_874.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.333e-06,
+        "cumtime": 3.9718e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_Concat",
+        "file": "Mbpp_874.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.3235e-05,
+        "cumtime": 3.0385e-05,
+        "pct_cumtime": 76.5018379576011
+      }
+    ]
+  }
+]

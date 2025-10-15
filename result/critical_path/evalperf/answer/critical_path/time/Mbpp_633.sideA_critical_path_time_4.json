@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_633.py",
+    "total_cumtime_hint": 0.0006509990000000001,
+    "total_tottime_sum_topk": 0.000656862,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_633.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.538e-06,
+        "cumtime": 0.0006509990000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "pair_xor_Sum",
+        "file": "Mbpp_633.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0006454610000000001,
+        "cumtime": 0.0006454610000000001,
+        "pct_cumtime": 99.14930744901298
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.8630000000000004e-06,
+        "cumtime": 5.8630000000000004e-06,
+        "pct_cumtime": 0.9006158227585603
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_633.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.538e-06,
+        "cumtime": 0.0006509990000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "pair_xor_Sum",
+        "file": "Mbpp_633.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0006454610000000001,
+        "cumtime": 0.0006454610000000001,
+        "pct_cumtime": 99.14930744901298
+      }
+    ]
+  }
+]

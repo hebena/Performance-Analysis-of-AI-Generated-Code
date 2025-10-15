@@ -1,0 +1,122 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_117.py",
+    "total_cumtime_hint": 0.000893221,
+    "total_tottime_sum_topk": 0.000899515,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_117.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.9826e-05,
+        "cumtime": 0.000893221,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "select_words",
+        "file": "HumanEval_117.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 0.000207111,
+        "cumtime": 0.0008533950000000001,
+        "pct_cumtime": 95.54130500738339
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 690,
+        "calls_total": 690,
+        "tottime": 0.000179774,
+        "cumtime": 0.000601555,
+        "pct_cumtime": 67.3467148667575
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_117.py",
+        "line": 5,
+        "calls_primitive": 2190,
+        "calls_total": 2190,
+        "tottime": 0.000297335,
+        "cumtime": 0.00042178100000000003,
+        "pct_cumtime": 47.22022881235439
+      },
+      {
+        "func": "<method 'isalpha' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2280,
+        "calls_total": 2280,
+        "tottime": 0.000124446,
+        "cumtime": 0.000124446,
+        "pct_cumtime": 13.93227431956929
+      },
+      {
+        "func": "<method 'split' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 2.5226000000000002e-05,
+        "cumtime": 2.5226000000000002e-05,
+        "pct_cumtime": 2.8241610978693963
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.9503000000000003e-05,
+        "cumtime": 1.9503000000000003e-05,
+        "pct_cumtime": 2.1834462020037595
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.294e-06,
+        "cumtime": 6.294e-06,
+        "pct_cumtime": 0.7046408447629422
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_117.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.9826e-05,
+        "cumtime": 0.000893221,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "select_words",
+        "file": "HumanEval_117.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 0.000207111,
+        "cumtime": 0.0008533950000000001,
+        "pct_cumtime": 95.54130500738339
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_117.py",
+        "line": 5,
+        "calls_primitive": 2190,
+        "calls_total": 2190,
+        "tottime": 0.000297335,
+        "cumtime": 0.00042178100000000003,
+        "pct_cumtime": 47.22022881235439
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_36.py",
+    "total_cumtime_hint": 0.066629935,
+    "total_tottime_sum_topk": 0.06663616400000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_36.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.39e-07,
+        "cumtime": 0.066629935,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "fizz_buzz",
+        "file": "HumanEval_36.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.056890430000000006,
+        "cumtime": 0.066629096,
+        "pct_cumtime": 99.99874080621571
+      },
+      {
+        "func": "<method 'count' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 171652,
+        "calls_total": 171652,
+        "tottime": 0.009738666,
+        "cumtime": 0.009738666,
+        "pct_cumtime": 14.61605207929439
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.229e-06,
+        "cumtime": 6.229e-06,
+        "pct_cumtime": 0.009348650872914704
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_36.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.39e-07,
+        "cumtime": 0.066629935,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "fizz_buzz",
+        "file": "HumanEval_36.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.056890430000000006,
+        "cumtime": 0.066629096,
+        "pct_cumtime": 99.99874080621571
+      }
+    ]
+  }
+]

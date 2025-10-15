@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_557.py",
+    "total_cumtime_hint": 0.00020194400000000002,
+    "total_tottime_sum_topk": 0.000207886,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_557.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0315e-05,
+        "cumtime": 0.00020194400000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "toggle_string",
+        "file": "Mbpp_557.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00011618,
+        "cumtime": 0.00019162900000000002,
+        "pct_cumtime": 94.89214831834568
+      },
+      {
+        "func": "<method 'isupper' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 570,
+        "calls_total": 570,
+        "tottime": 3.0343e-05,
+        "cumtime": 3.0343e-05,
+        "pct_cumtime": 15.025452600720989
+      },
+      {
+        "func": "<method 'upper' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 2.3446000000000002e-05,
+        "cumtime": 2.3446000000000002e-05,
+        "pct_cumtime": 11.610149348334192
+      },
+      {
+        "func": "<method 'lower' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.3084e-05,
+        "cumtime": 1.3084e-05,
+        "pct_cumtime": 6.479023887810481
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.576e-06,
+        "cumtime": 8.576e-06,
+        "pct_cumtime": 4.246721863486908
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.942e-06,
+        "cumtime": 5.942e-06,
+        "pct_cumtime": 2.942399873232183
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_557.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0315e-05,
+        "cumtime": 0.00020194400000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "toggle_string",
+        "file": "Mbpp_557.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00011618,
+        "cumtime": 0.00019162900000000002,
+        "pct_cumtime": 94.89214831834568
+      }
+    ]
+  }
+]

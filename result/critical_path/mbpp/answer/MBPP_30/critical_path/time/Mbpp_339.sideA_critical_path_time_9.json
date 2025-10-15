@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_339.py",
+    "total_cumtime_hint": 1.1809e-05,
+    "total_tottime_sum_topk": 1.7484e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_339.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.923e-06,
+        "cumtime": 1.1809e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.675000000000001e-06,
+        "cumtime": 5.675000000000001e-06,
+        "pct_cumtime": 48.056567025150315
+      },
+      {
+        "func": "find_Divisor",
+        "file": "Mbpp_339.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.8860000000000006e-06,
+        "cumtime": 3.8860000000000006e-06,
+        "pct_cumtime": 32.90710475061394
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_339.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.923e-06,
+        "cumtime": 1.1809e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Divisor",
+        "file": "Mbpp_339.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.8860000000000006e-06,
+        "cumtime": 3.8860000000000006e-06,
+        "pct_cumtime": 32.90710475061394
+      }
+    ]
+  }
+]

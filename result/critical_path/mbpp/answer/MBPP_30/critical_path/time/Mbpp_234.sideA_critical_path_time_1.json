@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_234.py",
+    "total_cumtime_hint": 1.2261e-05,
+    "total_tottime_sum_topk": 1.8584000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_234.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.122000000000001e-06,
+        "cumtime": 1.2261e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.323e-06,
+        "cumtime": 6.323e-06,
+        "pct_cumtime": 51.57001875866569
+      },
+      {
+        "func": "volume_cube",
+        "file": "Mbpp_234.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.1390000000000005e-06,
+        "cumtime": 4.1390000000000005e-06,
+        "pct_cumtime": 33.75744229671316
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_234.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.122000000000001e-06,
+        "cumtime": 1.2261e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "volume_cube",
+        "file": "Mbpp_234.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.1390000000000005e-06,
+        "cumtime": 4.1390000000000005e-06,
+        "pct_cumtime": 33.75744229671316
+      }
+    ]
+  }
+]

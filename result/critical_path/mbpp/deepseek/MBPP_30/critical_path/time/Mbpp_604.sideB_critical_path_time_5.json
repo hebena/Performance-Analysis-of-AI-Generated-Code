@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_604.py",
+    "total_cumtime_hint": 6.1976e-05,
+    "total_tottime_sum_topk": 6.7661e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_604.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1071000000000001e-05,
+        "cumtime": 6.1976e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "reverse_words",
+        "file": "Mbpp_604.py",
+        "line": 9,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.9176000000000003e-05,
+        "cumtime": 5.0905e-05,
+        "pct_cumtime": 82.13663353556215
+      },
+      {
+        "func": "<method 'split' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.893000000000001e-06,
+        "cumtime": 8.893000000000001e-06,
+        "pct_cumtime": 14.349102878533627
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.728000000000001e-06,
+        "cumtime": 7.728000000000001e-06,
+        "pct_cumtime": 12.46934297147283
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.685000000000001e-06,
+        "cumtime": 5.685000000000001e-06,
+        "pct_cumtime": 9.17290564089325
+      },
+      {
+        "func": "<method 'reverse' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.108e-06,
+        "cumtime": 5.108e-06,
+        "pct_cumtime": 8.241900090357557
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_604.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1071000000000001e-05,
+        "cumtime": 6.1976e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "reverse_words",
+        "file": "Mbpp_604.py",
+        "line": 9,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.9176000000000003e-05,
+        "cumtime": 5.0905e-05,
+        "pct_cumtime": 82.13663353556215
+      }
+    ]
+  }
+]

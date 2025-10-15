@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_656.py",
+    "total_cumtime_hint": 0.000154978,
+    "total_tottime_sum_topk": 0.00016109500000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_656.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5162000000000002e-05,
+        "cumtime": 0.000154978,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Min_Sum",
+        "file": "Mbpp_656.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.0406000000000006e-05,
+        "cumtime": 0.00013981600000000002,
+        "pct_cumtime": 90.2166759152912
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.1585e-05,
+        "cumtime": 8.3763e-05,
+        "pct_cumtime": 54.048316535250166
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_656.py",
+        "line": 7,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 3.8022e-05,
+        "cumtime": 5.2178e-05,
+        "pct_cumtime": 33.66800449096001
+      },
+      {
+        "func": "<method 'sort' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.5647e-05,
+        "cumtime": 1.5647e-05,
+        "pct_cumtime": 10.096271728890553
+      },
+      {
+        "func": "<built-in method builtins.abs>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 1.4156000000000001e-05,
+        "cumtime": 1.4156000000000001e-05,
+        "pct_cumtime": 9.134199692859632
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.117e-06,
+        "cumtime": 6.117e-06,
+        "pct_cumtime": 3.94701183393772
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_656.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5162000000000002e-05,
+        "cumtime": 0.000154978,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Min_Sum",
+        "file": "Mbpp_656.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.0406000000000006e-05,
+        "cumtime": 0.00013981600000000002,
+        "pct_cumtime": 90.2166759152912
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_656.py",
+        "line": 7,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 3.8022e-05,
+        "cumtime": 5.2178e-05,
+        "pct_cumtime": 33.66800449096001
+      }
+    ]
+  }
+]

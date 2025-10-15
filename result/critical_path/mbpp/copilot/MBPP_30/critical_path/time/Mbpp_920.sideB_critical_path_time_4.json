@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_920.py",
+    "total_cumtime_hint": 0.000286743,
+    "total_tottime_sum_topk": 0.000293254,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_920.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3774e-05,
+        "cumtime": 0.000286743,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_tuple",
+        "file": "Mbpp_920.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00014354800000000002,
+        "cumtime": 0.000272969,
+        "pct_cumtime": 95.19639537843993
+      },
+      {
+        "func": "<built-in method builtins.all>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 6.920300000000001e-05,
+        "cumtime": 0.00011045500000000001,
+        "pct_cumtime": 38.52055673547393
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_920.py",
+        "line": 6,
+        "calls_primitive": 780,
+        "calls_total": 780,
+        "tottime": 4.1252000000000004e-05,
+        "cumtime": 4.1252000000000004e-05,
+        "pct_cumtime": 14.386401760461458
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 1.8966e-05,
+        "cumtime": 1.8966e-05,
+        "pct_cumtime": 6.614285265900127
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.511e-06,
+        "cumtime": 6.511e-06,
+        "pct_cumtime": 2.270674436690695
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_920.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3774e-05,
+        "cumtime": 0.000286743,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_tuple",
+        "file": "Mbpp_920.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00014354800000000002,
+        "cumtime": 0.000272969,
+        "pct_cumtime": 95.19639537843993
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_920.py",
+        "line": 6,
+        "calls_primitive": 780,
+        "calls_total": 780,
+        "tottime": 4.1252000000000004e-05,
+        "cumtime": 4.1252000000000004e-05,
+        "pct_cumtime": 14.386401760461458
+      }
+    ]
+  }
+]

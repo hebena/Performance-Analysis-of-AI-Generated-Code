@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_240.py",
+    "total_cumtime_hint": 0.000639014,
+    "total_tottime_sum_topk": 0.000648858,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_240.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000499951,
+        "cumtime": 0.000639014,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "replace_list",
+        "file": "Mbpp_240.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.641000000000001e-06,
+        "cumtime": 0.000139063,
+        "pct_cumtime": 21.762121017692884
+      },
+      {
+        "func": "<method 'extend' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00012869000000000002,
+        "cumtime": 0.00012869000000000002,
+        "pct_cumtime": 20.138838898678276
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.844000000000001e-06,
+        "cumtime": 9.844000000000001e-06,
+        "pct_cumtime": 1.5404983302400261
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.7e-07,
+        "cumtime": 3.7e-07,
+        "pct_cumtime": 0.057901704813979035
+      },
+      {
+        "func": "<method 'pop' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.6200000000000004e-07,
+        "cumtime": 3.6200000000000004e-07,
+        "pct_cumtime": 0.056649776061244356
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_240.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000499951,
+        "cumtime": 0.000639014,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "replace_list",
+        "file": "Mbpp_240.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.641000000000001e-06,
+        "cumtime": 0.000139063,
+        "pct_cumtime": 21.762121017692884
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_562.py",
+    "total_cumtime_hint": 0.00018852200000000002,
+    "total_tottime_sum_topk": 0.00019433900000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_562.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5755e-05,
+        "cumtime": 0.00018852200000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "Find_Max_Length",
+        "file": "Mbpp_562.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00011665900000000001,
+        "cumtime": 0.00017276700000000002,
+        "pct_cumtime": 91.64288518050944
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1470,
+        "calls_total": 1470,
+        "tottime": 5.6108000000000006e-05,
+        "cumtime": 5.6108000000000006e-05,
+        "pct_cumtime": 29.762043687208916
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.817e-06,
+        "cumtime": 5.817e-06,
+        "pct_cumtime": 3.0855815236418027
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_562.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5755e-05,
+        "cumtime": 0.00018852200000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "Find_Max_Length",
+        "file": "Mbpp_562.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00011665900000000001,
+        "cumtime": 0.00017276700000000002,
+        "pct_cumtime": 91.64288518050944
+      }
+    ]
+  }
+]

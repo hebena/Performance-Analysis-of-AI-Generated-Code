@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_274.py",
+    "total_cumtime_hint": 0.000107232,
+    "total_tottime_sum_topk": 0.00011355600000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_274.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0784e-05,
+        "cumtime": 0.000107232,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "even_binomial_Coeff_Sum",
+        "file": "Mbpp_274.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.1137e-05,
+        "cumtime": 9.644800000000001e-05,
+        "pct_cumtime": 89.94330050731125
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.8373e-05,
+        "cumtime": 7.531100000000001e-05,
+        "pct_cumtime": 70.23183378096091
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_274.py",
+        "line": 6,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 3.2469000000000004e-05,
+        "cumtime": 4.6938000000000004e-05,
+        "pct_cumtime": 43.77238137869293
+      },
+      {
+        "func": "<built-in method math.comb>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.4469000000000002e-05,
+        "cumtime": 1.4469000000000002e-05,
+        "pct_cumtime": 13.493173679498657
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.324000000000001e-06,
+        "cumtime": 6.324000000000001e-06,
+        "pct_cumtime": 5.897493285586393
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_274.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0784e-05,
+        "cumtime": 0.000107232,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "even_binomial_Coeff_Sum",
+        "file": "Mbpp_274.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.1137e-05,
+        "cumtime": 9.644800000000001e-05,
+        "pct_cumtime": 89.94330050731125
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_274.py",
+        "line": 6,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 3.2469000000000004e-05,
+        "cumtime": 4.6938000000000004e-05,
+        "pct_cumtime": 43.77238137869293
+      }
+    ]
+  }
+]

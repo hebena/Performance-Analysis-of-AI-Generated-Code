@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_604.py",
+    "total_cumtime_hint": 5.5931000000000004e-05,
+    "total_tottime_sum_topk": 6.1882e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_604.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.622e-06,
+        "cumtime": 5.5931000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "reverse_words",
+        "file": "Mbpp_604.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.6402000000000002e-05,
+        "cumtime": 4.6309e-05,
+        "pct_cumtime": 82.7966601705673
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1152000000000001e-05,
+        "cumtime": 1.1152000000000001e-05,
+        "pct_cumtime": 19.93885322987252
+      },
+      {
+        "func": "<method 'split' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.755e-06,
+        "cumtime": 8.755e-06,
+        "pct_cumtime": 15.653215569183457
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.951e-06,
+        "cumtime": 5.951e-06,
+        "pct_cumtime": 10.639895585632297
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_604.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.622e-06,
+        "cumtime": 5.5931000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "reverse_words",
+        "file": "Mbpp_604.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.6402000000000002e-05,
+        "cumtime": 4.6309e-05,
+        "pct_cumtime": 82.7966601705673
+      }
+    ]
+  }
+]

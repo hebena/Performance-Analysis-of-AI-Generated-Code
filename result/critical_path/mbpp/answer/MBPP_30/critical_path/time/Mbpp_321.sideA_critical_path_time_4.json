@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_321.py",
+    "total_cumtime_hint": 9.9691e-05,
+    "total_tottime_sum_topk": 0.00010508400000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_321.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.141000000000001e-06,
+        "cumtime": 9.9691e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_demlo",
+        "file": "Mbpp_321.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.700500000000001e-05,
+        "cumtime": 9.055e-05,
+        "pct_cumtime": 90.83066676028929
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.393000000000001e-06,
+        "cumtime": 5.393000000000001e-06,
+        "pct_cumtime": 5.4097160225095555
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.5450000000000004e-06,
+        "cumtime": 3.5450000000000004e-06,
+        "pct_cumtime": 3.555988002929051
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_321.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.141000000000001e-06,
+        "cumtime": 9.9691e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_demlo",
+        "file": "Mbpp_321.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.700500000000001e-05,
+        "cumtime": 9.055e-05,
+        "pct_cumtime": 90.83066676028929
+      }
+    ]
+  }
+]

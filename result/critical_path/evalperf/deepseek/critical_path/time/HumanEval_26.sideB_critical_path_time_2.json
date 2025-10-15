@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_26.py",
+    "total_cumtime_hint": 16.373610979000002,
+    "total_tottime_sum_topk": 16.37362802,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_26.py",
+        "line": 2,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00027199200000000003,
+        "cumtime": 16.373610979000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_duplicates",
+        "file": "HumanEval_26.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.010897647,
+        "cumtime": 16.373338987,
+        "pct_cumtime": 99.99833883924352
+      },
+      {
+        "func": "<method 'count' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 65536,
+        "calls_total": 65536,
+        "tottime": 16.36244134,
+        "cumtime": 16.36244134,
+        "pct_cumtime": 99.93178267753932
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.7041e-05,
+        "cumtime": 1.7041e-05,
+        "pct_cumtime": 0.00010407600389343535
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_26.py",
+        "line": 2,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00027199200000000003,
+        "cumtime": 16.373610979000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_duplicates",
+        "file": "HumanEval_26.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.010897647,
+        "cumtime": 16.373338987,
+        "pct_cumtime": 99.99833883924352
+      }
+    ]
+  }
+]

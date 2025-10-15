@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_106.py",
+    "total_cumtime_hint": 0.0001752,
+    "total_tottime_sum_topk": 0.00018107800000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_106.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.7054e-05,
+        "cumtime": 0.0001752,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "f",
+        "file": "HumanEval_106.py",
+        "line": 1,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 0.00010839700000000001,
+        "cumtime": 0.00015814600000000001,
+        "pct_cumtime": 90.26598173515983
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 480,
+        "calls_total": 480,
+        "tottime": 2.8994e-05,
+        "cumtime": 2.8994e-05,
+        "pct_cumtime": 16.549086757990867
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 2.0755e-05,
+        "cumtime": 2.0755e-05,
+        "pct_cumtime": 11.846461187214611
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.878e-06,
+        "cumtime": 5.878e-06,
+        "pct_cumtime": 3.3550228310502286
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_106.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.7054e-05,
+        "cumtime": 0.0001752,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "f",
+        "file": "HumanEval_106.py",
+        "line": 1,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 0.00010839700000000001,
+        "cumtime": 0.00015814600000000001,
+        "pct_cumtime": 90.26598173515983
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_175.py",
+    "total_cumtime_hint": 0.000117193,
+    "total_tottime_sum_topk": 0.000122957,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_175.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1264000000000001e-05,
+        "cumtime": 0.000117193,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_valid_parenthese",
+        "file": "Mbpp_175.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.013100000000001e-05,
+        "cumtime": 0.00010592900000000001,
+        "pct_cumtime": 90.38850443285862
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 1.327e-05,
+        "cumtime": 1.327e-05,
+        "pct_cumtime": 11.323201897724267
+      },
+      {
+        "func": "<method 'pop' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.1937000000000001e-05,
+        "cumtime": 1.1937000000000001e-05,
+        "pct_cumtime": 10.18576194823923
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 1.0591e-05,
+        "cumtime": 1.0591e-05,
+        "pct_cumtime": 9.037229186043536
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.764e-06,
+        "cumtime": 5.764e-06,
+        "pct_cumtime": 4.918382497248129
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_175.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1264000000000001e-05,
+        "cumtime": 0.000117193,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_valid_parenthese",
+        "file": "Mbpp_175.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.013100000000001e-05,
+        "cumtime": 0.00010592900000000001,
+        "pct_cumtime": 90.38850443285862
+      }
+    ]
+  }
+]

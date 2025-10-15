@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_72.py",
+    "total_cumtime_hint": 0.00013216600000000002,
+    "total_tottime_sum_topk": 0.000138188,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_72.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.516e-06,
+        "cumtime": 0.00013216600000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "dif_Square",
+        "file": "Mbpp_72.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00012265,
+        "cumtime": 0.00012265,
+        "pct_cumtime": 92.7999636820362
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.022e-06,
+        "cumtime": 6.022e-06,
+        "pct_cumtime": 4.556391204999772
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_72.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.516e-06,
+        "cumtime": 0.00013216600000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "dif_Square",
+        "file": "Mbpp_72.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00012265,
+        "cumtime": 0.00012265,
+        "pct_cumtime": 92.7999636820362
+      }
+    ]
+  }
+]

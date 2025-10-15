@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_97.py",
+    "total_cumtime_hint": 0.002527347,
+    "total_tottime_sum_topk": 0.002534555,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_97.py",
+        "line": 33,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.8544e-05,
+        "cumtime": 0.002527347,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "frequency_lists",
+        "file": "Mbpp_97.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.001665564,
+        "cumtime": 0.002508803,
+        "pct_cumtime": 99.26626616764536
+      },
+      {
+        "func": "<method 'keys' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 16384,
+        "calls_total": 16384,
+        "tottime": 0.0008432390000000001,
+        "cumtime": 0.0008432390000000001,
+        "pct_cumtime": 33.36459140751151
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.208e-06,
+        "cumtime": 7.208e-06,
+        "pct_cumtime": 0.285200251489012
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_97.py",
+        "line": 33,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.8544e-05,
+        "cumtime": 0.002527347,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "frequency_lists",
+        "file": "Mbpp_97.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.001665564,
+        "cumtime": 0.002508803,
+        "pct_cumtime": 99.26626616764536
+      }
+    ]
+  }
+]

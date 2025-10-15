@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_527.py",
+    "total_cumtime_hint": 0.00013487200000000002,
+    "total_tottime_sum_topk": 0.000140839,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_527.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2907e-05,
+        "cumtime": 0.00013487200000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_pairs_count",
+        "file": "Mbpp_527.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.8677e-05,
+        "cumtime": 0.000121965,
+        "pct_cumtime": 90.4301856575123
+      },
+      {
+        "func": "<method 'get' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 780,
+        "calls_total": 780,
+        "tottime": 4.3288e-05,
+        "cumtime": 4.3288e-05,
+        "pct_cumtime": 32.09561658461356
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.967000000000001e-06,
+        "cumtime": 5.967000000000001e-06,
+        "pct_cumtime": 4.4241947920991755
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_527.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2907e-05,
+        "cumtime": 0.00013487200000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_pairs_count",
+        "file": "Mbpp_527.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.8677e-05,
+        "cumtime": 0.000121965,
+        "pct_cumtime": 90.4301856575123
+      }
+    ]
+  }
+]

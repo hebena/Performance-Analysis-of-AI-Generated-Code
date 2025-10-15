@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_51.py",
+    "total_cumtime_hint": 0.001174834,
+    "total_tottime_sum_topk": 0.001182431,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_51.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.030000000000001e-07,
+        "cumtime": 0.001174834,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_vowels",
+        "file": "HumanEval_51.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.317000000000001e-06,
+        "cumtime": 0.001174031,
+        "pct_cumtime": 99.93164991820122
+      },
+      {
+        "func": "<method 'replace' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 10,
+        "calls_total": 10,
+        "tottime": 0.001167714,
+        "cumtime": 0.001167714,
+        "pct_cumtime": 99.39395693349017
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.597e-06,
+        "cumtime": 7.597e-06,
+        "pct_cumtime": 0.6466445472296513
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_51.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.030000000000001e-07,
+        "cumtime": 0.001174834,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_vowels",
+        "file": "HumanEval_51.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.317000000000001e-06,
+        "cumtime": 0.001174031,
+        "pct_cumtime": 99.93164991820122
+      }
+    ]
+  }
+]

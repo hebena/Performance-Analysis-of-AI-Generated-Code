@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_547.py",
+    "total_cumtime_hint": 0.00022662200000000003,
+    "total_tottime_sum_topk": 0.00023293900000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_547.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1145000000000001e-05,
+        "cumtime": 0.00022662200000000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "Total_Hamming_Distance",
+        "file": "Mbpp_547.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4533e-05,
+        "cumtime": 0.00021547700000000002,
+        "pct_cumtime": 95.08211912347433
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.3867e-05,
+        "cumtime": 0.00019094400000000002,
+        "pct_cumtime": 84.25660350716171
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_547.py",
+        "line": 8,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 4.7097e-05,
+        "cumtime": 0.00015707700000000001,
+        "pct_cumtime": 69.31233507779474
+      },
+      {
+        "func": "hamming",
+        "file": "Mbpp_547.py",
+        "line": 6,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 6.501300000000001e-05,
+        "cumtime": 0.00010998,
+        "pct_cumtime": 48.53015152986029
+      },
+      {
+        "func": "<method 'count' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 2.6985000000000003e-05,
+        "cumtime": 2.6985000000000003e-05,
+        "pct_cumtime": 11.907493535490818
+      },
+      {
+        "func": "<built-in method builtins.bin>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 1.7982e-05,
+        "cumtime": 1.7982e-05,
+        "pct_cumtime": 7.934798916257027
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.317000000000001e-06,
+        "cumtime": 6.317000000000001e-06,
+        "pct_cumtime": 2.787461058502705
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_547.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1145000000000001e-05,
+        "cumtime": 0.00022662200000000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "Total_Hamming_Distance",
+        "file": "Mbpp_547.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4533e-05,
+        "cumtime": 0.00021547700000000002,
+        "pct_cumtime": 95.08211912347433
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_547.py",
+        "line": 8,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 4.7097e-05,
+        "cumtime": 0.00015707700000000001,
+        "pct_cumtime": 69.31233507779474
+      },
+      {
+        "func": "hamming",
+        "file": "Mbpp_547.py",
+        "line": 6,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 6.501300000000001e-05,
+        "cumtime": 0.00010998,
+        "pct_cumtime": 48.53015152986029
+      }
+    ]
+  }
+]

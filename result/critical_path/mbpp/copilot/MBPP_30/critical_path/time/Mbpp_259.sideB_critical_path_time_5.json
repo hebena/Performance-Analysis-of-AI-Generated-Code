@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_259.py",
+    "total_cumtime_hint": 0.00042938300000000003,
+    "total_tottime_sum_topk": 0.000435537,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_259.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.9477e-05,
+        "cumtime": 0.00042938300000000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "maximize_elements",
+        "file": "Mbpp_259.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000225619,
+        "cumtime": 0.00040990600000000003,
+        "pct_cumtime": 95.4639564211904
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_259.py",
+        "line": 6,
+        "calls_primitive": 1080,
+        "calls_total": 1080,
+        "tottime": 9.927900000000001e-05,
+        "cumtime": 0.000138975,
+        "pct_cumtime": 32.36620918853331
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 720,
+        "calls_total": 720,
+        "tottime": 3.9696e-05,
+        "cumtime": 3.9696e-05,
+        "pct_cumtime": 9.244893253808371
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 2.5429e-05,
+        "cumtime": 2.5429e-05,
+        "pct_cumtime": 5.922218625329833
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 1.9883000000000003e-05,
+        "cumtime": 1.9883000000000003e-05,
+        "pct_cumtime": 4.630597857856507
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.154000000000001e-06,
+        "cumtime": 6.154000000000001e-06,
+        "pct_cumtime": 1.4332192937307717
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_259.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.9477e-05,
+        "cumtime": 0.00042938300000000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "maximize_elements",
+        "file": "Mbpp_259.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000225619,
+        "cumtime": 0.00040990600000000003,
+        "pct_cumtime": 95.4639564211904
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_259.py",
+        "line": 6,
+        "calls_primitive": 1080,
+        "calls_total": 1080,
+        "tottime": 9.927900000000001e-05,
+        "cumtime": 0.000138975,
+        "pct_cumtime": 32.36620918853331
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_241.py",
+    "total_cumtime_hint": 0.0007897840000000001,
+    "total_tottime_sum_topk": 0.00079644,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_241.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.7923e-05,
+        "cumtime": 0.0007897840000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "array_3d",
+        "file": "Mbpp_241.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000457191,
+        "cumtime": 0.000741861,
+        "pct_cumtime": 93.9321384074633
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 5340,
+        "calls_total": 5340,
+        "tottime": 0.00028467,
+        "cumtime": 0.00028467,
+        "pct_cumtime": 36.04403229237361
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.656e-06,
+        "cumtime": 6.656e-06,
+        "pct_cumtime": 0.8427620716550347
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_241.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.7923e-05,
+        "cumtime": 0.0007897840000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "array_3d",
+        "file": "Mbpp_241.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000457191,
+        "cumtime": 0.000741861,
+        "pct_cumtime": 93.9321384074633
+      }
+    ]
+  }
+]

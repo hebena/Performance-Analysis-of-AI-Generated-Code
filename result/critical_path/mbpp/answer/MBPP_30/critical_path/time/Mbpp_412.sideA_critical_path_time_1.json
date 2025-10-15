@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_412.py",
+    "total_cumtime_hint": 3.7357e-05,
+    "total_tottime_sum_topk": 4.3139e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_412.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2576000000000001e-05,
+        "cumtime": 3.7357e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_odd",
+        "file": "Mbpp_412.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.7901e-05,
+        "cumtime": 2.4781000000000002e-05,
+        "pct_cumtime": 66.33562652247237
+      },
+      {
+        "func": "<method 'remove' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.88e-06,
+        "cumtime": 6.88e-06,
+        "pct_cumtime": 18.416896431726315
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.782000000000001e-06,
+        "cumtime": 5.782000000000001e-06,
+        "pct_cumtime": 15.477688251197902
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_412.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2576000000000001e-05,
+        "cumtime": 3.7357e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_odd",
+        "file": "Mbpp_412.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.7901e-05,
+        "cumtime": 2.4781000000000002e-05,
+        "pct_cumtime": 66.33562652247237
+      }
+    ]
+  }
+]

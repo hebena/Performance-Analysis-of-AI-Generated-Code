@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_367.py",
+    "total_cumtime_hint": 0.000420943,
+    "total_tottime_sum_topk": 0.00042671100000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_367.py",
+        "line": 44,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0292e-05,
+        "cumtime": 0.000420943,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_tree_balanced",
+        "file": "Mbpp_367.py",
+        "line": 16,
+        "calls_primitive": 90,
+        "calls_total": 510,
+        "tottime": 0.000137625,
+        "cumtime": 0.00041065100000000005,
+        "pct_cumtime": 97.55501338661054
+      },
+      {
+        "func": "height",
+        "file": "Mbpp_367.py",
+        "line": 11,
+        "calls_primitive": 540,
+        "calls_total": 1800,
+        "tottime": 0.00022961700000000002,
+        "cumtime": 0.000261107,
+        "pct_cumtime": 62.029063317361256
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 630,
+        "calls_total": 630,
+        "tottime": 3.1490000000000005e-05,
+        "cumtime": 3.1490000000000005e-05,
+        "pct_cumtime": 7.480822819241562
+      },
+      {
+        "func": "<built-in method builtins.abs>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.1919e-05,
+        "cumtime": 1.1919e-05,
+        "pct_cumtime": 2.8314997517478613
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.7680000000000005e-06,
+        "cumtime": 5.7680000000000005e-06,
+        "pct_cumtime": 1.3702567806092514
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_367.py",
+        "line": 44,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0292e-05,
+        "cumtime": 0.000420943,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_tree_balanced",
+        "file": "Mbpp_367.py",
+        "line": 16,
+        "calls_primitive": 90,
+        "calls_total": 510,
+        "tottime": 0.000137625,
+        "cumtime": 0.00041065100000000005,
+        "pct_cumtime": 97.55501338661054
+      },
+      {
+        "func": "height",
+        "file": "Mbpp_367.py",
+        "line": 11,
+        "calls_primitive": 540,
+        "calls_total": 1800,
+        "tottime": 0.00022961700000000002,
+        "cumtime": 0.000261107,
+        "pct_cumtime": 62.029063317361256
+      }
+    ]
+  }
+]

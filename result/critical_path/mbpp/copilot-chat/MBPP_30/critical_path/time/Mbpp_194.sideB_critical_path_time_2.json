@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_194.py",
+    "total_cumtime_hint": 1.9354e-05,
+    "total_tottime_sum_topk": 2.5307e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_194.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.653e-06,
+        "cumtime": 1.9354e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "octal_To_Decimal",
+        "file": "Mbpp_194.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0701000000000001e-05,
+        "cumtime": 1.0701000000000001e-05,
+        "pct_cumtime": 55.290895938824015
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.9530000000000004e-06,
+        "cumtime": 5.9530000000000004e-06,
+        "pct_cumtime": 30.75849953497985
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_194.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.653e-06,
+        "cumtime": 1.9354e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "octal_To_Decimal",
+        "file": "Mbpp_194.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0701000000000001e-05,
+        "cumtime": 1.0701000000000001e-05,
+        "pct_cumtime": 55.290895938824015
+      }
+    ]
+  }
+]

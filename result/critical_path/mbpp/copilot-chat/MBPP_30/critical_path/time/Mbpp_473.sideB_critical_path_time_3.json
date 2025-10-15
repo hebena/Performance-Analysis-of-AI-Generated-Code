@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_473.py",
+    "total_cumtime_hint": 0.000279063,
+    "total_tottime_sum_topk": 0.00028484800000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_473.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.5771e-05,
+        "cumtime": 0.000279063,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "tuple_intersection",
+        "file": "Mbpp_473.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.4024e-05,
+        "cumtime": 0.000253292,
+        "pct_cumtime": 90.76516772198391
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_473.py",
+        "line": 5,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 5.1676000000000005e-05,
+        "cumtime": 8.0272e-05,
+        "pct_cumtime": 28.764830880482183
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_473.py",
+        "line": 6,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 5.0294e-05,
+        "cumtime": 7.8996e-05,
+        "pct_cumtime": 28.307586458971628
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 720,
+        "calls_total": 720,
+        "tottime": 5.7298000000000006e-05,
+        "cumtime": 5.7298000000000006e-05,
+        "pct_cumtime": 20.532281241153434
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.7850000000000005e-06,
+        "cumtime": 5.7850000000000005e-06,
+        "pct_cumtime": 2.0730086037919753
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_473.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.5771e-05,
+        "cumtime": 0.000279063,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "tuple_intersection",
+        "file": "Mbpp_473.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.4024e-05,
+        "cumtime": 0.000253292,
+        "pct_cumtime": 90.76516772198391
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_473.py",
+        "line": 5,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 5.1676000000000005e-05,
+        "cumtime": 8.0272e-05,
+        "pct_cumtime": 28.764830880482183
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_473.py",
+        "line": 6,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 5.0294e-05,
+        "cumtime": 7.8996e-05,
+        "pct_cumtime": 28.307586458971628
+      }
+    ]
+  }
+]

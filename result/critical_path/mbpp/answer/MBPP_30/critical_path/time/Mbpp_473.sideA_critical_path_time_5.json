@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_473.py",
+    "total_cumtime_hint": 0.000179583,
+    "total_tottime_sum_topk": 0.000184986,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_473.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0208e-05,
+        "cumtime": 0.000179583,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "tuple_intersection",
+        "file": "Mbpp_473.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000106513,
+        "cumtime": 0.000159375,
+        "pct_cumtime": 88.74726449608261
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 720,
+        "calls_total": 720,
+        "tottime": 5.2862e-05,
+        "cumtime": 5.2862e-05,
+        "pct_cumtime": 29.43597111085125
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.403000000000001e-06,
+        "cumtime": 5.403000000000001e-06,
+        "pct_cumtime": 3.0086366749636664
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_473.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0208e-05,
+        "cumtime": 0.000179583,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "tuple_intersection",
+        "file": "Mbpp_473.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000106513,
+        "cumtime": 0.000159375,
+        "pct_cumtime": 88.74726449608261
+      }
+    ]
+  }
+]

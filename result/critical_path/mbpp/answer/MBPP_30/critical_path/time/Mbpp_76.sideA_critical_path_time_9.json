@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_76.py",
+    "total_cumtime_hint": 1.6544e-05,
+    "total_tottime_sum_topk": 2.1898e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_76.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.068e-06,
+        "cumtime": 1.6544e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Squares",
+        "file": "Mbpp_76.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.476e-06,
+        "cumtime": 7.476e-06,
+        "pct_cumtime": 45.188588007736946
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.354000000000001e-06,
+        "cumtime": 5.354000000000001e-06,
+        "pct_cumtime": 32.362185686653774
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_76.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.068e-06,
+        "cumtime": 1.6544e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Squares",
+        "file": "Mbpp_76.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.476e-06,
+        "cumtime": 7.476e-06,
+        "pct_cumtime": 45.188588007736946
+      }
+    ]
+  }
+]

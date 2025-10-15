@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_451.py",
+    "total_cumtime_hint": 0.001273396,
+    "total_tottime_sum_topk": 0.001284441,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_451.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.78e-06,
+        "cumtime": 0.001273396,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_whitespaces",
+        "file": "Mbpp_451.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.687000000000001e-06,
+        "cumtime": 0.001270616,
+        "pct_cumtime": 99.78168613691264
+      },
+      {
+        "func": "<method 'replace' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.001262476,
+        "cumtime": 0.001262476,
+        "pct_cumtime": 99.14245058096617
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1045e-05,
+        "cumtime": 1.1045e-05,
+        "pct_cumtime": 0.8673656898561014
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.5300000000000005e-07,
+        "cumtime": 4.5300000000000005e-07,
+        "pct_cumtime": 0.03557416545991978
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_451.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.78e-06,
+        "cumtime": 0.001273396,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_whitespaces",
+        "file": "Mbpp_451.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.687000000000001e-06,
+        "cumtime": 0.001270616,
+        "pct_cumtime": 99.78168613691264
+      }
+    ]
+  }
+]

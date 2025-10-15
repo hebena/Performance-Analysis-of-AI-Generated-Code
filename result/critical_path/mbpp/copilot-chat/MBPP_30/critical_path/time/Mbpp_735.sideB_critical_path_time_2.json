@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_735.py",
+    "total_cumtime_hint": 0.00011028000000000001,
+    "total_tottime_sum_topk": 0.00011634300000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_735.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1164e-05,
+        "cumtime": 0.00011028000000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "toggle_middle_bits",
+        "file": "Mbpp_735.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.8156000000000004e-05,
+        "cumtime": 9.9116e-05,
+        "pct_cumtime": 89.87667754805948
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.7961000000000002e-05,
+        "cumtime": 4.1487000000000004e-05,
+        "pct_cumtime": 37.61969532100109
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_735.py",
+        "line": 9,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.3526e-05,
+        "cumtime": 1.3526e-05,
+        "pct_cumtime": 12.265143271672107
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.063e-06,
+        "cumtime": 6.063e-06,
+        "pct_cumtime": 5.497823721436344
+      },
+      {
+        "func": "<built-in method builtins.bin>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.994e-06,
+        "cumtime": 4.994e-06,
+        "pct_cumtime": 4.528472977874501
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.479000000000001e-06,
+        "cumtime": 4.479000000000001e-06,
+        "pct_cumtime": 4.0614798694232865
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_735.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1164e-05,
+        "cumtime": 0.00011028000000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "toggle_middle_bits",
+        "file": "Mbpp_735.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.8156000000000004e-05,
+        "cumtime": 9.9116e-05,
+        "pct_cumtime": 89.87667754805948
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_735.py",
+        "line": 9,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.3526e-05,
+        "cumtime": 1.3526e-05,
+        "pct_cumtime": 12.265143271672107
+      }
+    ]
+  }
+]

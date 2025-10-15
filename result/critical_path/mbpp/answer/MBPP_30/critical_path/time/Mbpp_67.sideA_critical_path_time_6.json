@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_67.py",
+    "total_cumtime_hint": 0.002454225,
+    "total_tottime_sum_topk": 0.002459853,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_67.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000170802,
+        "cumtime": 0.002454225,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "bell_number",
+        "file": "Mbpp_67.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.002283423,
+        "cumtime": 0.002283423,
+        "pct_cumtime": 93.04049139748801
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.628e-06,
+        "cumtime": 5.628e-06,
+        "pct_cumtime": 0.22931882773584328
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_67.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000170802,
+        "cumtime": 0.002454225,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "bell_number",
+        "file": "Mbpp_67.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.002283423,
+        "cumtime": 0.002283423,
+        "pct_cumtime": 93.04049139748801
+      }
+    ]
+  }
+]

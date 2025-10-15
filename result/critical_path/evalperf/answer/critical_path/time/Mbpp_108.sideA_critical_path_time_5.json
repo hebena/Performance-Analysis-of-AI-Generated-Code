@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_108.py",
+    "total_cumtime_hint": 0.00044156900000000005,
+    "total_tottime_sum_topk": 0.00044949800000000005,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_108.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.4193e-05,
+        "cumtime": 0.00044156900000000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "merge_sorted_list",
+        "file": "Mbpp_108.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.1222e-05,
+        "cumtime": 0.000377376,
+        "pct_cumtime": 85.46252114618552
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 4,
+        "calls_total": 4,
+        "tottime": 0.000296154,
+        "cumtime": 0.000296154,
+        "pct_cumtime": 67.06856686044537
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.929e-06,
+        "cumtime": 7.929e-06,
+        "pct_cumtime": 1.7956423571401068
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_108.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.4193e-05,
+        "cumtime": 0.00044156900000000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "merge_sorted_list",
+        "file": "Mbpp_108.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.1222e-05,
+        "cumtime": 0.000377376,
+        "pct_cumtime": 85.46252114618552
+      }
+    ]
+  }
+]

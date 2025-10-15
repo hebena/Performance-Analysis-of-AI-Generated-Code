@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_463.py",
+    "total_cumtime_hint": 0.00018122100000000002,
+    "total_tottime_sum_topk": 0.00018734800000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_463.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1733000000000001e-05,
+        "cumtime": 0.00018122100000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_subarray_product",
+        "file": "Mbpp_463.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00010544000000000001,
+        "cumtime": 0.000169488,
+        "pct_cumtime": 93.52558478322048
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 840,
+        "calls_total": 840,
+        "tottime": 4.1759000000000005e-05,
+        "cumtime": 4.1759000000000005e-05,
+        "pct_cumtime": 23.043135177490466
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 2.2289000000000003e-05,
+        "cumtime": 2.2289000000000003e-05,
+        "pct_cumtime": 12.299347205897773
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.127000000000001e-06,
+        "cumtime": 6.127000000000001e-06,
+        "pct_cumtime": 3.3809547458627867
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_463.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1733000000000001e-05,
+        "cumtime": 0.00018122100000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_subarray_product",
+        "file": "Mbpp_463.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00010544000000000001,
+        "cumtime": 0.000169488,
+        "pct_cumtime": 93.52558478322048
+      }
+    ]
+  }
+]

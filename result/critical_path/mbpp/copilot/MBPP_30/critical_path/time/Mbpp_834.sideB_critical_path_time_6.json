@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_834.py",
+    "total_cumtime_hint": 0.00016125900000000002,
+    "total_tottime_sum_topk": 0.000166925,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_834.py",
+        "line": 64,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.5631000000000002e-05,
+        "cumtime": 0.00016125900000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "generate_matrix",
+        "file": "Mbpp_834.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000135628,
+        "cumtime": 0.000135628,
+        "pct_cumtime": 84.10569332564383
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.6660000000000005e-06,
+        "cumtime": 5.6660000000000005e-06,
+        "pct_cumtime": 3.5136023415747335
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_834.py",
+        "line": 64,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.5631000000000002e-05,
+        "cumtime": 0.00016125900000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "generate_matrix",
+        "file": "Mbpp_834.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000135628,
+        "cumtime": 0.000135628,
+        "pct_cumtime": 84.10569332564383
+      }
+    ]
+  }
+]

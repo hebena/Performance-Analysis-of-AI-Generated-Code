@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_251.py",
+    "total_cumtime_hint": 0.016684779,
+    "total_tottime_sum_topk": 0.016697904,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_251.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0005671560000000001,
+        "cumtime": 0.016684779,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "insert_element",
+        "file": "Mbpp_251.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.009202378,
+        "cumtime": 0.016117623,
+        "pct_cumtime": 96.60075809215094
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 131072,
+        "calls_total": 131072,
+        "tottime": 0.006915245,
+        "cumtime": 0.006915245,
+        "pct_cumtime": 41.446428508282914
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3125e-05,
+        "cumtime": 1.3125e-05,
+        "pct_cumtime": 0.07866451212808992
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_251.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0005671560000000001,
+        "cumtime": 0.016684779,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "insert_element",
+        "file": "Mbpp_251.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.009202378,
+        "cumtime": 0.016117623,
+        "pct_cumtime": 96.60075809215094
+      }
+    ]
+  }
+]

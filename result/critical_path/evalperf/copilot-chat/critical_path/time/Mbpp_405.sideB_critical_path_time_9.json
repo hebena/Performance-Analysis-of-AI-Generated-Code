@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_405.py",
+    "total_cumtime_hint": 0.000186934,
+    "total_tottime_sum_topk": 0.00019636,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_405.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.77e-07,
+        "cumtime": 0.000186934,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_tuplex",
+        "file": "Mbpp_405.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000186257,
+        "cumtime": 0.000186257,
+        "pct_cumtime": 99.63784009329495
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.426000000000001e-06,
+        "cumtime": 9.426000000000001e-06,
+        "pct_cumtime": 5.04242138936737
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_405.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.77e-07,
+        "cumtime": 0.000186934,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_tuplex",
+        "file": "Mbpp_405.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000186257,
+        "cumtime": 0.000186257,
+        "pct_cumtime": 99.63784009329495
+      }
+    ]
+  }
+]

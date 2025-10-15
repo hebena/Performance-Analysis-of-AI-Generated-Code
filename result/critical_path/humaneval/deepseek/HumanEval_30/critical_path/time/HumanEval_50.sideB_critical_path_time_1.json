@@ -1,0 +1,152 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_50.py",
+    "total_cumtime_hint": 0.09219318800000001,
+    "total_tottime_sum_topk": 0.08183396100000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_50.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0024643810000000003,
+        "cumtime": 0.09219318800000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 9000,
+        "calls_total": 9000,
+        "tottime": 0.004519371,
+        "cumtime": 0.043489427000000004,
+        "pct_cumtime": 47.17206112885477
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_50.py",
+        "line": 10,
+        "calls_primitive": 48211,
+        "calls_total": 48211,
+        "tottime": 0.005870875,
+        "cumtime": 0.038970056,
+        "pct_cumtime": 42.26999504562094
+      },
+      {
+        "func": "choice",
+        "file": "random.py",
+        "line": 345,
+        "calls_primitive": 45211,
+        "calls_total": 45211,
+        "tottime": 0.012712279,
+        "cumtime": 0.033099181000000005,
+        "pct_cumtime": 35.90198117457442
+      },
+      {
+        "func": "encode_shift",
+        "file": "HumanEval_50.py",
+        "line": 14,
+        "calls_primitive": 3000,
+        "calls_total": 3000,
+        "tottime": 0.013101398,
+        "cumtime": 0.021209802,
+        "pct_cumtime": 23.00582338035647
+      },
+      {
+        "func": "decode_shift",
+        "file": "HumanEval_50.py",
+        "line": 20,
+        "calls_primitive": 3000,
+        "calls_total": 3000,
+        "tottime": 0.012698972000000001,
+        "cumtime": 0.02038024,
+        "pct_cumtime": 22.106015034429657
+      },
+      {
+        "func": "_randbelow_with_getrandbits",
+        "file": "random.py",
+        "line": 245,
+        "calls_primitive": 48211,
+        "calls_total": 48211,
+        "tottime": 0.011439037,
+        "cumtime": 0.017567555000000002,
+        "pct_cumtime": 19.055155137926246
+      },
+      {
+        "func": "<built-in method builtins.ord>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 271266,
+        "calls_total": 271266,
+        "tottime": 0.011048478,
+        "cumtime": 0.011048478,
+        "pct_cumtime": 11.9840502749509
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90422,
+        "calls_total": 90422,
+        "tottime": 0.004124876,
+        "cumtime": 0.004124876,
+        "pct_cumtime": 4.474165705171189
+      },
+      {
+        "func": "<built-in method builtins.chr>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90422,
+        "calls_total": 90422,
+        "tottime": 0.0038542940000000003,
+        "cumtime": 0.0038542940000000003,
+        "pct_cumtime": 4.1806711359195
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_50.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0024643810000000003,
+        "cumtime": 0.09219318800000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_50.py",
+        "line": 10,
+        "calls_primitive": 48211,
+        "calls_total": 48211,
+        "tottime": 0.005870875,
+        "cumtime": 0.038970056,
+        "pct_cumtime": 42.26999504562094
+      },
+      {
+        "func": "encode_shift",
+        "file": "HumanEval_50.py",
+        "line": 14,
+        "calls_primitive": 3000,
+        "calls_total": 3000,
+        "tottime": 0.013101398,
+        "cumtime": 0.021209802,
+        "pct_cumtime": 23.00582338035647
+      },
+      {
+        "func": "decode_shift",
+        "file": "HumanEval_50.py",
+        "line": 20,
+        "calls_primitive": 3000,
+        "calls_total": 3000,
+        "tottime": 0.012698972000000001,
+        "cumtime": 0.02038024,
+        "pct_cumtime": 22.106015034429657
+      }
+    ]
+  }
+]

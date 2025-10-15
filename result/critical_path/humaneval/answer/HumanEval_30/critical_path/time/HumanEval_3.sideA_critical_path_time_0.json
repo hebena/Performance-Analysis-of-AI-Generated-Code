@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_3.py",
+    "total_cumtime_hint": 4.364e-05,
+    "total_tottime_sum_topk": 4.9605000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_3.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.9248000000000003e-05,
+        "cumtime": 4.364e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "below_zero",
+        "file": "HumanEval_3.py",
+        "line": 3,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 2.4392000000000003e-05,
+        "cumtime": 2.4392000000000003e-05,
+        "pct_cumtime": 55.89367552703942
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.9650000000000005e-06,
+        "cumtime": 5.9650000000000005e-06,
+        "pct_cumtime": 13.668652612282312
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_3.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.9248000000000003e-05,
+        "cumtime": 4.364e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "below_zero",
+        "file": "HumanEval_3.py",
+        "line": 3,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 2.4392000000000003e-05,
+        "cumtime": 2.4392000000000003e-05,
+        "pct_cumtime": 55.89367552703942
+      }
+    ]
+  }
+]

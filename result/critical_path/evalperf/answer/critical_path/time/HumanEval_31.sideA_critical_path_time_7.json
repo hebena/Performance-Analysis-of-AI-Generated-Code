@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_31.py",
+    "total_cumtime_hint": 4.4581000000000006e-05,
+    "total_tottime_sum_topk": 5.0436e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_31.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.520000000000001e-07,
+        "cumtime": 4.4581000000000006e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_prime",
+        "file": "HumanEval_31.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.3339e-05,
+        "cumtime": 4.3629000000000005e-05,
+        "pct_cumtime": 97.86456113590991
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.855000000000001e-06,
+        "cumtime": 5.855000000000001e-06,
+        "pct_cumtime": 13.133397635764116
+      },
+      {
+        "func": "<built-in method math.sqrt>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.9000000000000003e-07,
+        "cumtime": 2.9000000000000003e-07,
+        "pct_cumtime": 0.65050133464929
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_31.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.520000000000001e-07,
+        "cumtime": 4.4581000000000006e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_prime",
+        "file": "HumanEval_31.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.3339e-05,
+        "cumtime": 4.3629000000000005e-05,
+        "pct_cumtime": 97.86456113590991
+      }
+    ]
+  }
+]

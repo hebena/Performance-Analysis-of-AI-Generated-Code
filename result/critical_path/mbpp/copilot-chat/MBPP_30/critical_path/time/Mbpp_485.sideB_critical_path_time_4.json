@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_485.py",
+    "total_cumtime_hint": 0.000135944,
+    "total_tottime_sum_topk": 0.00014235000000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_485.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3670000000000001e-05,
+        "cumtime": 0.000135944,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "largest_palindrome",
+        "file": "Mbpp_485.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.0134000000000004e-05,
+        "cumtime": 0.00012227400000000002,
+        "pct_cumtime": 89.94438886600365
+      },
+      {
+        "func": "is_palindrome",
+        "file": "Mbpp_485.py",
+        "line": 6,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 5.4153e-05,
+        "cumtime": 5.4153e-05,
+        "pct_cumtime": 39.83478491143412
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.987e-06,
+        "cumtime": 7.987e-06,
+        "pct_cumtime": 5.875213323133054
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.406e-06,
+        "cumtime": 6.406e-06,
+        "pct_cumtime": 4.712234449479197
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_485.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3670000000000001e-05,
+        "cumtime": 0.000135944,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "largest_palindrome",
+        "file": "Mbpp_485.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.0134000000000004e-05,
+        "cumtime": 0.00012227400000000002,
+        "pct_cumtime": 89.94438886600365
+      },
+      {
+        "func": "is_palindrome",
+        "file": "Mbpp_485.py",
+        "line": 6,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 5.4153e-05,
+        "cumtime": 5.4153e-05,
+        "pct_cumtime": 39.83478491143412
+      }
+    ]
+  }
+]

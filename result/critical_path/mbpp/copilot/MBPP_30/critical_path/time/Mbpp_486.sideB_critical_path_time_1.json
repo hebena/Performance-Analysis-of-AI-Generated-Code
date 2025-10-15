@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_486.py",
+    "total_cumtime_hint": 0.000413444,
+    "total_tottime_sum_topk": 0.000420324,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_486.py",
+        "line": 23,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0419000000000001e-05,
+        "cumtime": 0.000413444,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "binomial_probability",
+        "file": "Mbpp_486.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000165097,
+        "cumtime": 0.00040302500000000005,
+        "pct_cumtime": 97.4799489169029
+      },
+      {
+        "func": "factorial",
+        "file": "Mbpp_486.py",
+        "line": 4,
+        "calls_primitive": 270,
+        "calls_total": 1980,
+        "tottime": 0.00023792800000000002,
+        "cumtime": 0.00023792800000000002,
+        "pct_cumtime": 57.54781784231964
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.88e-06,
+        "cumtime": 6.88e-06,
+        "pct_cumtime": 1.664070587552365
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_486.py",
+        "line": 23,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0419000000000001e-05,
+        "cumtime": 0.000413444,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "binomial_probability",
+        "file": "Mbpp_486.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000165097,
+        "cumtime": 0.00040302500000000005,
+        "pct_cumtime": 97.4799489169029
+      },
+      {
+        "func": "factorial",
+        "file": "Mbpp_486.py",
+        "line": 4,
+        "calls_primitive": 270,
+        "calls_total": 1980,
+        "tottime": 0.00023792800000000002,
+        "cumtime": 0.00023792800000000002,
+        "pct_cumtime": 57.54781784231964
+      }
+    ]
+  }
+]

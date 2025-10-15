@@ -1,0 +1,122 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_299.py",
+    "total_cumtime_hint": 0.000160185,
+    "total_tottime_sum_topk": 0.00016611700000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_299.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5672000000000002e-05,
+        "cumtime": 0.000160185,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_aggregate",
+        "file": "Mbpp_299.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.8922e-05,
+        "cumtime": 0.000144513,
+        "pct_cumtime": 90.21631238880046
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.0491000000000003e-05,
+        "cumtime": 4.2594000000000006e-05,
+        "pct_cumtime": 26.590504728907206
+      },
+      {
+        "func": "_handle_fromlist",
+        "file": "<frozen importlib._bootstrap>",
+        "line": 1390,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.1811000000000002e-05,
+        "cumtime": 3.2997e-05,
+        "pct_cumtime": 20.599307051222027
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_299.py",
+        "line": 9,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.2103e-05,
+        "cumtime": 1.2103e-05,
+        "pct_cumtime": 7.555638792646004
+      },
+      {
+        "func": "<built-in method builtins.hasattr>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.306e-06,
+        "cumtime": 6.306e-06,
+        "pct_cumtime": 3.936698192714674
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.932e-06,
+        "cumtime": 5.932e-06,
+        "pct_cumtime": 3.7032181540094267
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.880000000000001e-06,
+        "cumtime": 4.880000000000001e-06,
+        "pct_cumtime": 3.0464775103786255
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_299.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5672000000000002e-05,
+        "cumtime": 0.000160185,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_aggregate",
+        "file": "Mbpp_299.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.8922e-05,
+        "cumtime": 0.000144513,
+        "pct_cumtime": 90.21631238880046
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_299.py",
+        "line": 9,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.2103e-05,
+        "cumtime": 1.2103e-05,
+        "pct_cumtime": 7.555638792646004
+      }
+    ]
+  }
+]

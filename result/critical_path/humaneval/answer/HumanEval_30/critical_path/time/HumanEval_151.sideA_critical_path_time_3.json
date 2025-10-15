@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_151.py",
+    "total_cumtime_hint": 0.000373599,
+    "total_tottime_sum_topk": 0.000379469,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_151.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000141332,
+        "cumtime": 0.000373599,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "double_the_difference",
+        "file": "HumanEval_151.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 0.00020816700000000001,
+        "cumtime": 0.000226244,
+        "pct_cumtime": 60.55797793891311
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 2.4100000000000003e-05,
+        "cumtime": 2.4100000000000003e-05,
+        "pct_cumtime": 6.450766731174334
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.8700000000000005e-06,
+        "cumtime": 5.8700000000000005e-06,
+        "pct_cumtime": 1.5712033490453667
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_151.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000141332,
+        "cumtime": 0.000373599,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "double_the_difference",
+        "file": "HumanEval_151.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 0.00020816700000000001,
+        "cumtime": 0.000226244,
+        "pct_cumtime": 60.55797793891311
+      }
+    ]
+  }
+]

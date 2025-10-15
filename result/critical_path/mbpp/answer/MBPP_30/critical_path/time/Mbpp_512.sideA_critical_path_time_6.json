@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_512.py",
+    "total_cumtime_hint": 0.00032502100000000004,
+    "total_tottime_sum_topk": 0.00033122800000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_512.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0247e-05,
+        "cumtime": 0.00032502100000000004,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_element_freq",
+        "file": "Mbpp_512.py",
+        "line": 7,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.4252e-05,
+        "cumtime": 0.000304774,
+        "pct_cumtime": 93.77055636405032
+      },
+      {
+        "func": "flatten",
+        "file": "Mbpp_512.py",
+        "line": 1,
+        "calls_primitive": 810,
+        "calls_total": 1350,
+        "tottime": 0.000166262,
+        "cumtime": 0.00021052200000000001,
+        "pct_cumtime": 64.77181474427806
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 900,
+        "calls_total": 900,
+        "tottime": 4.426e-05,
+        "cumtime": 4.426e-05,
+        "pct_cumtime": 13.617581633186775
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.207e-06,
+        "cumtime": 6.207e-06,
+        "pct_cumtime": 1.9097227563757417
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_512.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0247e-05,
+        "cumtime": 0.00032502100000000004,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_element_freq",
+        "file": "Mbpp_512.py",
+        "line": 7,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.4252e-05,
+        "cumtime": 0.000304774,
+        "pct_cumtime": 93.77055636405032
+      },
+      {
+        "func": "flatten",
+        "file": "Mbpp_512.py",
+        "line": 1,
+        "calls_primitive": 810,
+        "calls_total": 1350,
+        "tottime": 0.000166262,
+        "cumtime": 0.00021052200000000001,
+        "pct_cumtime": 64.77181474427806
+      }
+    ]
+  }
+]

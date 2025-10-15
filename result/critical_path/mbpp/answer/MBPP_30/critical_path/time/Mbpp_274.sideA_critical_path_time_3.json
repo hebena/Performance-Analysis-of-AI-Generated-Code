@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_274.py",
+    "total_cumtime_hint": 1.2507e-05,
+    "total_tottime_sum_topk": 1.8169000000000002e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_274.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.302000000000001e-06,
+        "cumtime": 1.2507e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.662e-06,
+        "cumtime": 5.662e-06,
+        "pct_cumtime": 45.27064843687535
+      },
+      {
+        "func": "even_binomial_Coeff_Sum",
+        "file": "Mbpp_274.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.205e-06,
+        "cumtime": 4.205e-06,
+        "pct_cumtime": 33.62117214359959
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_274.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.302000000000001e-06,
+        "cumtime": 1.2507e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "even_binomial_Coeff_Sum",
+        "file": "Mbpp_274.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.205e-06,
+        "cumtime": 4.205e-06,
+        "pct_cumtime": 33.62117214359959
+      }
+    ]
+  }
+]

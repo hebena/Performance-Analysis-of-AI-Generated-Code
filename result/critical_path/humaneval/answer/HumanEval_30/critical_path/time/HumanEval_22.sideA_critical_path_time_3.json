@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_22.py",
+    "total_cumtime_hint": 6.493900000000001e-05,
+    "total_tottime_sum_topk": 7.1332e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_22.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3955000000000001e-05,
+        "cumtime": 6.493900000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "filter_integers",
+        "file": "HumanEval_22.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.3235e-05,
+        "cumtime": 5.0984000000000005e-05,
+        "pct_cumtime": 78.5106022575032
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 1.7749000000000002e-05,
+        "cumtime": 1.7749000000000002e-05,
+        "pct_cumtime": 27.331803692696223
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.3930000000000005e-06,
+        "cumtime": 6.3930000000000005e-06,
+        "pct_cumtime": 9.844623415821001
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_22.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3955000000000001e-05,
+        "cumtime": 6.493900000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "filter_integers",
+        "file": "HumanEval_22.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.3235e-05,
+        "cumtime": 5.0984000000000005e-05,
+        "pct_cumtime": 78.5106022575032
+      }
+    ]
+  }
+]

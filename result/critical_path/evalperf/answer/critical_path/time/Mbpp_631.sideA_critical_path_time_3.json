@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_631.py",
+    "total_cumtime_hint": 0.000502836,
+    "total_tottime_sum_topk": 0.000509715,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_631.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.05e-07,
+        "cumtime": 0.000502836,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "replace_spaces",
+        "file": "Mbpp_631.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.1531e-05,
+        "cumtime": 0.0005019310000000001,
+        "pct_cumtime": 99.82002084178541
+      },
+      {
+        "func": "<method 'replace' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0004804,
+        "cumtime": 0.0004804,
+        "pct_cumtime": 95.53810785226197
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.8790000000000005e-06,
+        "cumtime": 6.8790000000000005e-06,
+        "pct_cumtime": 1.3680404744290386
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_631.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.05e-07,
+        "cumtime": 0.000502836,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "replace_spaces",
+        "file": "Mbpp_631.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.1531e-05,
+        "cumtime": 0.0005019310000000001,
+        "pct_cumtime": 99.82002084178541
+      }
+    ]
+  }
+]

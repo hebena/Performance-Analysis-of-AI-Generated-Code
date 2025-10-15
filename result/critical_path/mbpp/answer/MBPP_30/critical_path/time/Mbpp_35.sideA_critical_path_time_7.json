@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_35.py",
+    "total_cumtime_hint": 1.2326e-05,
+    "total_tottime_sum_topk": 1.8368e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_35.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.414000000000001e-06,
+        "cumtime": 1.2326e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.042000000000001e-06,
+        "cumtime": 6.042000000000001e-06,
+        "pct_cumtime": 49.01833522635081
+      },
+      {
+        "func": "find_rect_num",
+        "file": "Mbpp_35.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.912e-06,
+        "cumtime": 3.912e-06,
+        "pct_cumtime": 31.737790037319485
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_35.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.414000000000001e-06,
+        "cumtime": 1.2326e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_rect_num",
+        "file": "Mbpp_35.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.912e-06,
+        "cumtime": 3.912e-06,
+        "pct_cumtime": 31.737790037319485
+      }
+    ]
+  }
+]

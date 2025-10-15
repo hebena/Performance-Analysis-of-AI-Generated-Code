@@ -1,0 +1,122 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_496.py",
+    "total_cumtime_hint": 0.00017566600000000002,
+    "total_tottime_sum_topk": 0.000181563,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_496.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4821000000000001e-05,
+        "cumtime": 0.00017566600000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "heap_queue_smallest",
+        "file": "Mbpp_496.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.7783000000000002e-05,
+        "cumtime": 0.000160845,
+        "pct_cumtime": 91.56296608336274
+      },
+      {
+        "func": "nsmallest",
+        "file": "heapq.py",
+        "line": 463,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.730100000000001e-05,
+        "cumtime": 0.000143062,
+        "pct_cumtime": 81.43977776006739
+      },
+      {
+        "func": "<built-in method _heapq._heapreplace_max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 150,
+        "calls_total": 150,
+        "tottime": 1.2896000000000002e-05,
+        "cumtime": 1.2896000000000002e-05,
+        "pct_cumtime": 7.341204330946227
+      },
+      {
+        "func": "<method 'sort' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.2088e-05,
+        "cumtime": 1.2088e-05,
+        "pct_cumtime": 6.881240536017214
+      },
+      {
+        "func": "<built-in method _heapq._heapify_max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.980000000000001e-06,
+        "cumtime": 9.980000000000001e-06,
+        "pct_cumtime": 5.681235981920235
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.8970000000000005e-06,
+        "cumtime": 5.8970000000000005e-06,
+        "pct_cumtime": 3.3569387360103833
+      },
+      {
+        "func": "<built-in method builtins.iter>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.8460000000000004e-06,
+        "cumtime": 5.8460000000000004e-06,
+        "pct_cumtime": 3.3279063677661016
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.9510000000000005e-06,
+        "cumtime": 4.9510000000000005e-06,
+        "pct_cumtime": 2.8184167681850782
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_496.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4821000000000001e-05,
+        "cumtime": 0.00017566600000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "heap_queue_smallest",
+        "file": "Mbpp_496.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.7783000000000002e-05,
+        "cumtime": 0.000160845,
+        "pct_cumtime": 91.56296608336274
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_526.py",
+    "total_cumtime_hint": 7.5314e-05,
+    "total_tottime_sum_topk": 8.1011e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_526.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0660000000000001e-05,
+        "cumtime": 7.5314e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "capitalize_first_last_letters",
+        "file": "Mbpp_526.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.1374e-05,
+        "cumtime": 6.465400000000001e-05,
+        "pct_cumtime": 85.84592506041375
+      },
+      {
+        "func": "<method 'title' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.798e-06,
+        "cumtime": 9.798e-06,
+        "pct_cumtime": 13.00953342008126
+      },
+      {
+        "func": "<method 'split' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.33e-06,
+        "cumtime": 7.33e-06,
+        "pct_cumtime": 9.732586238946277
+      },
+      {
+        "func": "<method 'upper' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.1520000000000006e-06,
+        "cumtime": 6.1520000000000006e-06,
+        "pct_cumtime": 8.168468013915076
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.697000000000001e-06,
+        "cumtime": 5.697000000000001e-06,
+        "pct_cumtime": 7.564330668932735
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_526.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0660000000000001e-05,
+        "cumtime": 7.5314e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "capitalize_first_last_letters",
+        "file": "Mbpp_526.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.1374e-05,
+        "cumtime": 6.465400000000001e-05,
+        "pct_cumtime": 85.84592506041375
+      }
+    ]
+  }
+]

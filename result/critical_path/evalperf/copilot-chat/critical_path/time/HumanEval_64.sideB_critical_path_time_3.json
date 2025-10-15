@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_64.py",
+    "total_cumtime_hint": 0.41310996200000005,
+    "total_tottime_sum_topk": 0.41312443000000004,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_64.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.85e-06,
+        "cumtime": 0.41310996200000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "vowels_count",
+        "file": "HumanEval_64.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0106000000000001e-05,
+        "cumtime": 0.413108112,
+        "pct_cumtime": 99.99955217734497
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.23124675200000003,
+        "cumtime": 0.41175544500000005,
+        "pct_cumtime": 99.67211708150481
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_64.py",
+        "line": 16,
+        "calls_primitive": 4194305,
+        "calls_total": 4194305,
+        "tottime": 0.180508693,
+        "cumtime": 0.180508693,
+        "pct_cumtime": 43.6950714347576
+      },
+      {
+        "func": "<method 'lower' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0013425610000000001,
+        "cumtime": 0.0013425610000000001,
+        "pct_cumtime": 0.32498877381223745
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4468000000000001e-05,
+        "cumtime": 1.4468000000000001e-05,
+        "pct_cumtime": 0.0035022152285933013
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_64.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.85e-06,
+        "cumtime": 0.41310996200000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "vowels_count",
+        "file": "HumanEval_64.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0106000000000001e-05,
+        "cumtime": 0.413108112,
+        "pct_cumtime": 99.99955217734497
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_64.py",
+        "line": 16,
+        "calls_primitive": 4194305,
+        "calls_total": 4194305,
+        "tottime": 0.180508693,
+        "cumtime": 0.180508693,
+        "pct_cumtime": 43.6950714347576
+      }
+    ]
+  }
+]

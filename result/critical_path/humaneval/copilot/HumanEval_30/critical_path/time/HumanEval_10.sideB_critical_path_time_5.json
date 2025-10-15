@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_10.py",
+    "total_cumtime_hint": 8.0121e-05,
+    "total_tottime_sum_topk": 8.6295e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_10.py",
+        "line": 25,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4924000000000001e-05,
+        "cumtime": 8.0121e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "make_palindrome",
+        "file": "HumanEval_10.py",
+        "line": 5,
+        "calls_primitive": 150,
+        "calls_total": 150,
+        "tottime": 4.355e-05,
+        "cumtime": 6.5197e-05,
+        "pct_cumtime": 81.37317307572297
+      },
+      {
+        "func": "is_palindrome",
+        "file": "HumanEval_10.py",
+        "line": 1,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 2.1647e-05,
+        "cumtime": 2.1647e-05,
+        "pct_cumtime": 27.01788544825951
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.1740000000000005e-06,
+        "cumtime": 6.1740000000000005e-06,
+        "pct_cumtime": 7.705844909574269
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_10.py",
+        "line": 25,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4924000000000001e-05,
+        "cumtime": 8.0121e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "make_palindrome",
+        "file": "HumanEval_10.py",
+        "line": 5,
+        "calls_primitive": 150,
+        "calls_total": 150,
+        "tottime": 4.355e-05,
+        "cumtime": 6.5197e-05,
+        "pct_cumtime": 81.37317307572297
+      },
+      {
+        "func": "is_palindrome",
+        "file": "HumanEval_10.py",
+        "line": 1,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 2.1647e-05,
+        "cumtime": 2.1647e-05,
+        "pct_cumtime": 27.01788544825951
+      }
+    ]
+  }
+]

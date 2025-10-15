@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_110.py",
+    "total_cumtime_hint": 0.00028613900000000003,
+    "total_tottime_sum_topk": 0.00029222600000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_110.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.8440000000000002e-05,
+        "cumtime": 0.00028613900000000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "exchange",
+        "file": "HumanEval_110.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 6.6118e-05,
+        "cumtime": 0.000257699,
+        "pct_cumtime": 90.06077465847018
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 0.00010863200000000001,
+        "cumtime": 0.00019158100000000002,
+        "pct_cumtime": 66.95382314189958
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_110.py",
+        "line": 2,
+        "calls_primitive": 660,
+        "calls_total": 660,
+        "tottime": 4.2964000000000004e-05,
+        "cumtime": 4.2964000000000004e-05,
+        "pct_cumtime": 15.015080083455942
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_110.py",
+        "line": 3,
+        "calls_primitive": 570,
+        "calls_total": 570,
+        "tottime": 3.9985000000000004e-05,
+        "cumtime": 3.9985000000000004e-05,
+        "pct_cumtime": 13.973977682175445
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.087e-06,
+        "cumtime": 6.087e-06,
+        "pct_cumtime": 2.127287786705063
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_110.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.8440000000000002e-05,
+        "cumtime": 0.00028613900000000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "exchange",
+        "file": "HumanEval_110.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 6.6118e-05,
+        "cumtime": 0.000257699,
+        "pct_cumtime": 90.06077465847018
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_110.py",
+        "line": 2,
+        "calls_primitive": 660,
+        "calls_total": 660,
+        "tottime": 4.2964000000000004e-05,
+        "cumtime": 4.2964000000000004e-05,
+        "pct_cumtime": 15.015080083455942
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_110.py",
+        "line": 3,
+        "calls_primitive": 570,
+        "calls_total": 570,
+        "tottime": 3.9985000000000004e-05,
+        "cumtime": 3.9985000000000004e-05,
+        "pct_cumtime": 13.973977682175445
+      }
+    ]
+  }
+]

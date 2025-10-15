@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_89.py",
+    "total_cumtime_hint": 0.67766033,
+    "total_tottime_sum_topk": 0.6776750410000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_89.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.942e-06,
+        "cumtime": 0.67766033,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "encrypt",
+        "file": "HumanEval_89.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.44770788800000005,
+        "cumtime": 0.677658388,
+        "pct_cumtime": 99.99971342575121
+      },
+      {
+        "func": "<method 'index' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 4194304,
+        "calls_total": 4194304,
+        "tottime": 0.2299505,
+        "cumtime": 0.2299505,
+        "pct_cumtime": 33.933002983958055
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4711e-05,
+        "cumtime": 1.4711e-05,
+        "pct_cumtime": 0.0021708515828276387
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_89.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.942e-06,
+        "cumtime": 0.67766033,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "encrypt",
+        "file": "HumanEval_89.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.44770788800000005,
+        "cumtime": 0.677658388,
+        "pct_cumtime": 99.99971342575121
+      }
+    ]
+  }
+]

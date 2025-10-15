@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_96.py",
+    "total_cumtime_hint": 3.7141e-05,
+    "total_tottime_sum_topk": 4.288e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_96.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.034e-06,
+        "cumtime": 3.7141e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "divisor",
+        "file": "Mbpp_96.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.5131e-05,
+        "cumtime": 3.6107000000000005e-05,
+        "pct_cumtime": 97.2160146468862
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.7390000000000004e-06,
+        "cumtime": 5.7390000000000004e-06,
+        "pct_cumtime": 15.451926442475969
+      },
+      {
+        "func": "<method 'add' of 'set' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 8,
+        "calls_total": 8,
+        "tottime": 8.46e-07,
+        "cumtime": 8.46e-07,
+        "pct_cumtime": 2.2778061980022075
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3e-07,
+        "cumtime": 1.3e-07,
+        "pct_cumtime": 0.35001750087504374
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_96.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.034e-06,
+        "cumtime": 3.7141e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "divisor",
+        "file": "Mbpp_96.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.5131e-05,
+        "cumtime": 3.6107000000000005e-05,
+        "pct_cumtime": 97.2160146468862
+      }
+    ]
+  }
+]

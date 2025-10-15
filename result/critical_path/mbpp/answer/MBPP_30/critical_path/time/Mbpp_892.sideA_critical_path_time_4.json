@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_892.py",
+    "total_cumtime_hint": 0.00012883300000000002,
+    "total_tottime_sum_topk": 0.00013528700000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_892.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1866000000000001e-05,
+        "cumtime": 0.00012883300000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_spaces",
+        "file": "Mbpp_892.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6346000000000002e-05,
+        "cumtime": 0.00011696700000000001,
+        "pct_cumtime": 90.78962688131146
+      },
+      {
+        "func": "sub",
+        "file": "__init__.py",
+        "line": 183,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.8896000000000003e-05,
+        "cumtime": 0.00010062100000000001,
+        "pct_cumtime": 78.10188383411082
+      },
+      {
+        "func": "<method 'sub' of 're.Pattern' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.3244e-05,
+        "cumtime": 4.3244e-05,
+        "pct_cumtime": 33.565934193878896
+      },
+      {
+        "func": "_compile",
+        "file": "__init__.py",
+        "line": 330,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.9682000000000002e-05,
+        "cumtime": 2.8481e-05,
+        "pct_cumtime": 22.10691360132885
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.799e-06,
+        "cumtime": 8.799e-06,
+        "pct_cumtime": 6.829771875218304
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.454e-06,
+        "cumtime": 6.454e-06,
+        "pct_cumtime": 5.00958605326275
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_892.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1866000000000001e-05,
+        "cumtime": 0.00012883300000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_spaces",
+        "file": "Mbpp_892.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6346000000000002e-05,
+        "cumtime": 0.00011696700000000001,
+        "pct_cumtime": 90.78962688131146
+      }
+    ]
+  }
+]

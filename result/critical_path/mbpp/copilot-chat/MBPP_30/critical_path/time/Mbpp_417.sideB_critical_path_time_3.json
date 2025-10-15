@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_417.py",
+    "total_cumtime_hint": 0.000164019,
+    "total_tottime_sum_topk": 0.00016973400000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_417.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.8898e-05,
+        "cumtime": 0.000164019,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "group_tuples",
+        "file": "Mbpp_417.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.798600000000001e-05,
+        "cumtime": 0.000145121,
+        "pct_cumtime": 88.47816411513301
+      },
+      {
+        "func": "_handle_fromlist",
+        "file": "<frozen importlib._bootstrap>",
+        "line": 1390,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.1869e-05,
+        "cumtime": 3.2996e-05,
+        "pct_cumtime": 20.117181546040396
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.7593000000000002e-05,
+        "cumtime": 1.7593000000000002e-05,
+        "pct_cumtime": 10.726196355300303
+      },
+      {
+        "func": "<method 'items' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.5460000000000005e-06,
+        "cumtime": 6.5460000000000005e-06,
+        "pct_cumtime": 3.991001042562142
+      },
+      {
+        "func": "<built-in method builtins.hasattr>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.167e-06,
+        "cumtime": 6.167e-06,
+        "pct_cumtime": 3.7599302519830022
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.715e-06,
+        "cumtime": 5.715e-06,
+        "pct_cumtime": 3.4843524225851885
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.96e-06,
+        "cumtime": 4.96e-06,
+        "pct_cumtime": 3.0240398978167162
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_417.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.8898e-05,
+        "cumtime": 0.000164019,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "group_tuples",
+        "file": "Mbpp_417.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.798600000000001e-05,
+        "cumtime": 0.000145121,
+        "pct_cumtime": 88.47816411513301
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_596.py",
+    "total_cumtime_hint": 4.4258e-05,
+    "total_tottime_sum_topk": 4.9971e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_596.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5861e-05,
+        "cumtime": 4.4258e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "tuple_size",
+        "file": "Mbpp_596.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.3473000000000001e-05,
+        "cumtime": 2.1059000000000003e-05,
+        "pct_cumtime": 47.5823579917755
+      },
+      {
+        "func": "<built-in method sys.getsizeof>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.4924000000000001e-05,
+        "cumtime": 1.4924000000000001e-05,
+        "pct_cumtime": 33.720457318450904
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.713e-06,
+        "cumtime": 5.713e-06,
+        "pct_cumtime": 12.908400741108952
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_596.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5861e-05,
+        "cumtime": 4.4258e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "tuple_size",
+        "file": "Mbpp_596.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.3473000000000001e-05,
+        "cumtime": 2.1059000000000003e-05,
+        "pct_cumtime": 47.5823579917755
+      }
+    ]
+  }
+]

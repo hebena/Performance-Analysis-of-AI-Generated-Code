@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_916.py",
+    "total_cumtime_hint": 8.5958e-05,
+    "total_tottime_sum_topk": 9.3844e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_916.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5971e-05,
+        "cumtime": 8.5958e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_triplet_array",
+        "file": "Mbpp_916.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.9987e-05,
+        "cumtime": 6.9987e-05,
+        "pct_cumtime": 81.41999581190814
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.886e-06,
+        "cumtime": 7.886e-06,
+        "pct_cumtime": 9.174247888503688
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_916.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5971e-05,
+        "cumtime": 8.5958e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_triplet_array",
+        "file": "Mbpp_916.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.9987e-05,
+        "cumtime": 6.9987e-05,
+        "pct_cumtime": 81.41999581190814
+      }
+    ]
+  }
+]

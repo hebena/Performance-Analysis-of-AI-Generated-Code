@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_644.py",
+    "total_cumtime_hint": 0.008024688,
+    "total_tottime_sum_topk": 0.008037818,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_644.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.004065987,
+        "cumtime": 0.008024688,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "reverse_Array_Upto_K",
+        "file": "Mbpp_644.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.003958701,
+        "cumtime": 0.003958701,
+        "pct_cumtime": 49.33152541257679
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3130000000000001e-05,
+        "cumtime": 1.3130000000000001e-05,
+        "pct_cumtime": 0.16362006846870558
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_644.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.004065987,
+        "cumtime": 0.008024688,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "reverse_Array_Upto_K",
+        "file": "Mbpp_644.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.003958701,
+        "cumtime": 0.003958701,
+        "pct_cumtime": 49.33152541257679
+      }
+    ]
+  }
+]

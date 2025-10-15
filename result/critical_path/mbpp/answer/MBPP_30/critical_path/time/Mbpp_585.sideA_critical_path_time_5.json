@@ -1,0 +1,142 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_585.py",
+    "total_cumtime_hint": 0.000168149,
+    "total_tottime_sum_topk": 0.00017427800000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_585.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.0730000000000005e-05,
+        "cumtime": 0.000168149,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "expensive_items",
+        "file": "Mbpp_585.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.0783e-05,
+        "cumtime": 0.000127419,
+        "pct_cumtime": 75.77743548876295
+      },
+      {
+        "func": "nlargest",
+        "file": "heapq.py",
+        "line": 523,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.9368000000000005e-05,
+        "cumtime": 0.000106636,
+        "pct_cumtime": 63.4175641841462
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 60,
+        "calls_total": 60,
+        "tottime": 2.0111e-05,
+        "cumtime": 2.8533000000000003e-05,
+        "pct_cumtime": 16.96887879202374
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_585.py",
+        "line": 3,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.2629e-05,
+        "cumtime": 1.2629e-05,
+        "pct_cumtime": 7.510600717221036
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.129e-06,
+        "cumtime": 6.129e-06,
+        "pct_cumtime": 3.6449815342345184
+      },
+      {
+        "func": "<built-in method builtins.iter>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.770000000000001e-06,
+        "cumtime": 5.770000000000001e-06,
+        "pct_cumtime": 3.4314804132049557
+      },
+      {
+        "func": "<method 'sort' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 30,
+        "calls_total": 30,
+        "tottime": 4.0200000000000005e-06,
+        "cumtime": 4.0200000000000005e-06,
+        "pct_cumtime": 2.3907367870162775
+      },
+      {
+        "func": "<built-in method _heapq.heapify>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 30,
+        "calls_total": 30,
+        "tottime": 2.7050000000000004e-06,
+        "cumtime": 2.7050000000000004e-06,
+        "pct_cumtime": 1.608692290765928
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 30,
+        "calls_total": 30,
+        "tottime": 2.0330000000000003e-06,
+        "cumtime": 2.0330000000000003e-06,
+        "pct_cumtime": 1.2090467383094756
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_585.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.0730000000000005e-05,
+        "cumtime": 0.000168149,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "expensive_items",
+        "file": "Mbpp_585.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.0783e-05,
+        "cumtime": 0.000127419,
+        "pct_cumtime": 75.77743548876295
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_585.py",
+        "line": 3,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.2629e-05,
+        "cumtime": 1.2629e-05,
+        "pct_cumtime": 7.510600717221036
+      }
+    ]
+  }
+]

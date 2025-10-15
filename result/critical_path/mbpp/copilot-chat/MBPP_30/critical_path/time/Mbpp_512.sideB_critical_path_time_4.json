@@ -1,0 +1,142 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_512.py",
+    "total_cumtime_hint": 0.000468628,
+    "total_tottime_sum_topk": 0.00046230800000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_512.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.2401e-05,
+        "cumtime": 0.000468628,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_element_freq",
+        "file": "Mbpp_512.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.4818e-05,
+        "cumtime": 0.00044622700000000005,
+        "pct_cumtime": 95.21987589303244
+      },
+      {
+        "func": "__init__",
+        "file": "__init__.py",
+        "line": 599,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.0994e-05,
+        "cumtime": 0.00035851300000000003,
+        "pct_cumtime": 76.50268443200152
+      },
+      {
+        "func": "update",
+        "file": "__init__.py",
+        "line": 673,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.1064e-05,
+        "cumtime": 0.000327519,
+        "pct_cumtime": 69.88890975357853
+      },
+      {
+        "func": "<built-in method _collections._count_elements>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.0424e-05,
+        "cumtime": 0.00027370000000000004,
+        "pct_cumtime": 58.404534086738316
+      },
+      {
+        "func": "flatten",
+        "file": "Mbpp_512.py",
+        "line": 7,
+        "calls_primitive": 810,
+        "calls_total": 1350,
+        "tottime": 0.00016012,
+        "cumtime": 0.000203276,
+        "pct_cumtime": 43.376836211237915
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1080,
+        "calls_total": 1080,
+        "tottime": 6.1445e-05,
+        "cumtime": 8.040300000000001e-05,
+        "pct_cumtime": 17.157105422638
+      },
+      {
+        "func": "_handle_fromlist",
+        "file": "<frozen importlib._bootstrap>",
+        "line": 1390,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.2084e-05,
+        "cumtime": 3.2896000000000005e-05,
+        "pct_cumtime": 7.019640311718464
+      },
+      {
+        "func": "__instancecheck__",
+        "file": "<frozen abc>",
+        "line": 117,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1371e-05,
+        "cumtime": 1.8958e-05,
+        "pct_cumtime": 4.045426222931622
+      },
+      {
+        "func": "<built-in method _abc._abc_instancecheck>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.587e-06,
+        "cumtime": 7.587e-06,
+        "pct_cumtime": 1.6189813668837543
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_512.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.2401e-05,
+        "cumtime": 0.000468628,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_element_freq",
+        "file": "Mbpp_512.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.4818e-05,
+        "cumtime": 0.00044622700000000005,
+        "pct_cumtime": 95.21987589303244
+      },
+      {
+        "func": "flatten",
+        "file": "Mbpp_512.py",
+        "line": 7,
+        "calls_primitive": 810,
+        "calls_total": 1350,
+        "tottime": 0.00016012,
+        "cumtime": 0.000203276,
+        "pct_cumtime": 43.376836211237915
+      }
+    ]
+  }
+]

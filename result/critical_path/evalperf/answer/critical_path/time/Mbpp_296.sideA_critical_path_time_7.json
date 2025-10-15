@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_296.py",
+    "total_cumtime_hint": 0.029583726,
+    "total_tottime_sum_topk": 0.029591996000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_296.py",
+        "line": 47,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.4030000000000005e-05,
+        "cumtime": 0.029583726,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_Inv_Count",
+        "file": "Mbpp_296.py",
+        "line": 44,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.091e-06,
+        "cumtime": 0.029549696,
+        "pct_cumtime": 99.88497054089805
+      },
+      {
+        "func": "mergeSort",
+        "file": "Mbpp_296.py",
+        "line": 34,
+        "calls_primitive": 1,
+        "calls_total": 32767,
+        "tottime": 0.006578134,
+        "cumtime": 0.029547092,
+        "pct_cumtime": 99.87616840420979
+      },
+      {
+        "func": "merge_and_count",
+        "file": "Mbpp_296.py",
+        "line": 1,
+        "calls_primitive": 16383,
+        "calls_total": 16383,
+        "tottime": 0.022968958,
+        "cumtime": 0.022968958,
+        "pct_cumtime": 77.64051762783363
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.27e-06,
+        "cumtime": 8.27e-06,
+        "pct_cumtime": 0.027954558529916077
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.13e-07,
+        "cumtime": 5.13e-07,
+        "pct_cumtime": 0.001734061490428893
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_296.py",
+        "line": 47,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.4030000000000005e-05,
+        "cumtime": 0.029583726,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_Inv_Count",
+        "file": "Mbpp_296.py",
+        "line": 44,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.091e-06,
+        "cumtime": 0.029549696,
+        "pct_cumtime": 99.88497054089805
+      },
+      {
+        "func": "mergeSort",
+        "file": "Mbpp_296.py",
+        "line": 34,
+        "calls_primitive": 1,
+        "calls_total": 32767,
+        "tottime": 0.006578134,
+        "cumtime": 0.029547092,
+        "pct_cumtime": 99.87616840420979
+      },
+      {
+        "func": "merge_and_count",
+        "file": "Mbpp_296.py",
+        "line": 1,
+        "calls_primitive": 16383,
+        "calls_total": 16383,
+        "tottime": 0.022968958,
+        "cumtime": 0.022968958,
+        "pct_cumtime": 77.64051762783363
+      }
+    ]
+  }
+]

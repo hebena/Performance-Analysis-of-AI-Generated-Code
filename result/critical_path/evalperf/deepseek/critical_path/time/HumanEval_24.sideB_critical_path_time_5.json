@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_24.py",
+    "total_cumtime_hint": 0.9095097010000001,
+    "total_tottime_sum_topk": 0.9095205920000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_24.py",
+        "line": 2,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.630000000000001e-07,
+        "cumtime": 0.9095097010000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "largest_divisor",
+        "file": "HumanEval_24.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.9095087380000001,
+        "cumtime": 0.9095087380000001,
+        "pct_cumtime": 99.99989411877642
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0891000000000001e-05,
+        "cumtime": 1.0891000000000001e-05,
+        "pct_cumtime": 0.0011974583655375436
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_24.py",
+        "line": 2,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.630000000000001e-07,
+        "cumtime": 0.9095097010000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "largest_divisor",
+        "file": "HumanEval_24.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.9095087380000001,
+        "cumtime": 0.9095087380000001,
+        "pct_cumtime": 99.99989411877642
+      }
+    ]
+  }
+]

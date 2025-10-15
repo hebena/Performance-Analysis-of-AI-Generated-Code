@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_750.py",
+    "total_cumtime_hint": 4.0921000000000003e-05,
+    "total_tottime_sum_topk": 4.6918e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_750.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2346e-05,
+        "cumtime": 4.0921000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "add_tuple",
+        "file": "Mbpp_750.py",
+        "line": 10,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.8079e-05,
+        "cumtime": 2.8575000000000003e-05,
+        "pct_cumtime": 69.82967180665185
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.0496e-05,
+        "cumtime": 1.0496e-05,
+        "pct_cumtime": 25.64942205713448
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.997e-06,
+        "cumtime": 5.997e-06,
+        "pct_cumtime": 14.65506708047213
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_750.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2346e-05,
+        "cumtime": 4.0921000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "add_tuple",
+        "file": "Mbpp_750.py",
+        "line": 10,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.8079e-05,
+        "cumtime": 2.8575000000000003e-05,
+        "pct_cumtime": 69.82967180665185
+      }
+    ]
+  }
+]

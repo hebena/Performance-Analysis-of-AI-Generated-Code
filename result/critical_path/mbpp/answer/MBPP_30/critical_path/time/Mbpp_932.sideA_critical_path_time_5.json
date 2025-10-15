@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_932.py",
+    "total_cumtime_hint": 8.1877e-05,
+    "total_tottime_sum_topk": 8.818400000000001e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_932.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.389e-05,
+        "cumtime": 8.1877e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_duplic_list",
+        "file": "Mbpp_932.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.4438000000000004e-05,
+        "cumtime": 6.7987e-05,
+        "pct_cumtime": 83.03552890311076
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 2.3549e-05,
+        "cumtime": 2.3549e-05,
+        "pct_cumtime": 28.7614348351796
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.307000000000001e-06,
+        "cumtime": 6.307000000000001e-06,
+        "pct_cumtime": 7.703017941546467
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_932.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.389e-05,
+        "cumtime": 8.1877e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_duplic_list",
+        "file": "Mbpp_932.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.4438000000000004e-05,
+        "cumtime": 6.7987e-05,
+        "pct_cumtime": 83.03552890311076
+      }
+    ]
+  }
+]

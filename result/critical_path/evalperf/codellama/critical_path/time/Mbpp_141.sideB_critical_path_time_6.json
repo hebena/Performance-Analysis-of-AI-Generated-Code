@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_141.py",
+    "total_cumtime_hint": 0.000667045,
+    "total_tottime_sum_topk": 0.000672902,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_141.py",
+        "line": 26,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.347e-06,
+        "cumtime": 0.000667045,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "pancake_sort",
+        "file": "Mbpp_141.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00038076,
+        "cumtime": 0.000665698,
+        "pct_cumtime": 99.79806459834045
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 255,
+        "calls_total": 255,
+        "tottime": 0.000197801,
+        "cumtime": 0.000197801,
+        "pct_cumtime": 29.6533217399126
+      },
+      {
+        "func": "<method 'index' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 255,
+        "calls_total": 255,
+        "tottime": 6.5197e-05,
+        "cumtime": 6.5197e-05,
+        "pct_cumtime": 9.774003253153836
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 511,
+        "calls_total": 511,
+        "tottime": 2.194e-05,
+        "cumtime": 2.194e-05,
+        "pct_cumtime": 3.2891334167859743
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.857e-06,
+        "cumtime": 5.857e-06,
+        "pct_cumtime": 0.8780517056570396
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_141.py",
+        "line": 26,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.347e-06,
+        "cumtime": 0.000667045,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "pancake_sort",
+        "file": "Mbpp_141.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00038076,
+        "cumtime": 0.000665698,
+        "pct_cumtime": 99.79806459834045
+      }
+    ]
+  }
+]

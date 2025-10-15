@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_157.py",
+    "total_cumtime_hint": 6.0929000000000006e-05,
+    "total_tottime_sum_topk": 6.7303e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_157.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.879e-05,
+        "cumtime": 6.0929000000000006e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "right_angle_triangle",
+        "file": "HumanEval_157.py",
+        "line": 1,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 3.2139000000000005e-05,
+        "cumtime": 3.2139000000000005e-05,
+        "pct_cumtime": 52.74828078583269
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.374e-06,
+        "cumtime": 6.374e-06,
+        "pct_cumtime": 10.461356661031692
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_157.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.879e-05,
+        "cumtime": 6.0929000000000006e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "right_angle_triangle",
+        "file": "HumanEval_157.py",
+        "line": 1,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 3.2139000000000005e-05,
+        "cumtime": 3.2139000000000005e-05,
+        "pct_cumtime": 52.74828078583269
+      }
+    ]
+  }
+]

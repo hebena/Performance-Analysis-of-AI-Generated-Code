@@ -1,0 +1,930 @@
+[
+  {
+    "task_id": "HumanEval_0.py",
+    "status": "success",
+    "cpu_usage": 207.87071691566265,
+    "kernel_usage": 6.495959903614458,
+    "cpu_runtime": 0.000370215,
+    "total_runtime": 0.0001780986785888672
+  },
+  {
+    "task_id": "HumanEval_1.py",
+    "status": "success",
+    "cpu_usage": 226.19934643639078,
+    "kernel_usage": 7.068729576137212,
+    "cpu_runtime": 0.0014464060000000001,
+    "total_runtime": 0.0006394386291503906
+  },
+  {
+    "task_id": "HumanEval_2.py",
+    "status": "success",
+    "cpu_usage": 134.86684647619046,
+    "kernel_usage": 4.214588952380952,
+    "cpu_runtime": 2.701e-05,
+    "total_runtime": 2.002716064453125e-05
+  },
+  {
+    "task_id": "HumanEval_3.py",
+    "status": "success",
+    "cpu_usage": 166.88669582222226,
+    "kernel_usage": 5.215209244444446,
+    "cpu_runtime": 7.520100000000001e-05,
+    "total_runtime": 4.506111145019531e-05
+  },
+  {
+    "task_id": "HumanEval_4.py",
+    "status": "success",
+    "cpu_usage": 285.2012268686998,
+    "kernel_usage": 8.912538339646868,
+    "cpu_runtime": 0.000423623,
+    "total_runtime": 0.00014853477478027344
+  },
+  {
+    "task_id": "HumanEval_7.py",
+    "status": "success",
+    "cpu_usage": 199.84445970569948,
+    "kernel_usage": 6.245139365803109,
+    "cpu_runtime": 9.1958e-05,
+    "total_runtime": 4.601478576660156e-05
+  },
+  {
+    "task_id": "HumanEval_8.py",
+    "status": "success",
+    "cpu_usage": 178.0155824355556,
+    "kernel_usage": 5.562986951111112,
+    "cpu_runtime": 7.6396e-05,
+    "total_runtime": 4.291534423828125e-05
+  },
+  {
+    "task_id": "HumanEval_9.py",
+    "status": "success",
+    "cpu_usage": 191.411257344,
+    "kernel_usage": 5.981601792,
+    "cpu_runtime": 0.00011409,
+    "total_runtime": 5.9604644775390625e-05
+  },
+  {
+    "task_id": "HumanEval_10.py",
+    "status": "success",
+    "cpu_usage": 214.6966814331754,
+    "kernel_usage": 6.709271294786731,
+    "cpu_runtime": 0.00021601200000000005,
+    "total_runtime": 0.00010061264038085938
+  },
+  {
+    "task_id": "HumanEval_11.py",
+    "status": "success",
+    "cpu_usage": 323.94702602070396,
+    "kernel_usage": 10.123344563146999,
+    "cpu_runtime": 0.000373045,
+    "total_runtime": 0.00011515617370605469
+  },
+  {
+    "task_id": "HumanEval_12.py",
+    "status": "success",
+    "cpu_usage": 199.5029815652174,
+    "kernel_usage": 6.234468173913044,
+    "cpu_runtime": 9.846e-05,
+    "total_runtime": 4.935264587402344e-05
+  },
+  {
+    "task_id": "HumanEval_13.py",
+    "status": "success",
+    "cpu_usage": 155.5051153382716,
+    "kernel_usage": 4.859534854320987,
+    "cpu_runtime": 3.0031e-05,
+    "total_runtime": 1.9311904907226562e-05
+  },
+  {
+    "task_id": "HumanEval_14.py",
+    "status": "success",
+    "cpu_usage": 214.7126685957447,
+    "kernel_usage": 6.709770893617022,
+    "cpu_runtime": 0.00012030000000000001,
+    "total_runtime": 5.602836608886719e-05
+  },
+  {
+    "task_id": "HumanEval_15.py",
+    "status": "success",
+    "cpu_usage": 298.447126368932,
+    "kernel_usage": 9.326472699029125,
+    "cpu_runtime": 0.00029315999999999994,
+    "total_runtime": 9.822845458984375e-05
+  },
+  {
+    "task_id": "HumanEval_16.py",
+    "status": "success",
+    "cpu_usage": 196.9081880028881,
+    "kernel_usage": 6.153380875090253,
+    "cpu_runtime": 0.000130042,
+    "total_runtime": 6.604194641113281e-05
+  },
+  {
+    "task_id": "HumanEval_18.py",
+    "status": "success",
+    "cpu_usage": 207.30583395991817,
+    "kernel_usage": 6.478307311247443,
+    "cpu_runtime": 0.000241691,
+    "total_runtime": 0.00011658668518066406
+  },
+  {
+    "task_id": "HumanEval_19.py",
+    "status": "success",
+    "cpu_usage": 257.54737316905766,
+    "kernel_usage": 8.048355411533052,
+    "cpu_runtime": 0.000436583,
+    "total_runtime": 0.00016951560974121094
+  },
+  {
+    "task_id": "HumanEval_20.py",
+    "status": "success",
+    "cpu_usage": 209.03152364352806,
+    "kernel_usage": 6.532235113860252,
+    "cpu_runtime": 0.000435077,
+    "total_runtime": 0.00020813941955566406
+  },
+  {
+    "task_id": "HumanEval_21.py",
+    "status": "success",
+    "cpu_usage": 223.09012542547998,
+    "kernel_usage": 6.9715664195462494,
+    "cpu_runtime": 0.00030477200000000003,
+    "total_runtime": 0.0001366138458251953
+  },
+  {
+    "task_id": "HumanEval_22.py",
+    "status": "success",
+    "cpu_usage": 261.1564989529825,
+    "kernel_usage": 8.161140592280702,
+    "cpu_runtime": 0.000177454,
+    "total_runtime": 6.794929504394531e-05
+  },
+  {
+    "task_id": "HumanEval_23.py",
+    "status": "success",
+    "cpu_usage": 170.54154976438355,
+    "kernel_usage": 5.329423430136986,
+    "cpu_runtime": 2.9682e-05,
+    "total_runtime": 1.7404556274414062e-05
+  },
+  {
+    "task_id": "HumanEval_24.py",
+    "status": "success",
+    "cpu_usage": 189.37777171320755,
+    "kernel_usage": 5.918055366037736,
+    "cpu_runtime": 0.000191441,
+    "total_runtime": 0.0001010894775390625
+  },
+  {
+    "task_id": "HumanEval_25.py",
+    "status": "success",
+    "cpu_usage": 196.59591432711306,
+    "kernel_usage": 6.143622322722283,
+    "cpu_runtime": 0.00042700500000000005,
+    "total_runtime": 0.00021719932556152344
+  },
+  {
+    "task_id": "HumanEval_27.py",
+    "status": "success",
+    "cpu_usage": 384.452331723689,
+    "kernel_usage": 12.01413536636528,
+    "cpu_runtime": 0.001520649,
+    "total_runtime": 0.0003955364227294922
+  },
+  {
+    "task_id": "HumanEval_28.py",
+    "status": "success",
+    "cpu_usage": 174.961106855914,
+    "kernel_usage": 5.467534589247313,
+    "cpu_runtime": 3.879400000000001e-05,
+    "total_runtime": 2.2172927856445312e-05
+  },
+  {
+    "task_id": "HumanEval_29.py",
+    "status": "success",
+    "cpu_usage": 265.1137600735632,
+    "kernel_usage": 8.28480500229885,
+    "cpu_runtime": 0.00010998199999999999,
+    "total_runtime": 4.1484832763671875e-05
+  },
+  {
+    "task_id": "HumanEval_30.py",
+    "status": "success",
+    "cpu_usage": 203.8864851478261,
+    "kernel_usage": 6.371452660869566,
+    "cpu_runtime": 8.9443e-05,
+    "total_runtime": 4.38690185546875e-05
+  },
+  {
+    "task_id": "HumanEval_31.py",
+    "status": "success",
+    "cpu_usage": 180.1553432380952,
+    "kernel_usage": 5.629854476190475,
+    "cpu_runtime": 0.00020745999999999997,
+    "total_runtime": 0.00011515617370605469
+  },
+  {
+    "task_id": "HumanEval_34.py",
+    "status": "success",
+    "cpu_usage": 220.12965683200002,
+    "kernel_usage": 6.879051776000001,
+    "cpu_runtime": 5.2483000000000006e-05,
+    "total_runtime": 2.384185791015625e-05
+  },
+  {
+    "task_id": "HumanEval_35.py",
+    "status": "success",
+    "cpu_usage": 163.60509174025978,
+    "kernel_usage": 5.112659116883118,
+    "cpu_runtime": 3.0035000000000003e-05,
+    "total_runtime": 1.8358230590820312e-05
+  },
+  {
+    "task_id": "HumanEval_37.py",
+    "status": "success",
+    "cpu_usage": 251.67030580602741,
+    "kernel_usage": 7.864697056438357,
+    "cpu_runtime": 0.000438021,
+    "total_runtime": 0.00017404556274414062
+  },
+  {
+    "task_id": "HumanEval_38.py",
+    "status": "success",
+    "cpu_usage": 365.6003932063957,
+    "kernel_usage": 11.425012287699866,
+    "cpu_runtime": 0.202414099,
+    "total_runtime": 0.05536484718322754
+  },
+  {
+    "task_id": "HumanEval_40.py",
+    "status": "success",
+    "cpu_usage": 206.89869683402188,
+    "kernel_usage": 6.465584276063184,
+    "cpu_runtime": 0.000811947,
+    "total_runtime": 0.0003924369812011719
+  },
+  {
+    "task_id": "HumanEval_41.py",
+    "status": "success",
+    "cpu_usage": 169.4685229511111,
+    "kernel_usage": 5.295891342222222,
+    "cpu_runtime": 5.4545999999999996e-05,
+    "total_runtime": 3.218650817871094e-05
+  },
+  {
+    "task_id": "HumanEval_42.py",
+    "status": "success",
+    "cpu_usage": 200.9632825690141,
+    "kernel_usage": 6.2801025802816905,
+    "cpu_runtime": 6.803700000000001e-05,
+    "total_runtime": 3.3855438232421875e-05
+  },
+  {
+    "task_id": "HumanEval_43.py",
+    "status": "success",
+    "cpu_usage": 204.0862048456212,
+    "kernel_usage": 6.377693901425663,
+    "cpu_runtime": 0.000477821,
+    "total_runtime": 0.00023412704467773438
+  },
+  {
+    "task_id": "HumanEval_44.py",
+    "status": "success",
+    "cpu_usage": 202.9850827990514,
+    "kernel_usage": 6.343283837470357,
+    "cpu_runtime": 0.0006122020000000001,
+    "total_runtime": 0.00030159950256347656
+  },
+  {
+    "task_id": "HumanEval_45.py",
+    "status": "success",
+    "cpu_usage": 134.46239573333332,
+    "kernel_usage": 4.201949866666666,
+    "cpu_runtime": 1.5388e-05,
+    "total_runtime": 1.1444091796875e-05
+  },
+  {
+    "task_id": "HumanEval_46.py",
+    "status": "success",
+    "cpu_usage": 204.64313356087695,
+    "kernel_usage": 6.395097923777405,
+    "cpu_runtime": 0.00028932900000000006,
+    "total_runtime": 0.00014138221740722656
+  },
+  {
+    "task_id": "HumanEval_47.py",
+    "status": "success",
+    "cpu_usage": 197.44167772471485,
+    "kernel_usage": 6.170052428897339,
+    "cpu_runtime": 0.000123804,
+    "total_runtime": 6.270408630371094e-05
+  },
+  {
+    "task_id": "HumanEval_49.py",
+    "status": "success",
+    "cpu_usage": 252.2120111882641,
+    "kernel_usage": 7.881625349633254,
+    "cpu_runtime": 0.00024594000000000005,
+    "total_runtime": 9.751319885253906e-05
+  },
+  {
+    "task_id": "HumanEval_50.py",
+    "status": "success",
+    "cpu_usage": 360.2161170835478,
+    "kernel_usage": 11.256753658860868,
+    "cpu_runtime": 0.2557460710000001,
+    "total_runtime": 0.07099795341491699
+  },
+  {
+    "task_id": "HumanEval_51.py",
+    "status": "success",
+    "cpu_usage": 275.24499874408605,
+    "kernel_usage": 8.601406210752689,
+    "cpu_runtime": 0.00048823900000000007,
+    "total_runtime": 0.0001773834228515625
+  },
+  {
+    "task_id": "HumanEval_52.py",
+    "status": "success",
+    "cpu_usage": 270.97786154029853,
+    "kernel_usage": 8.46805817313433,
+    "cpu_runtime": 0.00034628900000000006,
+    "total_runtime": 0.0001277923583984375
+  },
+  {
+    "task_id": "HumanEval_53.py",
+    "status": "success",
+    "cpu_usage": 297.2506434579366,
+    "kernel_usage": 9.289082608060518,
+    "cpu_runtime": 0.017426243000000004,
+    "total_runtime": 0.00586247444152832
+  },
+  {
+    "task_id": "HumanEval_55.py",
+    "status": "success",
+    "cpu_usage": 178.61801634341467,
+    "kernel_usage": 5.581813010731708,
+    "cpu_runtime": 8.730100000000001e-05,
+    "total_runtime": 4.887580871582031e-05
+  },
+  {
+    "task_id": "HumanEval_56.py",
+    "status": "success",
+    "cpu_usage": 186.88747737872342,
+    "kernel_usage": 5.840233668085107,
+    "cpu_runtime": 0.000272246,
+    "total_runtime": 0.0001456737518310547
+  },
+  {
+    "task_id": "HumanEval_57.py",
+    "status": "success",
+    "cpu_usage": 268.3781792215554,
+    "kernel_usage": 8.386818100673606,
+    "cpu_runtime": 0.001044897,
+    "total_runtime": 0.00038933753967285156
+  },
+  {
+    "task_id": "HumanEval_58.py",
+    "status": "success",
+    "cpu_usage": 189.2220664803213,
+    "kernel_usage": 5.913189577510041,
+    "cpu_runtime": 0.000112334,
+    "total_runtime": 5.936622619628906e-05
+  },
+  {
+    "task_id": "HumanEval_60.py",
+    "status": "success",
+    "cpu_usage": 143.2916025690141,
+    "kernel_usage": 4.47786258028169,
+    "cpu_runtime": 2.4256000000000003e-05,
+    "total_runtime": 1.6927719116210938e-05
+  },
+  {
+    "task_id": "HumanEval_61.py",
+    "status": "success",
+    "cpu_usage": 186.8962704078304,
+    "kernel_usage": 5.8405084502447,
+    "cpu_runtime": 0.00027315000000000005,
+    "total_runtime": 0.0001461505889892578
+  },
+  {
+    "task_id": "HumanEval_62.py",
+    "status": "success",
+    "cpu_usage": 209.16364134212455,
+    "kernel_usage": 6.536363791941392,
+    "cpu_runtime": 0.000136141,
+    "total_runtime": 6.508827209472656e-05
+  },
+  {
+    "task_id": "HumanEval_63.py",
+    "status": "success",
+    "cpu_usage": 205.45374704707288,
+    "kernel_usage": 6.4204295952210275,
+    "cpu_runtime": 0.00040999600000000004,
+    "total_runtime": 0.0001995563507080078
+  },
+  {
+    "task_id": "HumanEval_66.py",
+    "status": "success",
+    "cpu_usage": 366.19832324022,
+    "kernel_usage": 11.443697601256876,
+    "cpu_runtime": 0.001111437,
+    "total_runtime": 0.00030350685119628906
+  },
+  {
+    "task_id": "HumanEval_67.py",
+    "status": "success",
+    "cpu_usage": 191.74091400745343,
+    "kernel_usage": 5.99190356273292,
+    "cpu_runtime": 0.00014720100000000002,
+    "total_runtime": 7.677078247070312e-05
+  },
+  {
+    "task_id": "HumanEval_68.py",
+    "status": "success",
+    "cpu_usage": 173.03701016380953,
+    "kernel_usage": 5.407406567619048,
+    "cpu_runtime": 0.000173272,
+    "total_runtime": 0.00010013580322265625
+  },
+  {
+    "task_id": "HumanEval_70.py",
+    "status": "success",
+    "cpu_usage": 221.73730715748258,
+    "kernel_usage": 6.9292908486713305,
+    "cpu_runtime": 0.0007559880000000002,
+    "total_runtime": 0.0003409385681152344
+  },
+  {
+    "task_id": "HumanEval_71.py",
+    "status": "success",
+    "cpu_usage": 200.1861947502703,
+    "kernel_usage": 6.2558185859459465,
+    "cpu_runtime": 0.000176594,
+    "total_runtime": 8.821487426757812e-05
+  },
+  {
+    "task_id": "HumanEval_73.py",
+    "status": "success",
+    "cpu_usage": 182.08101688128343,
+    "kernel_usage": 5.690031777540107,
+    "cpu_runtime": 0.000162359,
+    "total_runtime": 8.916854858398438e-05
+  },
+  {
+    "task_id": "HumanEval_74.py",
+    "status": "success",
+    "cpu_usage": 301.11411732479996,
+    "kernel_usage": 9.409816166399999,
+    "cpu_runtime": 0.000987129,
+    "total_runtime": 0.00032782554626464844
+  },
+  {
+    "task_id": "HumanEval_76.py",
+    "status": "success",
+    "cpu_usage": 168.6982623232,
+    "kernel_usage": 5.2718206976,
+    "cpu_runtime": 0.000100552,
+    "total_runtime": 5.9604644775390625e-05
+  },
+  {
+    "task_id": "HumanEval_78.py",
+    "status": "success",
+    "cpu_usage": 293.20480907449934,
+    "kernel_usage": 9.162650283578104,
+    "cpu_runtime": 0.000523592,
+    "total_runtime": 0.0001785755157470703
+  },
+  {
+    "task_id": "HumanEval_80.py",
+    "status": "success",
+    "cpu_usage": 195.2818092065574,
+    "kernel_usage": 6.102556537704919,
+    "cpu_runtime": 0.00022720700000000002,
+    "total_runtime": 0.0001163482666015625
+  },
+  {
+    "task_id": "HumanEval_81.py",
+    "status": "success",
+    "cpu_usage": 192.76973790734465,
+    "kernel_usage": 6.02405430960452,
+    "cpu_runtime": 0.000244047,
+    "total_runtime": 0.0001266002655029297
+  },
+  {
+    "task_id": "HumanEval_82.py",
+    "status": "success",
+    "cpu_usage": 229.87336841730993,
+    "kernel_usage": 7.183542763040935,
+    "cpu_runtime": 0.00046859200000000004,
+    "total_runtime": 0.00020384788513183594
+  },
+  {
+    "task_id": "HumanEval_85.py",
+    "status": "success",
+    "cpu_usage": 281.5028623955679,
+    "kernel_usage": 8.796964449861497,
+    "cpu_runtime": 0.00024228700000000002,
+    "total_runtime": 8.606910705566406e-05
+  },
+  {
+    "task_id": "HumanEval_86.py",
+    "status": "success",
+    "cpu_usage": 290.35078456130697,
+    "kernel_usage": 9.073462017540843,
+    "cpu_runtime": 0.000805087,
+    "total_runtime": 0.0002772808074951172
+  },
+  {
+    "task_id": "HumanEval_87.py",
+    "status": "success",
+    "cpu_usage": 268.67687406557843,
+    "kernel_usage": 8.396152314549326,
+    "cpu_runtime": 0.0009025710000000001,
+    "total_runtime": 0.00033593177795410156
+  },
+  {
+    "task_id": "HumanEval_88.py",
+    "status": "success",
+    "cpu_usage": 187.01935502222224,
+    "kernel_usage": 5.844354844444445,
+    "cpu_runtime": 0.00013242900000000002,
+    "total_runtime": 7.081031799316406e-05
+  },
+  {
+    "task_id": "HumanEval_90.py",
+    "status": "success",
+    "cpu_usage": 206.53561436530126,
+    "kernel_usage": 6.454237948915664,
+    "cpu_runtime": 0.00020435400000000004,
+    "total_runtime": 9.894371032714844e-05
+  },
+  {
+    "task_id": "HumanEval_92.py",
+    "status": "success",
+    "cpu_usage": 196.14142653732972,
+    "kernel_usage": 6.129419579291554,
+    "cpu_runtime": 0.000171623,
+    "total_runtime": 8.749961853027344e-05
+  },
+  {
+    "task_id": "HumanEval_95.py",
+    "status": "success",
+    "cpu_usage": 300.22275414596595,
+    "kernel_usage": 9.381961067061436,
+    "cpu_runtime": 0.0009670280000000001,
+    "total_runtime": 0.00032210350036621094
+  },
+  {
+    "task_id": "HumanEval_96.py",
+    "status": "success",
+    "cpu_usage": 202.34062515089454,
+    "kernel_usage": 6.323144535965454,
+    "cpu_runtime": 0.0015639980000000003,
+    "total_runtime": 0.0007729530334472656
+  },
+  {
+    "task_id": "HumanEval_97.py",
+    "status": "success",
+    "cpu_usage": 191.48889308862746,
+    "kernel_usage": 5.984027909019608,
+    "cpu_runtime": 0.00011641900000000001,
+    "total_runtime": 6.079673767089844e-05
+  },
+  {
+    "task_id": "HumanEval_98.py",
+    "status": "success",
+    "cpu_usage": 186.0158844342857,
+    "kernel_usage": 5.812996388571428,
+    "cpu_runtime": 0.000124179,
+    "total_runtime": 6.67572021484375e-05
+  },
+  {
+    "task_id": "HumanEval_101.py",
+    "status": "success",
+    "cpu_usage": 249.39430662047246,
+    "kernel_usage": 7.7935720818897645,
+    "cpu_runtime": 0.0004530870000000001,
+    "total_runtime": 0.00018167495727539062
+  },
+  {
+    "task_id": "HumanEval_102.py",
+    "status": "success",
+    "cpu_usage": 155.85212401678322,
+    "kernel_usage": 4.870378875524476,
+    "cpu_runtime": 5.313600000000001e-05,
+    "total_runtime": 3.409385681152344e-05
+  },
+  {
+    "task_id": "HumanEval_103.py",
+    "status": "success",
+    "cpu_usage": 200.62009582327417,
+    "kernel_usage": 6.269377994477318,
+    "cpu_runtime": 0.00024250600000000003,
+    "total_runtime": 0.00012087821960449219
+  },
+  {
+    "task_id": "HumanEval_104.py",
+    "status": "success",
+    "cpu_usage": 361.4933750837895,
+    "kernel_usage": 11.296667971368421,
+    "cpu_runtime": 0.0012281610000000002,
+    "total_runtime": 0.00033974647521972656
+  },
+  {
+    "task_id": "HumanEval_105.py",
+    "status": "success",
+    "cpu_usage": 223.88739947951808,
+    "kernel_usage": 6.99648123373494,
+    "cpu_runtime": 0.000354436,
+    "total_runtime": 0.0001583099365234375
+  },
+  {
+    "task_id": "HumanEval_107.py",
+    "status": "success",
+    "cpu_usage": 198.19540931310604,
+    "kernel_usage": 6.193606541034564,
+    "cpu_runtime": 0.0020370970000000003,
+    "total_runtime": 0.001027822494506836
+  },
+  {
+    "task_id": "HumanEval_109.py",
+    "status": "success",
+    "cpu_usage": 205.50175187385898,
+    "kernel_usage": 6.421929746058093,
+    "cpu_runtime": 0.00023615800000000004,
+    "total_runtime": 0.00011491775512695312
+  },
+  {
+    "task_id": "HumanEval_111.py",
+    "status": "success",
+    "cpu_usage": 306.7815890488889,
+    "kernel_usage": 9.586924657777779,
+    "cpu_runtime": 0.002106502,
+    "total_runtime": 0.0006866455078125
+  },
+  {
+    "task_id": "HumanEval_112.py",
+    "status": "success",
+    "cpu_usage": 222.25082051865775,
+    "kernel_usage": 6.945338141208055,
+    "cpu_runtime": 0.00039476600000000006,
+    "total_runtime": 0.00017762184143066406
+  },
+  {
+    "task_id": "HumanEval_113.py",
+    "status": "success",
+    "cpu_usage": 285.3475903566591,
+    "kernel_usage": 8.917112198645597,
+    "cpu_runtime": 0.000602765,
+    "total_runtime": 0.00021123886108398438
+  },
+  {
+    "task_id": "HumanEval_116.py",
+    "status": "success",
+    "cpu_usage": 374.2847481363418,
+    "kernel_usage": 11.696398379260682,
+    "cpu_runtime": 0.0018587950000000001,
+    "total_runtime": 0.0004966259002685547
+  },
+  {
+    "task_id": "HumanEval_117.py",
+    "status": "success",
+    "cpu_usage": 315.0952257748634,
+    "kernel_usage": 9.846725805464482,
+    "cpu_runtime": 0.0021996470000000003,
+    "total_runtime": 0.000698089599609375
+  },
+  {
+    "task_id": "HumanEval_120.py",
+    "status": "success",
+    "cpu_usage": 192.15756841967215,
+    "kernel_usage": 6.0049240131147545,
+    "cpu_runtime": 0.00022357200000000003,
+    "total_runtime": 0.0001163482666015625
+  },
+  {
+    "task_id": "HumanEval_121.py",
+    "status": "success",
+    "cpu_usage": 253.22343149268298,
+    "kernel_usage": 7.913232234146343,
+    "cpu_runtime": 0.0003960480000000001,
+    "total_runtime": 0.000156402587890625
+  },
+  {
+    "task_id": "HumanEval_122.py",
+    "status": "success",
+    "cpu_usage": 276.1586592299065,
+    "kernel_usage": 8.629958100934578,
+    "cpu_runtime": 0.000281801,
+    "total_runtime": 0.00010204315185546875
+  },
+  {
+    "task_id": "HumanEval_124.py",
+    "status": "success",
+    "cpu_usage": 187.88274391578946,
+    "kernel_usage": 5.871335747368421,
+    "cpu_runtime": 0.00033192899999999996,
+    "total_runtime": 0.0001766681671142578
+  },
+  {
+    "task_id": "HumanEval_125.py",
+    "status": "success",
+    "cpu_usage": 339.48408731607844,
+    "kernel_usage": 10.608877728627451,
+    "cpu_runtime": 0.000825581,
+    "total_runtime": 0.00024318695068359375
+  },
+  {
+    "task_id": "HumanEval_128.py",
+    "status": "success",
+    "cpu_usage": 170.30844718389264,
+    "kernel_usage": 5.322138974496645,
+    "cpu_runtime": 0.00012100200000000002,
+    "total_runtime": 7.104873657226562e-05
+  },
+  {
+    "task_id": "HumanEval_131.py",
+    "status": "success",
+    "cpu_usage": 179.96692115525423,
+    "kernel_usage": 5.623966286101695,
+    "cpu_runtime": 0.000126577,
+    "total_runtime": 7.033348083496094e-05
+  },
+  {
+    "task_id": "HumanEval_135.py",
+    "status": "success",
+    "cpu_usage": 179.97444353127753,
+    "kernel_usage": 5.624201360352423,
+    "cpu_runtime": 9.7404e-05,
+    "total_runtime": 5.412101745605469e-05
+  },
+  {
+    "task_id": "HumanEval_136.py",
+    "status": "success",
+    "cpu_usage": 176.5139283968,
+    "kernel_usage": 5.5160602624,
+    "cpu_runtime": 0.000210421,
+    "total_runtime": 0.00011920928955078125
+  },
+  {
+    "task_id": "HumanEval_138.py",
+    "status": "success",
+    "cpu_usage": 149.33594697142857,
+    "kernel_usage": 4.666748342857143,
+    "cpu_runtime": 3.9877000000000005e-05,
+    "total_runtime": 2.6702880859375e-05
+  },
+  {
+    "task_id": "HumanEval_139.py",
+    "status": "success",
+    "cpu_usage": 244.06837948993294,
+    "kernel_usage": 7.627136859060404,
+    "cpu_runtime": 0.00034681500000000005,
+    "total_runtime": 0.00014209747314453125
+  },
+  {
+    "task_id": "HumanEval_141.py",
+    "status": "success",
+    "cpu_usage": 303.49806152049814,
+    "kernel_usage": 9.484314422515567,
+    "cpu_runtime": 0.002905237,
+    "total_runtime": 0.0009572505950927734
+  },
+  {
+    "task_id": "HumanEval_142.py",
+    "status": "success",
+    "cpu_usage": 193.34429111754602,
+    "kernel_usage": 6.042009097423313,
+    "cpu_runtime": 0.000751379,
+    "total_runtime": 0.0003886222839355469
+  },
+  {
+    "task_id": "HumanEval_143.py",
+    "status": "success",
+    "cpu_usage": 374.4537007765502,
+    "kernel_usage": 11.701678149267194,
+    "cpu_runtime": 0.001583769,
+    "total_runtime": 0.0004229545593261719
+  },
+  {
+    "task_id": "HumanEval_144.py",
+    "status": "success",
+    "cpu_usage": 201.9318354711596,
+    "kernel_usage": 6.310369858473737,
+    "cpu_runtime": 0.000485776,
+    "total_runtime": 0.00024056434631347656
+  },
+  {
+    "task_id": "HumanEval_146.py",
+    "status": "success",
+    "cpu_usage": 378.9011782442954,
+    "kernel_usage": 11.840661820134232,
+    "cpu_runtime": 0.0010768180000000002,
+    "total_runtime": 0.0002841949462890625
+  },
+  {
+    "task_id": "HumanEval_147.py",
+    "status": "success",
+    "cpu_usage": 200.0690962689225,
+    "kernel_usage": 6.252159258403828,
+    "cpu_runtime": 0.546281652,
+    "total_runtime": 0.27304649353027344
+  },
+  {
+    "task_id": "HumanEval_148.py",
+    "status": "success",
+    "cpu_usage": 195.65127197220843,
+    "kernel_usage": 6.114102249131514,
+    "cpu_runtime": 0.000187987,
+    "total_runtime": 9.608268737792969e-05
+  },
+  {
+    "task_id": "HumanEval_149.py",
+    "status": "success",
+    "cpu_usage": 286.89575618045666,
+    "kernel_usage": 8.96549238063927,
+    "cpu_runtime": 0.000748994,
+    "total_runtime": 0.00026106834411621094
+  },
+  {
+    "task_id": "HumanEval_150.py",
+    "status": "success",
+    "cpu_usage": 181.53192890521922,
+    "kernel_usage": 5.6728727782881005,
+    "cpu_runtime": 0.000207314,
+    "total_runtime": 0.00011420249938964844
+  },
+  {
+    "task_id": "HumanEval_151.py",
+    "status": "success",
+    "cpu_usage": 320.6153655220044,
+    "kernel_usage": 10.019230172562638,
+    "cpu_runtime": 0.003081323,
+    "total_runtime": 0.0009610652923583984
+  },
+  {
+    "task_id": "HumanEval_152.py",
+    "status": "success",
+    "cpu_usage": 236.01808742616032,
+    "kernel_usage": 7.37556523206751,
+    "cpu_runtime": 0.000266725,
+    "total_runtime": 0.00011301040649414062
+  },
+  {
+    "task_id": "HumanEval_153.py",
+    "status": "success",
+    "cpu_usage": 355.95435211051114,
+    "kernel_usage": 11.123573503453473,
+    "cpu_runtime": 0.006757890000000001,
+    "total_runtime": 0.0018985271453857422
+  },
+  {
+    "task_id": "HumanEval_155.py",
+    "status": "success",
+    "cpu_usage": 207.07398685257147,
+    "kernel_usage": 6.471062089142858,
+    "cpu_runtime": 0.00043199000000000004,
+    "total_runtime": 0.0002086162567138672
+  },
+  {
+    "task_id": "HumanEval_156.py",
+    "status": "success",
+    "cpu_usage": 202.10382107234045,
+    "kernel_usage": 6.315744408510639,
+    "cpu_runtime": 0.0007247070000000001,
+    "total_runtime": 0.00035858154296875
+  },
+  {
+    "task_id": "HumanEval_157.py",
+    "status": "success",
+    "cpu_usage": 168.74876731512916,
+    "kernel_usage": 5.273398978597786,
+    "cpu_runtime": 0.00010903100000000001,
+    "total_runtime": 6.461143493652344e-05
+  },
+  {
+    "task_id": "HumanEval_158.py",
+    "status": "success",
+    "cpu_usage": 196.87468856828752,
+    "kernel_usage": 6.152334017758985,
+    "cpu_runtime": 0.000444039,
+    "total_runtime": 0.00022554397583007812
+  },
+  {
+    "task_id": "HumanEval_161.py",
+    "status": "success",
+    "cpu_usage": 255.4609881770133,
+    "kernel_usage": 7.983155880531665,
+    "cpu_runtime": 0.001557992,
+    "total_runtime": 0.0006098747253417969
+  },
+  {
+    "task_id": "HumanEval_162.py",
+    "status": "success",
+    "cpu_usage": 224.15671296,
+    "kernel_usage": 7.00489728,
+    "cpu_runtime": 0.000171018,
+    "total_runtime": 7.62939453125e-05
+  }
+]

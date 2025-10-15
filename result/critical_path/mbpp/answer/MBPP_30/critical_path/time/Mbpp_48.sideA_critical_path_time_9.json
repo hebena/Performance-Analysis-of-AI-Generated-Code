@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_48.py",
+    "total_cumtime_hint": 3.0930000000000004e-05,
+    "total_tottime_sum_topk": 3.6652e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_48.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.012000000000001e-06,
+        "cumtime": 3.0930000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "odd_bit_set_number",
+        "file": "Mbpp_48.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.1918000000000003e-05,
+        "cumtime": 2.1918000000000003e-05,
+        "pct_cumtime": 70.86323957322988
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.7220000000000004e-06,
+        "cumtime": 5.7220000000000004e-06,
+        "pct_cumtime": 18.49983834464921
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_48.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.012000000000001e-06,
+        "cumtime": 3.0930000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "odd_bit_set_number",
+        "file": "Mbpp_48.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.1918000000000003e-05,
+        "cumtime": 2.1918000000000003e-05,
+        "pct_cumtime": 70.86323957322988
+      }
+    ]
+  }
+]

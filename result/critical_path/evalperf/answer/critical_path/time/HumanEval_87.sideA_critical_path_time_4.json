@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_87.py",
+    "total_cumtime_hint": 0.006989948,
+    "total_tottime_sum_topk": 0.00699882,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_87.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0025700840000000003,
+        "cumtime": 0.006989948,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_row",
+        "file": "HumanEval_87.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.504e-06,
+        "cumtime": 0.004419864,
+        "pct_cumtime": 63.2317150284952
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.3251e-05,
+        "cumtime": 0.00441536,
+        "pct_cumtime": 63.167279642137544
+      },
+      {
+        "func": "find_coordinates",
+        "file": "HumanEval_87.py",
+        "line": 3,
+        "calls_primitive": 483,
+        "calls_total": 483,
+        "tottime": 0.003327927,
+        "cumtime": 0.004306009,
+        "pct_cumtime": 61.60287601567279
+      },
+      {
+        "func": "<method 'index' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 482,
+        "calls_total": 482,
+        "tottime": 0.000977582,
+        "cumtime": 0.000977582,
+        "pct_cumtime": 13.98554037884116
+      },
+      {
+        "func": "<lambda>",
+        "file": "HumanEval_87.py",
+        "line": 10,
+        "calls_primitive": 482,
+        "calls_total": 482,
+        "tottime": 2.61e-05,
+        "cumtime": 2.61e-05,
+        "pct_cumtime": 0.3733933356871897
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.872e-06,
+        "cumtime": 8.872e-06,
+        "pct_cumtime": 0.1269251216174999
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.000000000000001e-07,
+        "cumtime": 5.000000000000001e-07,
+        "pct_cumtime": 0.00715312903615306
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_87.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0025700840000000003,
+        "cumtime": 0.006989948,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_row",
+        "file": "HumanEval_87.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.504e-06,
+        "cumtime": 0.004419864,
+        "pct_cumtime": 63.2317150284952
+      },
+      {
+        "func": "find_coordinates",
+        "file": "HumanEval_87.py",
+        "line": 3,
+        "calls_primitive": 483,
+        "calls_total": 483,
+        "tottime": 0.003327927,
+        "cumtime": 0.004306009,
+        "pct_cumtime": 61.60287601567279
+      },
+      {
+        "func": "<lambda>",
+        "file": "HumanEval_87.py",
+        "line": 10,
+        "calls_primitive": 482,
+        "calls_total": 482,
+        "tottime": 2.61e-05,
+        "cumtime": 2.61e-05,
+        "pct_cumtime": 0.3733933356871897
+      }
+    ]
+  }
+]

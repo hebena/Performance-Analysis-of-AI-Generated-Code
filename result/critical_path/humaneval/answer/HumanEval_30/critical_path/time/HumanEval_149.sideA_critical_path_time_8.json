@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_149.py",
+    "total_cumtime_hint": 0.000288517,
+    "total_tottime_sum_topk": 0.000294181,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_149.py",
+        "line": 23,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.2368e-05,
+        "cumtime": 0.000288517,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sorted_list_sum",
+        "file": "HumanEval_149.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 0.000152583,
+        "cumtime": 0.000256149,
+        "pct_cumtime": 88.78125032493752
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 840,
+        "calls_total": 840,
+        "tottime": 3.3114e-05,
+        "cumtime": 3.3114e-05,
+        "pct_cumtime": 11.477313295230438
+      },
+      {
+        "func": "<method 'sort' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 2.3687000000000002e-05,
+        "cumtime": 2.3687000000000002e-05,
+        "pct_cumtime": 8.209914840373358
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 2.3431e-05,
+        "cumtime": 2.3431e-05,
+        "pct_cumtime": 8.121185233452447
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 2.3334e-05,
+        "cumtime": 2.3334e-05,
+        "pct_cumtime": 8.087565030830072
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.664e-06,
+        "cumtime": 5.664e-06,
+        "pct_cumtime": 1.963142553125119
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_149.py",
+        "line": 23,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.2368e-05,
+        "cumtime": 0.000288517,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sorted_list_sum",
+        "file": "HumanEval_149.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 0.000152583,
+        "cumtime": 0.000256149,
+        "pct_cumtime": 88.78125032493752
+      }
+    ]
+  }
+]

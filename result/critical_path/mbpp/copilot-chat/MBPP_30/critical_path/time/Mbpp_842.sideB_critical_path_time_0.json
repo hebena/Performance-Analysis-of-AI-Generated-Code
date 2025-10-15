@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_842.py",
+    "total_cumtime_hint": 0.00022744,
+    "total_tottime_sum_topk": 0.00022047900000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_842.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.6026000000000002e-05,
+        "cumtime": 0.00022744,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_odd_occurence",
+        "file": "Mbpp_842.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.8120000000000006e-05,
+        "cumtime": 0.00021141400000000002,
+        "pct_cumtime": 92.95374604291243
+      },
+      {
+        "func": "__init__",
+        "file": "__init__.py",
+        "line": 599,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.1273000000000004e-05,
+        "cumtime": 0.000107731,
+        "pct_cumtime": 47.3667780513542
+      },
+      {
+        "func": "update",
+        "file": "__init__.py",
+        "line": 673,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.0933e-05,
+        "cumtime": 7.6458e-05,
+        "pct_cumtime": 33.61677805135421
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.9433000000000002e-05,
+        "cumtime": 3.7865000000000004e-05,
+        "pct_cumtime": 16.64834681674288
+      },
+      {
+        "func": "_handle_fromlist",
+        "file": "<frozen importlib._bootstrap>",
+        "line": 1390,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.5183000000000003e-05,
+        "cumtime": 3.7536e-05,
+        "pct_cumtime": 16.503693281744635
+      },
+      {
+        "func": "<built-in method _collections._count_elements>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.3052000000000002e-05,
+        "cumtime": 2.3052000000000002e-05,
+        "pct_cumtime": 10.135420330636652
+      },
+      {
+        "func": "__instancecheck__",
+        "file": "<frozen abc>",
+        "line": 117,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0696e-05,
+        "cumtime": 1.8432000000000002e-05,
+        "pct_cumtime": 8.10411537108688
+      },
+      {
+        "func": "<method 'items' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.027000000000001e-06,
+        "cumtime": 8.027000000000001e-06,
+        "pct_cumtime": 3.529282448118185
+      },
+      {
+        "func": "<built-in method _abc._abc_instancecheck>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.736e-06,
+        "cumtime": 7.736e-06,
+        "pct_cumtime": 3.4013366162504397
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_842.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.6026000000000002e-05,
+        "cumtime": 0.00022744,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_odd_occurence",
+        "file": "Mbpp_842.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.8120000000000006e-05,
+        "cumtime": 0.00021141400000000002,
+        "pct_cumtime": 92.95374604291243
+      }
+    ]
+  }
+]

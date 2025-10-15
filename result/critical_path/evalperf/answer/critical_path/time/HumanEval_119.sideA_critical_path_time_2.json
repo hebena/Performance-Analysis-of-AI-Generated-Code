@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_119.py",
+    "total_cumtime_hint": 0.0004913890000000001,
+    "total_tottime_sum_topk": 0.000499944,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_119.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3270000000000002e-06,
+        "cumtime": 0.0004913890000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "match_parens",
+        "file": "HumanEval_119.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.435e-06,
+        "cumtime": 0.000490062,
+        "pct_cumtime": 99.72994918486168
+      },
+      {
+        "func": "is_good",
+        "file": "HumanEval_119.py",
+        "line": 14,
+        "calls_primitive": 2,
+        "calls_total": 2,
+        "tottime": 0.000476427,
+        "cumtime": 0.000488627,
+        "pct_cumtime": 99.43791985575584
+      },
+      {
+        "func": "is_balanced",
+        "file": "HumanEval_119.py",
+        "line": 3,
+        "calls_primitive": 2,
+        "calls_total": 2,
+        "tottime": 1.0019e-05,
+        "cumtime": 1.22e-05,
+        "pct_cumtime": 2.4827580592972165
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.555e-06,
+        "cumtime": 8.555e-06,
+        "pct_cumtime": 1.7409832128924334
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 6,
+        "calls_total": 6,
+        "tottime": 8.12e-07,
+        "cumtime": 8.12e-07,
+        "pct_cumtime": 0.16524586427453605
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 8,
+        "calls_total": 8,
+        "tottime": 7.36e-07,
+        "cumtime": 7.36e-07,
+        "pct_cumtime": 0.14977950259366812
+      },
+      {
+        "func": "<method 'pop' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 6,
+        "calls_total": 6,
+        "tottime": 6.33e-07,
+        "cumtime": 6.33e-07,
+        "pct_cumtime": 0.12881851242091297
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_119.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3270000000000002e-06,
+        "cumtime": 0.0004913890000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "match_parens",
+        "file": "HumanEval_119.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.435e-06,
+        "cumtime": 0.000490062,
+        "pct_cumtime": 99.72994918486168
+      },
+      {
+        "func": "is_good",
+        "file": "HumanEval_119.py",
+        "line": 14,
+        "calls_primitive": 2,
+        "calls_total": 2,
+        "tottime": 0.000476427,
+        "cumtime": 0.000488627,
+        "pct_cumtime": 99.43791985575584
+      },
+      {
+        "func": "is_balanced",
+        "file": "HumanEval_119.py",
+        "line": 3,
+        "calls_primitive": 2,
+        "calls_total": 2,
+        "tottime": 1.0019e-05,
+        "cumtime": 1.22e-05,
+        "pct_cumtime": 2.4827580592972165
+      }
+    ]
+  }
+]

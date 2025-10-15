@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_75.py",
+    "total_cumtime_hint": 0.000330165,
+    "total_tottime_sum_topk": 0.000337576,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_75.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.998e-06,
+        "cumtime": 0.000330165,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_tuples",
+        "file": "Mbpp_75.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00015846500000000002,
+        "cumtime": 0.000325167,
+        "pct_cumtime": 98.48621143973469
+      },
+      {
+        "func": "<built-in method builtins.all>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1024,
+        "calls_total": 1024,
+        "tottime": 0.000101372,
+        "cumtime": 0.00016670200000000002,
+        "pct_cumtime": 50.490512319597784
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_75.py",
+        "line": 6,
+        "calls_primitive": 1026,
+        "calls_total": 1026,
+        "tottime": 6.533e-05,
+        "cumtime": 6.533e-05,
+        "pct_cumtime": 19.78707615889025
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.411000000000001e-06,
+        "cumtime": 7.411000000000001e-06,
+        "pct_cumtime": 2.2446352581285116
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_75.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.998e-06,
+        "cumtime": 0.000330165,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_tuples",
+        "file": "Mbpp_75.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00015846500000000002,
+        "cumtime": 0.000325167,
+        "pct_cumtime": 98.48621143973469
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_75.py",
+        "line": 6,
+        "calls_primitive": 1026,
+        "calls_total": 1026,
+        "tottime": 6.533e-05,
+        "cumtime": 6.533e-05,
+        "pct_cumtime": 19.78707615889025
+      }
+    ]
+  }
+]

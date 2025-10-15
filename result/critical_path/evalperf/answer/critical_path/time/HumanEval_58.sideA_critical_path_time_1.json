@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_58.py",
+    "total_cumtime_hint": 0.003752786,
+    "total_tottime_sum_topk": 0.0037654240000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_58.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000663258,
+        "cumtime": 0.003752786,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "common",
+        "file": "HumanEval_58.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.001558439,
+        "cumtime": 0.0030895280000000002,
+        "pct_cumtime": 82.32625041768968
+      },
+      {
+        "func": "<method 'intersection' of 'set' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.001229648,
+        "cumtime": 0.001229648,
+        "pct_cumtime": 32.766270179008345
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000301441,
+        "cumtime": 0.000301441,
+        "pct_cumtime": 8.032459085063737
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2638e-05,
+        "cumtime": 1.2638e-05,
+        "pct_cumtime": 0.3367631407706168
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_58.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000663258,
+        "cumtime": 0.003752786,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "common",
+        "file": "HumanEval_58.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.001558439,
+        "cumtime": 0.0030895280000000002,
+        "pct_cumtime": 82.32625041768968
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_757.py",
+    "total_cumtime_hint": 56.084771499000006,
+    "total_tottime_sum_topk": 56.08478555600001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_757.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.2921e-05,
+        "cumtime": 56.084771499000006,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_reverse_pairs",
+        "file": "Mbpp_757.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 30.384666343000003,
+        "cumtime": 56.08473857800001,
+        "pct_cumtime": 99.99994130135664
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 4720128,
+        "calls_total": 4720128,
+        "tottime": 25.699882765,
+        "cumtime": 25.699882765,
+        "pct_cumtime": 45.82328157556679
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 3073,
+        "calls_total": 3073,
+        "tottime": 0.000188504,
+        "cumtime": 0.000188504,
+        "pct_cumtime": 0.0003361054970213457
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4057000000000001e-05,
+        "cumtime": 1.4057000000000001e-05,
+        "pct_cumtime": 2.506384464854357e-05
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.660000000000002e-07,
+        "cumtime": 9.660000000000002e-07,
+        "pct_cumtime": 1.7223926819729025e-06
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_757.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.2921e-05,
+        "cumtime": 56.084771499000006,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_reverse_pairs",
+        "file": "Mbpp_757.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 30.384666343000003,
+        "cumtime": 56.08473857800001,
+        "pct_cumtime": 99.99994130135664
+      }
+    ]
+  }
+]

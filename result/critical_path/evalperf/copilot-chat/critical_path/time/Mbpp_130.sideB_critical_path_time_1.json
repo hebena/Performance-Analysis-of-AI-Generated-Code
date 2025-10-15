@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_130.py",
+    "total_cumtime_hint": 0.0011582370000000001,
+    "total_tottime_sum_topk": 0.0011621980000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_130.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00010404,
+        "cumtime": 0.0011582370000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_occurrences",
+        "file": "Mbpp_130.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.405e-06,
+        "cumtime": 0.001054197,
+        "pct_cumtime": 91.01738245281406
+      },
+      {
+        "func": "__init__",
+        "file": "__init__.py",
+        "line": 599,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.9920000000000003e-06,
+        "cumtime": 0.0007934550000000001,
+        "pct_cumtime": 68.50540951463302
+      },
+      {
+        "func": "update",
+        "file": "__init__.py",
+        "line": 673,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.234e-06,
+        "cumtime": 0.000790463,
+        "pct_cumtime": 68.24708587275316
+      },
+      {
+        "func": "<built-in method _collections._count_elements>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0007854740000000001,
+        "cumtime": 0.0007854740000000001,
+        "pct_cumtime": 67.816345014017
+      },
+      {
+        "func": "most_common",
+        "file": "__init__.py",
+        "line": 622,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.894e-06,
+        "cumtime": 0.00025108000000000004,
+        "pct_cumtime": 21.677774065238808
+      },
+      {
+        "func": "nlargest",
+        "file": "heapq.py",
+        "line": 523,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.2700000000000003e-06,
+        "cumtime": 0.000241754,
+        "pct_cumtime": 20.87258479913869
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000239289,
+        "cumtime": 0.000239289,
+        "pct_cumtime": 20.65976134418085
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.113e-06,
+        "cumtime": 8.113e-06,
+        "pct_cumtime": 0.7004611318754278
+      },
+      {
+        "func": "_handle_fromlist",
+        "file": "<frozen importlib._bootstrap>",
+        "line": 1390,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.4870000000000002e-06,
+        "cumtime": 4.257e-06,
+        "pct_cumtime": 0.367541358115826
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_130.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00010404,
+        "cumtime": 0.0011582370000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_occurrences",
+        "file": "Mbpp_130.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.405e-06,
+        "cumtime": 0.001054197,
+        "pct_cumtime": 91.01738245281406
+      }
+    ]
+  }
+]

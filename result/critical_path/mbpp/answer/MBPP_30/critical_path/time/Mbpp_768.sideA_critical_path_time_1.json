@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_768.py",
+    "total_cumtime_hint": 1.9390000000000002e-05,
+    "total_tottime_sum_topk": 2.5664000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_768.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.778000000000001e-06,
+        "cumtime": 1.9390000000000002e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_Odd_Parity",
+        "file": "Mbpp_768.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0612000000000001e-05,
+        "cumtime": 1.0612000000000001e-05,
+        "pct_cumtime": 54.72924187725632
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.274e-06,
+        "cumtime": 6.274e-06,
+        "pct_cumtime": 32.35688499226405
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_768.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.778000000000001e-06,
+        "cumtime": 1.9390000000000002e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_Odd_Parity",
+        "file": "Mbpp_768.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0612000000000001e-05,
+        "cumtime": 1.0612000000000001e-05,
+        "pct_cumtime": 54.72924187725632
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_446.py",
+    "total_cumtime_hint": 0.000104734,
+    "total_tottime_sum_topk": 0.000110916,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_446.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2894e-05,
+        "cumtime": 0.000104734,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Occurrence",
+        "file": "Mbpp_446.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6789e-05,
+        "cumtime": 9.184e-05,
+        "pct_cumtime": 87.6888116561957
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.5388e-05,
+        "cumtime": 7.505100000000001e-05,
+        "pct_cumtime": 71.65867817518668
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_446.py",
+        "line": 5,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 2.9903e-05,
+        "cumtime": 4.9663e-05,
+        "pct_cumtime": 47.41822139897264
+      },
+      {
+        "func": "<method 'count' of 'tuple' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 1.976e-05,
+        "cumtime": 1.976e-05,
+        "pct_cumtime": 18.86684362289228
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.182e-06,
+        "cumtime": 6.182e-06,
+        "pct_cumtime": 5.902572230603242
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_446.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2894e-05,
+        "cumtime": 0.000104734,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Occurrence",
+        "file": "Mbpp_446.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6789e-05,
+        "cumtime": 9.184e-05,
+        "pct_cumtime": 87.6888116561957
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_446.py",
+        "line": 5,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 2.9903e-05,
+        "cumtime": 4.9663e-05,
+        "pct_cumtime": 47.41822139897264
+      }
+    ]
+  }
+]

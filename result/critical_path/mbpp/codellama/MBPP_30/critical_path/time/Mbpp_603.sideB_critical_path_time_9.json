@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_603.py",
+    "total_cumtime_hint": 0.001015342,
+    "total_tottime_sum_topk": 0.001021396,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_603.py",
+        "line": 36,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4694e-05,
+        "cumtime": 0.001015342,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_ludic",
+        "file": "Mbpp_603.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000566702,
+        "cumtime": 0.001000648,
+        "pct_cumtime": 98.55280289793981
+      },
+      {
+        "func": "<method 'remove' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1530,
+        "calls_total": 1530,
+        "tottime": 0.00016486500000000001,
+        "cumtime": 0.00016486500000000001,
+        "pct_cumtime": 16.23738602362554
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 3180,
+        "calls_total": 3180,
+        "tottime": 0.00013635,
+        "cumtime": 0.00013635,
+        "pct_cumtime": 13.42897270082396
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2400,
+        "calls_total": 2400,
+        "tottime": 0.000132731,
+        "cumtime": 0.000132731,
+        "pct_cumtime": 13.072541074829957
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.054e-06,
+        "cumtime": 6.054e-06,
+        "pct_cumtime": 0.596252297255506
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_603.py",
+        "line": 36,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4694e-05,
+        "cumtime": 0.001015342,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_ludic",
+        "file": "Mbpp_603.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000566702,
+        "cumtime": 0.001000648,
+        "pct_cumtime": 98.55280289793981
+      }
+    ]
+  }
+]

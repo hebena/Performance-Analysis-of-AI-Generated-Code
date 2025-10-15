@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_20.py",
+    "total_cumtime_hint": 0.000141041,
+    "total_tottime_sum_topk": 0.00014691000000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_20.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.8019e-05,
+        "cumtime": 0.000141041,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_woodall",
+        "file": "Mbpp_20.py",
+        "line": 4,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 0.000123022,
+        "cumtime": 0.000123022,
+        "pct_cumtime": 87.22428230089123
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.869e-06,
+        "cumtime": 5.869e-06,
+        "pct_cumtime": 4.161201352798122
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_20.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.8019e-05,
+        "cumtime": 0.000141041,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_woodall",
+        "file": "Mbpp_20.py",
+        "line": 4,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 0.000123022,
+        "cumtime": 0.000123022,
+        "pct_cumtime": 87.22428230089123
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_260.py",
+    "total_cumtime_hint": 0.00011187100000000001,
+    "total_tottime_sum_topk": 0.000117865,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_260.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.214000000000001e-06,
+        "cumtime": 0.00011187100000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "newman_prime",
+        "file": "Mbpp_260.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 870,
+        "tottime": 0.000103657,
+        "cumtime": 0.000103657,
+        "pct_cumtime": 92.6576145739289
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.9940000000000005e-06,
+        "cumtime": 5.9940000000000005e-06,
+        "pct_cumtime": 5.35795693253837
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_260.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.214000000000001e-06,
+        "cumtime": 0.00011187100000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "newman_prime",
+        "file": "Mbpp_260.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 870,
+        "tottime": 0.000103657,
+        "cumtime": 0.000103657,
+        "pct_cumtime": 92.6576145739289
+      }
+    ]
+  }
+]

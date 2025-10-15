@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_702.py",
+    "total_cumtime_hint": 0.00023987000000000002,
+    "total_tottime_sum_topk": 0.000245869,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_702.py",
+        "line": 26,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0996000000000001e-05,
+        "cumtime": 0.00023987000000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "removals",
+        "file": "Mbpp_702.py",
+        "line": 15,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000105185,
+        "cumtime": 0.000228874,
+        "pct_cumtime": 95.41585025221994
+      },
+      {
+        "func": "find_ind",
+        "file": "Mbpp_702.py",
+        "line": 1,
+        "calls_primitive": 600,
+        "calls_total": 600,
+        "tottime": 9.961300000000001e-05,
+        "cumtime": 9.961300000000001e-05,
+        "pct_cumtime": 41.52791095176554
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 1.6195e-05,
+        "cumtime": 1.6195e-05,
+        "pct_cumtime": 6.751573769124943
+      },
+      {
+        "func": "<method 'sort' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.881000000000001e-06,
+        "cumtime": 7.881000000000001e-06,
+        "pct_cumtime": 3.285529661900196
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.9990000000000005e-06,
+        "cumtime": 5.9990000000000005e-06,
+        "pct_cumtime": 2.500938008087714
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_702.py",
+        "line": 26,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0996000000000001e-05,
+        "cumtime": 0.00023987000000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "removals",
+        "file": "Mbpp_702.py",
+        "line": 15,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000105185,
+        "cumtime": 0.000228874,
+        "pct_cumtime": 95.41585025221994
+      },
+      {
+        "func": "find_ind",
+        "file": "Mbpp_702.py",
+        "line": 1,
+        "calls_primitive": 600,
+        "calls_total": 600,
+        "tottime": 9.961300000000001e-05,
+        "cumtime": 9.961300000000001e-05,
+        "pct_cumtime": 41.52791095176554
+      }
+    ]
+  }
+]

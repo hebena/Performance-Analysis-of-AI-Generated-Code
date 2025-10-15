@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_824.py",
+    "total_cumtime_hint": 2.3709000000000003e-05,
+    "total_tottime_sum_topk": 2.9289e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_824.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2284000000000001e-05,
+        "cumtime": 2.3709000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_even",
+        "file": "Mbpp_824.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1425e-05,
+        "cumtime": 1.1425e-05,
+        "pct_cumtime": 48.18845164283605
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.58e-06,
+        "cumtime": 5.58e-06,
+        "pct_cumtime": 23.535366316588636
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_824.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2284000000000001e-05,
+        "cumtime": 2.3709000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_even",
+        "file": "Mbpp_824.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1425e-05,
+        "cumtime": 1.1425e-05,
+        "pct_cumtime": 48.18845164283605
+      }
+    ]
+  }
+]

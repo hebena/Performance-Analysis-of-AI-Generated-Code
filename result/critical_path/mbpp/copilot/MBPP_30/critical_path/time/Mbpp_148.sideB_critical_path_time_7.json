@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_148.py",
+    "total_cumtime_hint": 6.3191e-05,
+    "total_tottime_sum_topk": 6.9471e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_148.py",
+        "line": 34,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0635e-05,
+        "cumtime": 6.3191e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_digits_twoparts",
+        "file": "Mbpp_148.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.1356e-05,
+        "cumtime": 5.2556e-05,
+        "pct_cumtime": 83.17007168742386
+      },
+      {
+        "func": "sum_digits_single",
+        "file": "Mbpp_148.py",
+        "line": 4,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.2464000000000001e-05,
+        "cumtime": 1.2464000000000001e-05,
+        "pct_cumtime": 19.724327831494996
+      },
+      {
+        "func": "closest",
+        "file": "Mbpp_148.py",
+        "line": 10,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.736e-06,
+        "cumtime": 8.736e-06,
+        "pct_cumtime": 13.824753525027301
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.28e-06,
+        "cumtime": 6.28e-06,
+        "pct_cumtime": 9.938124099950944
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_148.py",
+        "line": 34,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0635e-05,
+        "cumtime": 6.3191e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_digits_twoparts",
+        "file": "Mbpp_148.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.1356e-05,
+        "cumtime": 5.2556e-05,
+        "pct_cumtime": 83.17007168742386
+      },
+      {
+        "func": "sum_digits_single",
+        "file": "Mbpp_148.py",
+        "line": 4,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.2464000000000001e-05,
+        "cumtime": 1.2464000000000001e-05,
+        "pct_cumtime": 19.724327831494996
+      },
+      {
+        "func": "closest",
+        "file": "Mbpp_148.py",
+        "line": 10,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.736e-06,
+        "cumtime": 8.736e-06,
+        "pct_cumtime": 13.824753525027301
+      }
+    ]
+  }
+]

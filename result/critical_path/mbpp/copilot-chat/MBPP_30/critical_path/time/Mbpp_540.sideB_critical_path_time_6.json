@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_540.py",
+    "total_cumtime_hint": 0.000253071,
+    "total_tottime_sum_topk": 0.00023114,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_540.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5444e-05,
+        "cumtime": 0.000253071,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Diff",
+        "file": "Mbpp_540.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.8063e-05,
+        "cumtime": 0.00023762700000000002,
+        "pct_cumtime": 93.89736477115119
+      },
+      {
+        "func": "__init__",
+        "file": "__init__.py",
+        "line": 599,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.0403000000000004e-05,
+        "cumtime": 0.000105375,
+        "pct_cumtime": 41.63851251229892
+      },
+      {
+        "func": "update",
+        "file": "__init__.py",
+        "line": 673,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.0413000000000003e-05,
+        "cumtime": 7.4972e-05,
+        "pct_cumtime": 29.62488787731506
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.8971000000000002e-05,
+        "cumtime": 3.7972e-05,
+        "pct_cumtime": 15.004484907397531
+      },
+      {
+        "func": "_handle_fromlist",
+        "file": "<frozen importlib._bootstrap>",
+        "line": 1390,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.3558e-05,
+        "cumtime": 3.5499e-05,
+        "pct_cumtime": 14.027288784570338
+      },
+      {
+        "func": "<built-in method _collections._count_elements>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.2042e-05,
+        "cumtime": 2.2042e-05,
+        "pct_cumtime": 8.70980870980871
+      },
+      {
+        "func": "__instancecheck__",
+        "file": "<frozen abc>",
+        "line": 117,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1214000000000001e-05,
+        "cumtime": 1.9001e-05,
+        "pct_cumtime": 7.508169644091973
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0574e-05,
+        "cumtime": 1.0574e-05,
+        "pct_cumtime": 4.178274081186703
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0458e-05,
+        "cumtime": 1.0458e-05,
+        "pct_cumtime": 4.13243714214588
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_540.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5444e-05,
+        "cumtime": 0.000253071,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Diff",
+        "file": "Mbpp_540.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.8063e-05,
+        "cumtime": 0.00023762700000000002,
+        "pct_cumtime": 93.89736477115119
+      }
+    ]
+  }
+]

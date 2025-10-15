@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_163.py",
+    "total_cumtime_hint": 9.710400000000001e-05,
+    "total_tottime_sum_topk": 0.00010358600000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_163.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4940000000000001e-05,
+        "cumtime": 9.710400000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "generate_integers",
+        "file": "HumanEval_163.py",
+        "line": 1,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 5.7335000000000006e-05,
+        "cumtime": 8.216400000000001e-05,
+        "pct_cumtime": 84.61443400889767
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 1.2422e-05,
+        "cumtime": 1.2422e-05,
+        "pct_cumtime": 12.792469929148128
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 1.2407e-05,
+        "cumtime": 1.2407e-05,
+        "pct_cumtime": 12.777022573735374
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.482000000000001e-06,
+        "cumtime": 6.482000000000001e-06,
+        "pct_cumtime": 6.675317185697809
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_163.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4940000000000001e-05,
+        "cumtime": 9.710400000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "generate_integers",
+        "file": "HumanEval_163.py",
+        "line": 1,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 5.7335000000000006e-05,
+        "cumtime": 8.216400000000001e-05,
+        "pct_cumtime": 84.61443400889767
+      }
+    ]
+  }
+]

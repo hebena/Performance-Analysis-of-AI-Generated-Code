@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_873.py",
+    "total_cumtime_hint": 0.00076575,
+    "total_tottime_sum_topk": 0.0007716530000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_873.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.264e-06,
+        "cumtime": 0.00076575,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "fibonacci",
+        "file": "Mbpp_873.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 6510,
+        "tottime": 0.000757486,
+        "cumtime": 0.000757486,
+        "pct_cumtime": 98.92079660463597
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.903e-06,
+        "cumtime": 5.903e-06,
+        "pct_cumtime": 0.7708782239634345
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_873.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.264e-06,
+        "cumtime": 0.00076575,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "fibonacci",
+        "file": "Mbpp_873.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 6510,
+        "tottime": 0.000757486,
+        "cumtime": 0.000757486,
+        "pct_cumtime": 98.92079660463597
+      }
+    ]
+  }
+]

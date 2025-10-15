@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_927.py",
+    "total_cumtime_hint": 0.00015789500000000002,
+    "total_tottime_sum_topk": 0.00016390500000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_927.py",
+        "line": 60,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.571e-06,
+        "cumtime": 0.00015789500000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_height",
+        "file": "Mbpp_927.py",
+        "line": 30,
+        "calls_primitive": 90,
+        "calls_total": 1290,
+        "tottime": 0.00014932400000000002,
+        "cumtime": 0.00014932400000000002,
+        "pct_cumtime": 94.57170904715159
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.01e-06,
+        "cumtime": 6.01e-06,
+        "pct_cumtime": 3.8063269894550174
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_927.py",
+        "line": 60,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.571e-06,
+        "cumtime": 0.00015789500000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_height",
+        "file": "Mbpp_927.py",
+        "line": 30,
+        "calls_primitive": 90,
+        "calls_total": 1290,
+        "tottime": 0.00014932400000000002,
+        "cumtime": 0.00014932400000000002,
+        "pct_cumtime": 94.57170904715159
+      }
+    ]
+  }
+]

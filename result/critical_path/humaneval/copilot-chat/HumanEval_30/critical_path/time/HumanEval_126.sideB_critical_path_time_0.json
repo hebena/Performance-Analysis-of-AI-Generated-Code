@@ -1,0 +1,152 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_126.py",
+    "total_cumtime_hint": 0.001653764,
+    "total_tottime_sum_topk": 0.0013543280000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_126.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.666e-05,
+        "cumtime": 0.001653764,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_sorted",
+        "file": "HumanEval_126.py",
+        "line": 1,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 0.00043365600000000004,
+        "cumtime": 0.0015771040000000002,
+        "pct_cumtime": 95.3645139209706
+      },
+      {
+        "func": "__init__",
+        "file": "__init__.py",
+        "line": 599,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 0.000147923,
+        "cumtime": 0.000490147,
+        "pct_cumtime": 29.638267612549313
+      },
+      {
+        "func": "update",
+        "file": "__init__.py",
+        "line": 673,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 9.414200000000001e-05,
+        "cumtime": 0.000342224,
+        "pct_cumtime": 20.693641898118475
+      },
+      {
+        "func": "<built-in method builtins.any>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 0.000142036,
+        "cumtime": 0.000239165,
+        "pct_cumtime": 14.461857919267803
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 780,
+        "calls_total": 780,
+        "tottime": 8.9986e-05,
+        "cumtime": 0.00019283400000000002,
+        "pct_cumtime": 11.660309451650901
+      },
+      {
+        "func": "_handle_fromlist",
+        "file": "<frozen importlib._bootstrap>",
+        "line": 1390,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 0.000129264,
+        "cumtime": 0.00018587900000000001,
+        "pct_cumtime": 11.239753677066378
+      },
+      {
+        "func": "<built-in method builtins.all>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 9.5773e-05,
+        "cumtime": 0.00016560200000000002,
+        "pct_cumtime": 10.013641607871499
+      },
+      {
+        "func": "__instancecheck__",
+        "file": "<frozen abc>",
+        "line": 117,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 4.7759e-05,
+        "cumtime": 0.000102848,
+        "pct_cumtime": 6.21902520553114
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_126.py",
+        "line": 4,
+        "calls_primitive": 1770,
+        "calls_total": 1770,
+        "tottime": 9.712900000000001e-05,
+        "cumtime": 9.712900000000001e-05,
+        "pct_cumtime": 5.873208027263867
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_126.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.666e-05,
+        "cumtime": 0.001653764,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_sorted",
+        "file": "HumanEval_126.py",
+        "line": 1,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 0.00043365600000000004,
+        "cumtime": 0.0015771040000000002,
+        "pct_cumtime": 95.3645139209706
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_126.py",
+        "line": 4,
+        "calls_primitive": 1770,
+        "calls_total": 1770,
+        "tottime": 9.712900000000001e-05,
+        "cumtime": 9.712900000000001e-05,
+        "pct_cumtime": 5.873208027263867
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_126.py",
+        "line": 6,
+        "calls_primitive": 1080,
+        "calls_total": 1080,
+        "tottime": 6.9829e-05,
+        "cumtime": 6.9829e-05,
+        "pct_cumtime": 4.222428351324615
+      }
+    ]
+  }
+]

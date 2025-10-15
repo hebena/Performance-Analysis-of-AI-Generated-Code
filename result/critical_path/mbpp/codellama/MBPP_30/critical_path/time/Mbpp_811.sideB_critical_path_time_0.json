@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_811.py",
+    "total_cumtime_hint": 3.0719e-05,
+    "total_tottime_sum_topk": 3.6153000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_811.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0959000000000001e-05,
+        "cumtime": 3.0719e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_identical",
+        "file": "Mbpp_811.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6133e-05,
+        "cumtime": 1.976e-05,
+        "pct_cumtime": 64.32501057977149
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.434e-06,
+        "cumtime": 5.434e-06,
+        "pct_cumtime": 17.689377909437155
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.627e-06,
+        "cumtime": 3.627e-06,
+        "pct_cumtime": 11.807024968260684
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_811.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0959000000000001e-05,
+        "cumtime": 3.0719e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_identical",
+        "file": "Mbpp_811.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6133e-05,
+        "cumtime": 1.976e-05,
+        "pct_cumtime": 64.32501057977149
+      }
+    ]
+  }
+]

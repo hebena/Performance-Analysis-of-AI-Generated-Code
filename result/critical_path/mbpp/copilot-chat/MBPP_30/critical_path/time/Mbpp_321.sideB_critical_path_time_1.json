@@ -1,0 +1,122 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_321.py",
+    "total_cumtime_hint": 0.000301486,
+    "total_tottime_sum_topk": 0.000307956,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_321.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1084000000000001e-05,
+        "cumtime": 0.000301486,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_demlo",
+        "file": "Mbpp_321.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.3783e-05,
+        "cumtime": 0.00029040200000000004,
+        "pct_cumtime": 96.32354404516296
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 0.000115822,
+        "cumtime": 0.00023230800000000003,
+        "pct_cumtime": 77.05432424722873
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_321.py",
+        "line": 6,
+        "calls_primitive": 720,
+        "calls_total": 720,
+        "tottime": 6.348700000000001e-05,
+        "cumtime": 6.348700000000001e-05,
+        "pct_cumtime": 21.05802591165096
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_321.py",
+        "line": 7,
+        "calls_primitive": 630,
+        "calls_total": 630,
+        "tottime": 5.2999000000000005e-05,
+        "cumtime": 5.2999000000000005e-05,
+        "pct_cumtime": 17.579257411621104
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.470000000000001e-06,
+        "cumtime": 6.470000000000001e-06,
+        "pct_cumtime": 2.1460366318834043
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.311e-06,
+        "cumtime": 4.311e-06,
+        "pct_cumtime": 1.4299171437479683
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_321.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1084000000000001e-05,
+        "cumtime": 0.000301486,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_demlo",
+        "file": "Mbpp_321.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.3783e-05,
+        "cumtime": 0.00029040200000000004,
+        "pct_cumtime": 96.32354404516296
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_321.py",
+        "line": 6,
+        "calls_primitive": 720,
+        "calls_total": 720,
+        "tottime": 6.348700000000001e-05,
+        "cumtime": 6.348700000000001e-05,
+        "pct_cumtime": 21.05802591165096
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_321.py",
+        "line": 7,
+        "calls_primitive": 630,
+        "calls_total": 630,
+        "tottime": 5.2999000000000005e-05,
+        "cumtime": 5.2999000000000005e-05,
+        "pct_cumtime": 17.579257411621104
+      }
+    ]
+  }
+]

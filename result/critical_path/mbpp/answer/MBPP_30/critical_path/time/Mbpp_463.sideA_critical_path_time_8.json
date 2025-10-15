@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_463.py",
+    "total_cumtime_hint": 0.00012084900000000001,
+    "total_tottime_sum_topk": 0.000127255,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_463.py",
+        "line": 25,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2873e-05,
+        "cumtime": 0.00012084900000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_subarray_product",
+        "file": "Mbpp_463.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.111e-05,
+        "cumtime": 0.00010797600000000001,
+        "pct_cumtime": 89.34786386316809
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 1.5879e-05,
+        "cumtime": 1.5879e-05,
+        "pct_cumtime": 13.139537770275304
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 6.853e-06,
+        "cumtime": 6.853e-06,
+        "pct_cumtime": 5.670713038585342
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.406e-06,
+        "cumtime": 6.406e-06,
+        "pct_cumtime": 5.300829961356735
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.1340000000000006e-06,
+        "cumtime": 4.1340000000000006e-06,
+        "pct_cumtime": 3.42079785517464
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_463.py",
+        "line": 25,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2873e-05,
+        "cumtime": 0.00012084900000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_subarray_product",
+        "file": "Mbpp_463.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.111e-05,
+        "cumtime": 0.00010797600000000001,
+        "pct_cumtime": 89.34786386316809
+      }
+    ]
+  }
+]

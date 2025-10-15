@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_588.py",
+    "total_cumtime_hint": 0.022064593,
+    "total_tottime_sum_topk": 0.022079201,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_588.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.008171573,
+        "cumtime": 0.022064593,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "big_diff",
+        "file": "Mbpp_588.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.2043000000000002e-05,
+        "cumtime": 0.01389302,
+        "pct_cumtime": 62.965222154788904
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.006976209000000001,
+        "cumtime": 0.006976209000000001,
+        "pct_cumtime": 31.61721133945231
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.006893281,
+        "cumtime": 0.006893281,
+        "pct_cumtime": 31.241369374001142
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4608000000000001e-05,
+        "cumtime": 1.4608000000000001e-05,
+        "pct_cumtime": 0.06620561729826606
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.159e-06,
+        "cumtime": 1.159e-06,
+        "pct_cumtime": 0.005252759477593808
+      },
+      {
+        "func": "<built-in method builtins.abs>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.28e-07,
+        "cumtime": 3.28e-07,
+        "pct_cumtime": 0.0014865445286029071
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_588.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.008171573,
+        "cumtime": 0.022064593,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "big_diff",
+        "file": "Mbpp_588.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.2043000000000002e-05,
+        "cumtime": 0.01389302,
+        "pct_cumtime": 62.965222154788904
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_952.py",
+    "total_cumtime_hint": 0.000287846,
+    "total_tottime_sum_topk": 0.000294262,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_952.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0371000000000001e-05,
+        "cumtime": 0.000287846,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "nCr_mod_p",
+        "file": "Mbpp_952.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00022263600000000001,
+        "cumtime": 0.000277475,
+        "pct_cumtime": 96.39703174614202
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1170,
+        "calls_total": 1170,
+        "tottime": 5.4839e-05,
+        "cumtime": 5.4839e-05,
+        "pct_cumtime": 19.051506708448265
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.416e-06,
+        "cumtime": 6.416e-06,
+        "pct_cumtime": 2.228969657386241
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_952.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0371000000000001e-05,
+        "cumtime": 0.000287846,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "nCr_mod_p",
+        "file": "Mbpp_952.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00022263600000000001,
+        "cumtime": 0.000277475,
+        "pct_cumtime": 96.39703174614202
+      }
+    ]
+  }
+]

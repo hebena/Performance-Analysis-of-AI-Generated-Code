@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_61.py",
+    "total_cumtime_hint": 0.000119752,
+    "total_tottime_sum_topk": 0.000125511,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_61.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.8667000000000002e-05,
+        "cumtime": 0.000119752,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "correct_bracketing",
+        "file": "HumanEval_61.py",
+        "line": 1,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 9.1085e-05,
+        "cumtime": 9.1085e-05,
+        "pct_cumtime": 76.06136014429822
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.759e-06,
+        "cumtime": 5.759e-06,
+        "pct_cumtime": 4.809105484668315
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_61.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.8667000000000002e-05,
+        "cumtime": 0.000119752,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "correct_bracketing",
+        "file": "HumanEval_61.py",
+        "line": 1,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 9.1085e-05,
+        "cumtime": 9.1085e-05,
+        "pct_cumtime": 76.06136014429822
+      }
+    ]
+  }
+]

@@ -1,0 +1,946 @@
+[
+  {
+    "task_id": "HumanEval_0.py",
+    "status": "success",
+    "cpu_usage": 108.2361823533291,
+    "kernel_usage": 3.3823806985415343,
+    "cpu_runtime": 0.003662577,
+    "total_runtime": 0.0033838748931884766
+  },
+  {
+    "task_id": "Mbpp_3.py",
+    "status": "success",
+    "cpu_usage": 225.3297447768662,
+    "kernel_usage": 7.0415545242770685,
+    "cpu_runtime": 0.0007988580000000002,
+    "total_runtime": 0.00035452842712402344
+  },
+  {
+    "task_id": "Mbpp_4.py",
+    "status": "success",
+    "cpu_usage": 338.8929771449907,
+    "kernel_usage": 10.59040553578096,
+    "cpu_runtime": 0.0012984300000000002,
+    "total_runtime": 0.00038313865661621094
+  },
+  {
+    "task_id": "HumanEval_4.py",
+    "status": "success",
+    "cpu_usage": 227.76967871128068,
+    "kernel_usage": 7.117802459727521,
+    "cpu_runtime": 0.010961368,
+    "total_runtime": 0.004812479019165039
+  },
+  {
+    "task_id": "HumanEval_9.py",
+    "status": "success",
+    "cpu_usage": 223.60864446233148,
+    "kernel_usage": 6.987770139447859,
+    "cpu_runtime": 0.005812657000000001,
+    "total_runtime": 0.002599477767944336
+  },
+  {
+    "task_id": "Mbpp_9.py",
+    "status": "success",
+    "cpu_usage": 160.95641600000002,
+    "kernel_usage": 5.029888000000001,
+    "cpu_runtime": 7.675e-06,
+    "total_runtime": 4.76837158203125e-06
+  },
+  {
+    "task_id": "Mbpp_11.py",
+    "status": "success",
+    "cpu_usage": 197.3791298143541,
+    "kernel_usage": 6.168097806698565,
+    "cpu_runtime": 0.00019670600000000002,
+    "total_runtime": 9.965896606445312e-05
+  },
+  {
+    "task_id": "Mbpp_12.py",
+    "status": "success",
+    "cpu_usage": 228.81929126899462,
+    "kernel_usage": 7.150602852156082,
+    "cpu_runtime": 0.008514362999999999,
+    "total_runtime": 0.003720998764038086
+  },
+  {
+    "task_id": "HumanEval_16.py",
+    "status": "success",
+    "cpu_usage": 206.05482841116452,
+    "kernel_usage": 6.439213387848891,
+    "cpu_runtime": 0.007867737,
+    "total_runtime": 0.0038182735443115234
+  },
+  {
+    "task_id": "Mbpp_16.py",
+    "status": "success",
+    "cpu_usage": 377.9972065341318,
+    "kernel_usage": 11.812412704191619,
+    "cpu_runtime": 0.00015050300000000002,
+    "total_runtime": 3.981590270996094e-05
+  },
+  {
+    "task_id": "Mbpp_19.py",
+    "status": "success",
+    "cpu_usage": 144.03683858686134,
+    "kernel_usage": 4.501151205839417,
+    "cpu_runtime": 0.00018818900000000004,
+    "total_runtime": 0.00013065338134765625
+  },
+  {
+    "task_id": "HumanEval_20.py",
+    "status": "success",
+    "cpu_usage": 219.14384380351234,
+    "kernel_usage": 6.848245118859761,
+    "cpu_runtime": 0.004105645,
+    "total_runtime": 0.0018734931945800781
+  },
+  {
+    "task_id": "HumanEval_24.py",
+    "status": "success",
+    "cpu_usage": 198.23177751676303,
+    "kernel_usage": 6.194743047398845,
+    "cpu_runtime": 0.000163527,
+    "total_runtime": 8.249282836914062e-05
+  },
+  {
+    "task_id": "HumanEval_26.py",
+    "status": "success",
+    "cpu_usage": 226.8411803547548,
+    "kernel_usage": 7.088786886086088,
+    "cpu_runtime": 0.017289302000000003,
+    "total_runtime": 0.00762176513671875
+  },
+  {
+    "task_id": "HumanEval_31.py",
+    "status": "success",
+    "cpu_usage": 197.89783373008132,
+    "kernel_usage": 6.184307304065041,
+    "cpu_runtime": 0.00011606900000000002,
+    "total_runtime": 5.8650970458984375e-05
+  },
+  {
+    "task_id": "HumanEval_33.py",
+    "status": "success",
+    "cpu_usage": 276.27036261099687,
+    "kernel_usage": 8.633448831593652,
+    "cpu_runtime": 0.0051871040000000005,
+    "total_runtime": 0.0018775463104248047
+  },
+  {
+    "task_id": "HumanEval_34.py",
+    "status": "success",
+    "cpu_usage": 198.74306478549832,
+    "kernel_usage": 6.2107207745468225,
+    "cpu_runtime": 0.006299708,
+    "total_runtime": 0.0031697750091552734
+  },
+  {
+    "task_id": "HumanEval_36.py",
+    "status": "success",
+    "cpu_usage": 217.08238352027428,
+    "kernel_usage": 6.783824485008571,
+    "cpu_runtime": 0.048906762,
+    "total_runtime": 0.022529125213623047
+  },
+  {
+    "task_id": "HumanEval_37.py",
+    "status": "success",
+    "cpu_usage": 276.4886922851029,
+    "kernel_usage": 8.640271633909466,
+    "cpu_runtime": 0.0016018570000000002,
+    "total_runtime": 0.0005793571472167969
+  },
+  {
+    "task_id": "HumanEval_49.py",
+    "status": "success",
+    "cpu_usage": 173.97186560000003,
+    "kernel_usage": 5.436620800000001,
+    "cpu_runtime": 1.3273000000000003e-05,
+    "total_runtime": 7.62939453125e-06
+  },
+  {
+    "task_id": "HumanEval_51.py",
+    "status": "success",
+    "cpu_usage": 299.22670445082116,
+    "kernel_usage": 9.350834514088161,
+    "cpu_runtime": 0.0033016710000000004,
+    "total_runtime": 0.0011034011840820312
+  },
+  {
+    "task_id": "HumanEval_54.py",
+    "status": "success",
+    "cpu_usage": 200.0288146051757,
+    "kernel_usage": 6.250900456411741,
+    "cpu_runtime": 0.018115269,
+    "total_runtime": 0.009056329727172852
+  },
+  {
+    "task_id": "HumanEval_58.py",
+    "status": "success",
+    "cpu_usage": 241.76282071116808,
+    "kernel_usage": 7.555088147224002,
+    "cpu_runtime": 0.006301863000000001,
+    "total_runtime": 0.002606630325317383
+  },
+  {
+    "task_id": "HumanEval_59.py",
+    "status": "success",
+    "cpu_usage": 200.97629847912089,
+    "kernel_usage": 6.280509327472528,
+    "cpu_runtime": 0.000130812,
+    "total_runtime": 6.508827209472656e-05
+  },
+  {
+    "task_id": "Mbpp_62.py",
+    "status": "success",
+    "cpu_usage": 213.14461396193872,
+    "kernel_usage": 6.660769186310585,
+    "cpu_runtime": 0.015412989000000002,
+    "total_runtime": 0.007231235504150391
+  },
+  {
+    "task_id": "HumanEval_64.py",
+    "status": "success",
+    "cpu_usage": 299.6850292797555,
+    "kernel_usage": 9.36515716499236,
+    "cpu_runtime": 0.014025729,
+    "total_runtime": 0.004680156707763672
+  },
+  {
+    "task_id": "HumanEval_74.py",
+    "status": "success",
+    "cpu_usage": 294.6034856391111,
+    "kernel_usage": 9.206358926222222,
+    "cpu_runtime": 0.006321505000000001,
+    "total_runtime": 0.0021457672119140625
+  },
+  {
+    "task_id": "Mbpp_75.py",
+    "status": "success",
+    "cpu_usage": 186.1325538622951,
+    "kernel_usage": 5.816642308196722,
+    "cpu_runtime": 0.00010828100000000002,
+    "total_runtime": 5.817413330078125e-05
+  },
+  {
+    "task_id": "HumanEval_85.py",
+    "status": "success",
+    "cpu_usage": 280.4192783997653,
+    "kernel_usage": 8.763102449992665,
+    "cpu_runtime": 0.041018877,
+    "total_runtime": 0.014627695083618164
+  },
+  {
+    "task_id": "HumanEval_86.py",
+    "status": "success",
+    "cpu_usage": 297.9104935653325,
+    "kernel_usage": 9.30970292391664,
+    "cpu_runtime": 1.2372056230000001,
+    "total_runtime": 0.4152944087982178
+  },
+  {
+    "task_id": "HumanEval_87.py",
+    "status": "success",
+    "cpu_usage": 305.80917227587776,
+    "kernel_usage": 9.55653663362118,
+    "cpu_runtime": 0.009034351000000003,
+    "total_runtime": 0.002954244613647461
+  },
+  {
+    "task_id": "Mbpp_88.py",
+    "status": "success",
+    "cpu_usage": 447.65085159219666,
+    "kernel_usage": 13.989089112256146,
+    "cpu_runtime": 0.0071668040000000014,
+    "total_runtime": 0.0016009807586669922
+  },
+  {
+    "task_id": "HumanEval_89.py",
+    "status": "success",
+    "cpu_usage": 299.33821277678896,
+    "kernel_usage": 9.354319149274655,
+    "cpu_runtime": 0.004378414000000001,
+    "total_runtime": 0.001462697982788086
+  },
+  {
+    "task_id": "HumanEval_90.py",
+    "status": "success",
+    "cpu_usage": 205.75617411786988,
+    "kernel_usage": 6.429880441183434,
+    "cpu_runtime": 0.0008290480000000001,
+    "total_runtime": 0.0004029273986816406
+  },
+  {
+    "task_id": "Mbpp_90.py",
+    "status": "success",
+    "cpu_usage": 253.8396327780127,
+    "kernel_usage": 7.932488524312897,
+    "cpu_runtime": 0.00028626000000000004,
+    "total_runtime": 0.00011277198791503906
+  },
+  {
+    "task_id": "Mbpp_94.py",
+    "status": "success",
+    "cpu_usage": 185.541016426361,
+    "kernel_usage": 5.798156763323782,
+    "cpu_runtime": 0.0012350809999999999,
+    "total_runtime": 0.0006656646728515625
+  },
+  {
+    "task_id": "Mbpp_96.py",
+    "status": "success",
+    "cpu_usage": 197.38918912,
+    "kernel_usage": 6.16841216,
+    "cpu_runtime": 7.5298e-05,
+    "total_runtime": 3.814697265625e-05
+  },
+  {
+    "task_id": "Mbpp_97.py",
+    "status": "success",
+    "cpu_usage": 403.28544012989863,
+    "kernel_usage": 12.602670004059332,
+    "cpu_runtime": 0.0012316910000000003,
+    "total_runtime": 0.00030541419982910156
+  },
+  {
+    "task_id": "Mbpp_106.py",
+    "status": "success",
+    "cpu_usage": 154.61928153915943,
+    "kernel_usage": 4.831852548098732,
+    "cpu_runtime": 0.000552593,
+    "total_runtime": 0.0003573894500732422
+  },
+  {
+    "task_id": "Mbpp_108.py",
+    "status": "success",
+    "cpu_usage": 260.51557286956523,
+    "kernel_usage": 8.141111652173914,
+    "cpu_runtime": 0.0009142850000000001,
+    "total_runtime": 0.0003509521484375
+  },
+  {
+    "task_id": "Mbpp_111.py",
+    "status": "success",
+    "cpu_usage": 113.64014462794638,
+    "kernel_usage": 3.5512545196233245,
+    "cpu_runtime": 0.0028483840000000007,
+    "total_runtime": 0.0025064945220947266
+  },
+  {
+    "task_id": "HumanEval_113.py",
+    "status": "success",
+    "cpu_usage": 297.92351752214876,
+    "kernel_usage": 9.310109922567149,
+    "cpu_runtime": 0.80129509,
+    "total_runtime": 0.26895999908447266
+  },
+  {
+    "task_id": "HumanEval_119.py",
+    "status": "success",
+    "cpu_usage": 299.97703553822566,
+    "kernel_usage": 9.374282360569552,
+    "cpu_runtime": 0.0013059570000000002,
+    "total_runtime": 0.0004353523254394531
+  },
+  {
+    "task_id": "HumanEval_120.py",
+    "status": "success",
+    "cpu_usage": 275.9978176481203,
+    "kernel_usage": 8.62493180150376,
+    "cpu_runtime": 8.751800000000001e-05,
+    "total_runtime": 3.170967102050781e-05
+  },
+  {
+    "task_id": "HumanEval_121.py",
+    "status": "success",
+    "cpu_usage": 281.8967731980456,
+    "kernel_usage": 8.809274162438925,
+    "cpu_runtime": 0.009766202000000002,
+    "total_runtime": 0.0034644603729248047
+  },
+  {
+    "task_id": "Mbpp_123.py",
+    "status": "success",
+    "cpu_usage": 198.66509442284976,
+    "kernel_usage": 6.208284200714055,
+    "cpu_runtime": 0.0029186590000000005,
+    "total_runtime": 0.0014691352844238281
+  },
+  {
+    "task_id": "Mbpp_128.py",
+    "status": "success",
+    "cpu_usage": 217.79192385641028,
+    "kernel_usage": 6.805997620512821,
+    "cpu_runtime": 2.0251000000000003e-05,
+    "total_runtime": 9.298324584960938e-06
+  },
+  {
+    "task_id": "Mbpp_129.py",
+    "status": "success",
+    "cpu_usage": 100.41786074249528,
+    "kernel_usage": 3.1380581482029775,
+    "cpu_runtime": 0.00582209,
+    "total_runtime": 0.005797863006591797
+  },
+  {
+    "task_id": "Mbpp_130.py",
+    "status": "success",
+    "cpu_usage": 439.45354768142033,
+    "kernel_usage": 13.732923365044385,
+    "cpu_runtime": 0.0034229630000000007,
+    "total_runtime": 0.0007789134979248047
+  },
+  {
+    "task_id": "Mbpp_137.py",
+    "status": "success",
+    "cpu_usage": 225.4137822648395,
+    "kernel_usage": 7.044180695776235,
+    "cpu_runtime": 0.068709138,
+    "total_runtime": 0.030481338500976562
+  },
+  {
+    "task_id": "Mbpp_140.py",
+    "status": "success",
+    "cpu_usage": 220.4353519095188,
+    "kernel_usage": 6.8886047471724625,
+    "cpu_runtime": 0.005985064,
+    "total_runtime": 0.0027151107788085938
+  },
+  {
+    "task_id": "Mbpp_141.py",
+    "status": "success",
+    "cpu_usage": 244.07622892307694,
+    "kernel_usage": 7.627382153846154,
+    "cpu_runtime": 2.2695000000000002e-05,
+    "total_runtime": 9.298324584960938e-06
+  },
+  {
+    "task_id": "HumanEval_149.py",
+    "status": "success",
+    "cpu_usage": 255.68955212861755,
+    "kernel_usage": 7.990298504019298,
+    "cpu_runtime": 0.06596178200000001,
+    "total_runtime": 0.025797605514526367
+  },
+  {
+    "task_id": "Mbpp_166.py",
+    "status": "success",
+    "cpu_usage": 193.26763217380193,
+    "kernel_usage": 6.03961350543131,
+    "cpu_runtime": 0.000144226,
+    "total_runtime": 7.462501525878906e-05
+  },
+  {
+    "task_id": "Mbpp_170.py",
+    "status": "success",
+    "cpu_usage": 179.35186648418576,
+    "kernel_usage": 5.604745827630805,
+    "cpu_runtime": 0.01454723,
+    "total_runtime": 0.008111000061035156
+  },
+  {
+    "task_id": "Mbpp_226.py",
+    "status": "success",
+    "cpu_usage": 199.4043179264633,
+    "kernel_usage": 6.231384935201978,
+    "cpu_runtime": 0.002306723,
+    "total_runtime": 0.0011568069458007812
+  },
+  {
+    "task_id": "Mbpp_230.py",
+    "status": "success",
+    "cpu_usage": 296.9500655746031,
+    "kernel_usage": 9.279689549206347,
+    "cpu_runtime": 0.0007582509999999999,
+    "total_runtime": 0.00025534629821777344
+  },
+  {
+    "task_id": "Mbpp_239.py",
+    "status": "success",
+    "cpu_usage": 199.78054881374754,
+    "kernel_usage": 6.243142150429611,
+    "cpu_runtime": 0.0007206630000000001,
+    "total_runtime": 0.00036072731018066406
+  },
+  {
+    "task_id": "Mbpp_240.py",
+    "status": "success",
+    "cpu_usage": 149.23267579968504,
+    "kernel_usage": 4.6635211187401575,
+    "cpu_runtime": 0.000451864,
+    "total_runtime": 0.0003027915954589844
+  },
+  {
+    "task_id": "Mbpp_251.py",
+    "status": "success",
+    "cpu_usage": 136.2915498249389,
+    "kernel_usage": 4.2591109320293405,
+    "cpu_runtime": 0.000531609,
+    "total_runtime": 0.00039005279541015625
+  },
+  {
+    "task_id": "Mbpp_256.py",
+    "status": "success",
+    "cpu_usage": 216.82527051988473,
+    "kernel_usage": 6.775789703746398,
+    "cpu_runtime": 0.000717529,
+    "total_runtime": 0.00033092498779296875
+  },
+  {
+    "task_id": "Mbpp_265.py",
+    "status": "success",
+    "cpu_usage": 290.629072599963,
+    "kernel_usage": 9.082158518748845,
+    "cpu_runtime": 0.014975251000000002,
+    "total_runtime": 0.005152702331542969
+  },
+  {
+    "task_id": "Mbpp_281.py",
+    "status": "success",
+    "cpu_usage": 159.5553187352381,
+    "kernel_usage": 4.986103710476191,
+    "cpu_runtime": 0.000119829,
+    "total_runtime": 7.510185241699219e-05
+  },
+  {
+    "task_id": "Mbpp_296.py",
+    "status": "success",
+    "cpu_usage": 384.5105121165933,
+    "kernel_usage": 12.01595350364354,
+    "cpu_runtime": 0.145832048,
+    "total_runtime": 0.037926673889160156
+  },
+  {
+    "task_id": "Mbpp_308.py",
+    "status": "success",
+    "cpu_usage": 239.789733981961,
+    "kernel_usage": 7.4934291869362815,
+    "cpu_runtime": 0.03217431700000001,
+    "total_runtime": 0.013417720794677734
+  },
+  {
+    "task_id": "Mbpp_392.py",
+    "status": "success",
+    "cpu_usage": 205.3321795911574,
+    "kernel_usage": 6.416630612223669,
+    "cpu_runtime": 0.0003764640000000001,
+    "total_runtime": 0.00018334388732910156
+  },
+  {
+    "task_id": "Mbpp_395.py",
+    "status": "success",
+    "cpu_usage": 497.98569739654636,
+    "kernel_usage": 15.562053043642074,
+    "cpu_runtime": 0.004537824,
+    "total_runtime": 0.0009112358093261719
+  },
+  {
+    "task_id": "Mbpp_405.py",
+    "status": "success",
+    "cpu_usage": 197.709824,
+    "kernel_usage": 6.178432,
+    "cpu_runtime": 0.000241345,
+    "total_runtime": 0.0001220703125
+  },
+  {
+    "task_id": "Mbpp_414.py",
+    "status": "success",
+    "cpu_usage": 183.50866432,
+    "kernel_usage": 5.73464576,
+    "cpu_runtime": 0.00021000900000000001,
+    "total_runtime": 0.00011444091796875
+  },
+  {
+    "task_id": "Mbpp_421.py",
+    "status": "success",
+    "cpu_usage": 299.7997947290124,
+    "kernel_usage": 9.368743585281637,
+    "cpu_runtime": 0.024592666000000003,
+    "total_runtime": 0.00820302963256836
+  },
+  {
+    "task_id": "Mbpp_424.py",
+    "status": "success",
+    "cpu_usage": 282.90860100266667,
+    "kernel_usage": 8.840893781333333,
+    "cpu_runtime": 0.00020235200000000002,
+    "total_runtime": 7.152557373046875e-05
+  },
+  {
+    "task_id": "Mbpp_425.py",
+    "status": "success",
+    "cpu_usage": 189.65596487329475,
+    "kernel_usage": 5.926748902290461,
+    "cpu_runtime": 0.003592983,
+    "total_runtime": 0.0018944740295410156
+  },
+  {
+    "task_id": "Mbpp_428.py",
+    "status": "success",
+    "cpu_usage": 199.07658314539378,
+    "kernel_usage": 6.221143223293556,
+    "cpu_runtime": 0.001988723,
+    "total_runtime": 0.0009989738464355469
+  },
+  {
+    "task_id": "Mbpp_433.py",
+    "status": "success",
+    "cpu_usage": 180.9583506179626,
+    "kernel_usage": 5.654948456811331,
+    "cpu_runtime": 0.030340469000000002,
+    "total_runtime": 0.01676654815673828
+  },
+  {
+    "task_id": "Mbpp_437.py",
+    "status": "success",
+    "cpu_usage": 199.52528133186004,
+    "kernel_usage": 6.235165041620626,
+    "cpu_runtime": 0.00258308,
+    "total_runtime": 0.0012946128845214844
+  },
+  {
+    "task_id": "Mbpp_440.py",
+    "status": "success",
+    "cpu_usage": 242.05668462702704,
+    "kernel_usage": 7.564271394594595,
+    "cpu_runtime": 2.1353e-05,
+    "total_runtime": 8.821487426757812e-06
+  },
+  {
+    "task_id": "Mbpp_446.py",
+    "status": "success",
+    "cpu_usage": 295.3827194434783,
+    "kernel_usage": 9.230709982608698,
+    "cpu_runtime": 0.0028507930000000008,
+    "total_runtime": 0.000965118408203125
+  },
+  {
+    "task_id": "Mbpp_451.py",
+    "status": "success",
+    "cpu_usage": 299.4109268923346,
+    "kernel_usage": 9.356591465385456,
+    "cpu_runtime": 0.003268725,
+    "total_runtime": 0.0010917186737060547
+  },
+  {
+    "task_id": "Mbpp_456.py",
+    "status": "success",
+    "cpu_usage": 266.55644642069507,
+    "kernel_usage": 8.32988895064672,
+    "cpu_runtime": 0.041420022,
+    "total_runtime": 0.015538930892944336
+  },
+  {
+    "task_id": "Mbpp_460.py",
+    "status": "success",
+    "cpu_usage": 103.62602287010698,
+    "kernel_usage": 3.238313214690843,
+    "cpu_runtime": 0.0010628680000000004,
+    "total_runtime": 0.0010256767272949219
+  },
+  {
+    "task_id": "Mbpp_474.py",
+    "status": "success",
+    "cpu_usage": 295.3769563485894,
+    "kernel_usage": 9.230529885893418,
+    "cpu_runtime": 0.00044930100000000004,
+    "total_runtime": 0.00015211105346679688
+  },
+  {
+    "task_id": "Mbpp_476.py",
+    "status": "success",
+    "cpu_usage": 318.7440234567454,
+    "kernel_usage": 9.960750733023295,
+    "cpu_runtime": 0.036113345,
+    "total_runtime": 0.011329889297485352
+  },
+  {
+    "task_id": "Mbpp_477.py",
+    "status": "success",
+    "cpu_usage": 298.92527411310954,
+    "kernel_usage": 9.341414816034673,
+    "cpu_runtime": 0.0019734480000000005,
+    "total_runtime": 0.0006601810455322266
+  },
+  {
+    "task_id": "Mbpp_563.py",
+    "status": "success",
+    "cpu_usage": 298.3399875395919,
+    "kernel_usage": 9.323124610612247,
+    "cpu_runtime": 0.004182432000000001,
+    "total_runtime": 0.0014019012451171875
+  },
+  {
+    "task_id": "Mbpp_572.py",
+    "status": "success",
+    "cpu_usage": 381.5669583130623,
+    "kernel_usage": 11.923967447283196,
+    "cpu_runtime": 0.0025281300000000004,
+    "total_runtime": 0.0006625652313232422
+  },
+  {
+    "task_id": "Mbpp_578.py",
+    "status": "success",
+    "cpu_usage": 142.43771274470518,
+    "kernel_usage": 4.451178523272037,
+    "cpu_runtime": 0.0010710920000000003,
+    "total_runtime": 0.0007519721984863281
+  },
+  {
+    "task_id": "Mbpp_586.py",
+    "status": "success",
+    "cpu_usage": 147.67385687372015,
+    "kernel_usage": 4.614808027303755,
+    "cpu_runtime": 0.00010316000000000001,
+    "total_runtime": 6.985664367675781e-05
+  },
+  {
+    "task_id": "Mbpp_587.py",
+    "status": "success",
+    "cpu_usage": 128.68725970575795,
+    "kernel_usage": 4.021476865804936,
+    "cpu_runtime": 0.0005221980000000001,
+    "total_runtime": 0.0004057884216308594
+  },
+  {
+    "task_id": "Mbpp_588.py",
+    "status": "success",
+    "cpu_usage": 245.33793742772966,
+    "kernel_usage": 7.666810544616552,
+    "cpu_runtime": 0.027717550999999997,
+    "total_runtime": 0.01129770278930664
+  },
+  {
+    "task_id": "Mbpp_592.py",
+    "status": "success",
+    "cpu_usage": 199.7066002202218,
+    "kernel_usage": 6.240831256881931,
+    "cpu_runtime": 0.005109433,
+    "total_runtime": 0.002558469772338867
+  },
+  {
+    "task_id": "Mbpp_597.py",
+    "status": "success",
+    "cpu_usage": 242.14036754676553,
+    "kernel_usage": 7.566886485836423,
+    "cpu_runtime": 0.028495327,
+    "total_runtime": 0.011768102645874023
+  },
+  {
+    "task_id": "Mbpp_604.py",
+    "status": "success",
+    "cpu_usage": 268.95032976529103,
+    "kernel_usage": 8.404697805165345,
+    "cpu_runtime": 0.048166449,
+    "total_runtime": 0.01790904998779297
+  },
+  {
+    "task_id": "Mbpp_610.py",
+    "status": "success",
+    "cpu_usage": 108.46796941847447,
+    "kernel_usage": 3.389624044327327,
+    "cpu_runtime": 0.003631112,
+    "total_runtime": 0.003347635269165039
+  },
+  {
+    "task_id": "Mbpp_611.py",
+    "status": "success",
+    "cpu_usage": 108.38038394587429,
+    "kernel_usage": 3.3868869983085714,
+    "cpu_runtime": 0.002260991,
+    "total_runtime": 0.002086162567138672
+  },
+  {
+    "task_id": "Mbpp_631.py",
+    "status": "success",
+    "cpu_usage": 295.24053313136096,
+    "kernel_usage": 9.22626666035503,
+    "cpu_runtime": 0.0009516840000000001,
+    "total_runtime": 0.0003223419189453125
+  },
+  {
+    "task_id": "Mbpp_632.py",
+    "status": "success",
+    "cpu_usage": 218.16534614540046,
+    "kernel_usage": 6.8176670670437645,
+    "cpu_runtime": 0.017839472,
+    "total_runtime": 0.008177042007446289
+  },
+  {
+    "task_id": "Mbpp_633.py",
+    "status": "success",
+    "cpu_usage": 199.7439317913128,
+    "kernel_usage": 6.241997868478525,
+    "cpu_runtime": 0.00196253,
+    "total_runtime": 0.000982522964477539
+  },
+  {
+    "task_id": "Mbpp_644.py",
+    "status": "success",
+    "cpu_usage": 119.32280572443834,
+    "kernel_usage": 3.728837678888698,
+    "cpu_runtime": 0.0016588479999999999,
+    "total_runtime": 0.001390218734741211
+  },
+  {
+    "task_id": "Mbpp_720.py",
+    "status": "success",
+    "cpu_usage": 101.914563878652,
+    "kernel_usage": 3.184830121207875,
+    "cpu_runtime": 0.0069362,
+    "total_runtime": 0.006805896759033203
+  },
+  {
+    "task_id": "Mbpp_725.py",
+    "status": "success",
+    "cpu_usage": 308.9707686747547,
+    "kernel_usage": 9.655336521086085,
+    "cpu_runtime": 0.14615085000000003,
+    "total_runtime": 0.0473024845123291
+  },
+  {
+    "task_id": "Mbpp_732.py",
+    "status": "success",
+    "cpu_usage": 295.0867626666667,
+    "kernel_usage": 9.221461333333334,
+    "cpu_runtime": 0.000455895,
+    "total_runtime": 0.0001544952392578125
+  },
+  {
+    "task_id": "Mbpp_740.py",
+    "status": "success",
+    "cpu_usage": 196.29832645191436,
+    "kernel_usage": 6.134322701622324,
+    "cpu_runtime": 0.0014424120000000001,
+    "total_runtime": 0.0007348060607910156
+  },
+  {
+    "task_id": "Mbpp_744.py",
+    "status": "success",
+    "cpu_usage": 199.8730820423963,
+    "kernel_usage": 6.2460338138248845,
+    "cpu_runtime": 0.013132816,
+    "total_runtime": 0.006570577621459961
+  },
+  {
+    "task_id": "Mbpp_750.py",
+    "status": "success",
+    "cpu_usage": 166.80257307885856,
+    "kernel_usage": 5.21258040871433,
+    "cpu_runtime": 0.005184265,
+    "total_runtime": 0.0031080245971679688
+  },
+  {
+    "task_id": "Mbpp_753.py",
+    "status": "success",
+    "cpu_usage": 258.5414349258389,
+    "kernel_usage": 8.079419841432466,
+    "cpu_runtime": 0.119799442,
+    "total_runtime": 0.04633665084838867
+  },
+  {
+    "task_id": "Mbpp_754.py",
+    "status": "success",
+    "cpu_usage": 209.97267584286354,
+    "kernel_usage": 6.561646120089486,
+    "cpu_runtime": 0.0044754880000000006,
+    "total_runtime": 0.0021314620971679688
+  },
+  {
+    "task_id": "Mbpp_755.py",
+    "status": "success",
+    "cpu_usage": 204.30279141794702,
+    "kernel_usage": 6.384462231810844,
+    "cpu_runtime": 0.010259212,
+    "total_runtime": 0.005021572113037109
+  },
+  {
+    "task_id": "Mbpp_757.py",
+    "status": "success",
+    "cpu_usage": 248.17488408201748,
+    "kernel_usage": 7.755465127563046,
+    "cpu_runtime": 0.009338131,
+    "total_runtime": 0.0037627220153808594
+  },
+  {
+    "task_id": "Mbpp_758.py",
+    "status": "success",
+    "cpu_usage": 240.05532873698408,
+    "kernel_usage": 7.5017290230307525,
+    "cpu_runtime": 0.006197832000000001,
+    "total_runtime": 0.0025818347930908203
+  },
+  {
+    "task_id": "Mbpp_760.py",
+    "status": "success",
+    "cpu_usage": 223.4378142476191,
+    "kernel_usage": 6.9824316952380965,
+    "cpu_runtime": 0.000178993,
+    "total_runtime": 8.0108642578125e-05
+  },
+  {
+    "task_id": "Mbpp_764.py",
+    "status": "success",
+    "cpu_usage": 299.95330427923,
+    "kernel_usage": 9.373540758725937,
+    "cpu_runtime": 0.104875212,
+    "total_runtime": 0.03496384620666504
+  },
+  {
+    "task_id": "Mbpp_766.py",
+    "status": "success",
+    "cpu_usage": 180.58199776399317,
+    "kernel_usage": 5.643187430124787,
+    "cpu_runtime": 0.129556255,
+    "total_runtime": 0.07174372673034668
+  },
+  {
+    "task_id": "Mbpp_775.py",
+    "status": "success",
+    "cpu_usage": 174.75469101210663,
+    "kernel_usage": 5.461084094128332,
+    "cpu_runtime": 0.07707564900000001,
+    "total_runtime": 0.04410505294799805
+  },
+  {
+    "task_id": "Mbpp_777.py",
+    "status": "success",
+    "cpu_usage": 185.85695380255896,
+    "kernel_usage": 5.808029806329968,
+    "cpu_runtime": 0.005264236000000001,
+    "total_runtime": 0.0028324127197265625
+  },
+  {
+    "task_id": "Mbpp_781.py",
+    "status": "success",
+    "cpu_usage": 199.95192862274206,
+    "kernel_usage": 6.248497769460689,
+    "cpu_runtime": 0.0007336760000000001,
+    "total_runtime": 0.0003669261932373047
+  },
+  {
+    "task_id": "Mbpp_800.py",
+    "status": "success",
+    "cpu_usage": 299.474299296834,
+    "kernel_usage": 9.358571853026062,
+    "cpu_runtime": 0.003315113,
+    "total_runtime": 0.0011069774627685547
+  },
+  {
+    "task_id": "Mbpp_805.py",
+    "status": "success",
+    "cpu_usage": 232.70017876156322,
+    "kernel_usage": 7.271880586298851,
+    "cpu_runtime": 0.008446837,
+    "total_runtime": 0.003629922866821289
+  },
+  {
+    "task_id": "Mbpp_808.py",
+    "status": "success",
+    "cpu_usage": 199.0253835094031,
+    "kernel_usage": 6.219543234668847,
+    "cpu_runtime": 0.00116066,
+    "total_runtime": 0.0005831718444824219
+  }
+]

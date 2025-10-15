@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_804.py",
+    "total_cumtime_hint": 2.3175e-05,
+    "total_tottime_sum_topk": 2.9539000000000003e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_804.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1069e-05,
+        "cumtime": 2.3175e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_Product_Even",
+        "file": "Mbpp_804.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.2106e-05,
+        "cumtime": 1.2106e-05,
+        "pct_cumtime": 52.23732470334412
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.364e-06,
+        "cumtime": 6.364e-06,
+        "pct_cumtime": 27.46062567421791
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_804.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1069e-05,
+        "cumtime": 2.3175e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_Product_Even",
+        "file": "Mbpp_804.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.2106e-05,
+        "cumtime": 1.2106e-05,
+        "pct_cumtime": 52.23732470334412
+      }
+    ]
+  }
+]

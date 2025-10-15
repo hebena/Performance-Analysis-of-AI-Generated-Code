@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_836.py",
+    "total_cumtime_hint": 4.2451000000000004e-05,
+    "total_tottime_sum_topk": 4.8246e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_836.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0868e-05,
+        "cumtime": 4.2451000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_sub_array_sum",
+        "file": "Mbpp_836.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.1583e-05,
+        "cumtime": 3.1583e-05,
+        "pct_cumtime": 74.39871852253185
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.795e-06,
+        "cumtime": 5.795e-06,
+        "pct_cumtime": 13.651032955642975
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_836.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0868e-05,
+        "cumtime": 4.2451000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_sub_array_sum",
+        "file": "Mbpp_836.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.1583e-05,
+        "cumtime": 3.1583e-05,
+        "pct_cumtime": 74.39871852253185
+      }
+    ]
+  }
+]

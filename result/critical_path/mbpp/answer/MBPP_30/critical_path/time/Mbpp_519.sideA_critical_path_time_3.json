@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_519.py",
+    "total_cumtime_hint": 5.2834e-05,
+    "total_tottime_sum_topk": 5.8664000000000006e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_519.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.649e-06,
+        "cumtime": 5.2834e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "volume_tetrahedron",
+        "file": "Mbpp_519.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.2154e-05,
+        "cumtime": 4.3185e-05,
+        "pct_cumtime": 81.7371389635462
+      },
+      {
+        "func": "<built-in method builtins.round>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.5852e-05,
+        "cumtime": 1.5852e-05,
+        "pct_cumtime": 30.00340689707385
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.83e-06,
+        "cumtime": 5.83e-06,
+        "pct_cumtime": 11.034561078093652
+      },
+      {
+        "func": "<built-in method math.sqrt>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.179000000000001e-06,
+        "cumtime": 5.179000000000001e-06,
+        "pct_cumtime": 9.802399969716472
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_519.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.649e-06,
+        "cumtime": 5.2834e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "volume_tetrahedron",
+        "file": "Mbpp_519.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.2154e-05,
+        "cumtime": 4.3185e-05,
+        "pct_cumtime": 81.7371389635462
+      }
+    ]
+  }
+]

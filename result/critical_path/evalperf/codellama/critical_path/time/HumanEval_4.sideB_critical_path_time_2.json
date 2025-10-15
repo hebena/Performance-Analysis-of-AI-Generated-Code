@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_4.py",
+    "total_cumtime_hint": 11.976795756000001,
+    "total_tottime_sum_topk": 11.976812509000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_4.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000191275,
+        "cumtime": 11.976795756000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "mean_absolute_deviation",
+        "file": "HumanEval_4.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.656e-06,
+        "cumtime": 11.976604481,
+        "pct_cumtime": 99.99840295347856
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 65537,
+        "tottime": 11.923915371000001,
+        "cumtime": 11.976599757,
+        "pct_cumtime": 99.9983635105416
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_4.py",
+        "line": 12,
+        "calls_primitive": 65537,
+        "calls_total": 65537,
+        "tottime": 0.020831398,
+        "cumtime": 11.970398704,
+        "pct_cumtime": 99.94658795114883
+      },
+      {
+        "func": "mean",
+        "file": "HumanEval_4.py",
+        "line": 14,
+        "calls_primitive": 65536,
+        "calls_total": 65536,
+        "tottime": 0.021357996,
+        "cumtime": 11.945485595000001,
+        "pct_cumtime": 99.73857648040533
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 65537,
+        "calls_total": 65537,
+        "tottime": 0.0064133490000000005,
+        "cumtime": 0.0064133490000000005,
+        "pct_cumtime": 0.05354812030410648
+      },
+      {
+        "func": "<built-in method builtins.abs>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 65536,
+        "calls_total": 65536,
+        "tottime": 0.004081711,
+        "cumtime": 0.004081711,
+        "pct_cumtime": 0.03408015869315622
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.6753e-05,
+        "cumtime": 1.6753e-05,
+        "pct_cumtime": 0.00013987881517982194
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_4.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000191275,
+        "cumtime": 11.976795756000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "mean_absolute_deviation",
+        "file": "HumanEval_4.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.656e-06,
+        "cumtime": 11.976604481,
+        "pct_cumtime": 99.99840295347856
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_4.py",
+        "line": 12,
+        "calls_primitive": 65537,
+        "calls_total": 65537,
+        "tottime": 0.020831398,
+        "cumtime": 11.970398704,
+        "pct_cumtime": 99.94658795114883
+      },
+      {
+        "func": "mean",
+        "file": "HumanEval_4.py",
+        "line": 14,
+        "calls_primitive": 65536,
+        "calls_total": 65536,
+        "tottime": 0.021357996,
+        "cumtime": 11.945485595000001,
+        "pct_cumtime": 99.73857648040533
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_32.py",
+    "total_cumtime_hint": 0.29028940400000003,
+    "total_tottime_sum_topk": 0.27630668,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_32.py",
+        "line": 37,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00602207,
+        "cumtime": 0.29028940400000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_zero",
+        "file": "HumanEval_32.py",
+        "line": 10,
+        "calls_primitive": 3000,
+        "calls_total": 3000,
+        "tottime": 0.025892107,
+        "cumtime": 0.240887398,
+        "pct_cumtime": 82.98180873319096
+      },
+      {
+        "func": "poly",
+        "file": "HumanEval_32.py",
+        "line": 3,
+        "calls_primitive": 229320,
+        "calls_total": 229320,
+        "tottime": 0.13037241600000002,
+        "cumtime": 0.217593475,
+        "pct_cumtime": 74.95742937968207
+      },
+      {
+        "func": "<built-in method math.pow>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1063500,
+        "calls_total": 1063500,
+        "tottime": 0.06717524300000001,
+        "cumtime": 0.06717524300000001,
+        "pct_cumtime": 23.140783671180778
+      },
+      {
+        "func": "randint",
+        "file": "random.py",
+        "line": 336,
+        "calls_primitive": 16980,
+        "calls_total": 16980,
+        "tottime": 0.00270101,
+        "cumtime": 0.020212738,
+        "pct_cumtime": 6.962961004253534
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 229320,
+        "calls_total": 229320,
+        "tottime": 0.020045816,
+        "cumtime": 0.020045816,
+        "pct_cumtime": 6.905459077658928
+      },
+      {
+        "func": "deepcopy",
+        "file": "copy.py",
+        "line": 119,
+        "calls_primitive": 3000,
+        "calls_total": 16980,
+        "tottime": 0.008599256000000001,
+        "cumtime": 0.018739891,
+        "pct_cumtime": 6.45558905760129
+      },
+      {
+        "func": "randrange",
+        "file": "random.py",
+        "line": 295,
+        "calls_primitive": 16980,
+        "calls_total": 16980,
+        "tottime": 0.006800401,
+        "cumtime": 0.017511728,
+        "pct_cumtime": 6.032506787605654
+      },
+      {
+        "func": "_deepcopy_list",
+        "file": "copy.py",
+        "line": 192,
+        "calls_primitive": 3000,
+        "calls_total": 3000,
+        "tottime": 0.0034419290000000003,
+        "cumtime": 0.014951172,
+        "pct_cumtime": 5.150436700059504
+      },
+      {
+        "func": "_randbelow_with_getrandbits",
+        "file": "random.py",
+        "line": 245,
+        "calls_primitive": 16980,
+        "calls_total": 16980,
+        "tottime": 0.005256432,
+        "cumtime": 0.008293953,
+        "pct_cumtime": 2.8571325324709402
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_32.py",
+        "line": 37,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00602207,
+        "cumtime": 0.29028940400000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_zero",
+        "file": "HumanEval_32.py",
+        "line": 10,
+        "calls_primitive": 3000,
+        "calls_total": 3000,
+        "tottime": 0.025892107,
+        "cumtime": 0.240887398,
+        "pct_cumtime": 82.98180873319096
+      },
+      {
+        "func": "poly",
+        "file": "HumanEval_32.py",
+        "line": 3,
+        "calls_primitive": 229320,
+        "calls_total": 229320,
+        "tottime": 0.13037241600000002,
+        "cumtime": 0.217593475,
+        "pct_cumtime": 74.95742937968207
+      }
+    ]
+  }
+]

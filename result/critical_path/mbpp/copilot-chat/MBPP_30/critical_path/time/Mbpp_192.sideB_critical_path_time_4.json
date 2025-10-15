@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_192.py",
+    "total_cumtime_hint": 0.00024339200000000002,
+    "total_tottime_sum_topk": 0.00024949600000000004,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_192.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0668e-05,
+        "cumtime": 0.00024339200000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_String",
+        "file": "Mbpp_192.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.1756e-05,
+        "cumtime": 0.00023272400000000002,
+        "pct_cumtime": 95.61694714698922
+      },
+      {
+        "func": "<built-in method builtins.any>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 6.3305e-05,
+        "cumtime": 0.00020096800000000002,
+        "pct_cumtime": 82.56968183013412
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_192.py",
+        "line": 6,
+        "calls_primitive": 780,
+        "calls_total": 780,
+        "tottime": 8.1273e-05,
+        "cumtime": 0.00011857500000000001,
+        "pct_cumtime": 48.71770641598738
+      },
+      {
+        "func": "<method 'isdigit' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 720,
+        "calls_total": 720,
+        "tottime": 3.7302e-05,
+        "cumtime": 3.7302e-05,
+        "pct_cumtime": 15.325894031028136
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_192.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.3066000000000002e-05,
+        "cumtime": 1.9088e-05,
+        "pct_cumtime": 7.842492768866684
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.104e-06,
+        "cumtime": 6.104e-06,
+        "pct_cumtime": 2.5078885090717855
+      },
+      {
+        "func": "<method 'isalpha' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.022e-06,
+        "cumtime": 6.022e-06,
+        "pct_cumtime": 2.4741980015777014
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_192.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0668e-05,
+        "cumtime": 0.00024339200000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_String",
+        "file": "Mbpp_192.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.1756e-05,
+        "cumtime": 0.00023272400000000002,
+        "pct_cumtime": 95.61694714698922
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_192.py",
+        "line": 6,
+        "calls_primitive": 780,
+        "calls_total": 780,
+        "tottime": 8.1273e-05,
+        "cumtime": 0.00011857500000000001,
+        "pct_cumtime": 48.71770641598738
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_192.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.3066000000000002e-05,
+        "cumtime": 1.9088e-05,
+        "pct_cumtime": 7.842492768866684
+      }
+    ]
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_39.py",
+    "total_cumtime_hint": 0.000613813,
+    "total_tottime_sum_topk": 0.0005680500000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_39.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5295000000000002e-05,
+        "cumtime": 0.000613813,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "rearange_string",
+        "file": "Mbpp_39.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000198268,
+        "cumtime": 0.000598518,
+        "pct_cumtime": 97.50819875108543
+      },
+      {
+        "func": "most_common",
+        "file": "__init__.py",
+        "line": 622,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 0.000114319,
+        "cumtime": 0.00020146600000000003,
+        "pct_cumtime": 32.82204840888023
+      },
+      {
+        "func": "__init__",
+        "file": "__init__.py",
+        "line": 599,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.3106000000000005e-05,
+        "cumtime": 0.00010830800000000001,
+        "pct_cumtime": 17.64511341402023
+      },
+      {
+        "func": "update",
+        "file": "__init__.py",
+        "line": 673,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.3141e-05,
+        "cumtime": 7.5202e-05,
+        "pct_cumtime": 12.25161409093649
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 5.8452e-05,
+        "cumtime": 5.8452e-05,
+        "pct_cumtime": 9.522769964142173
+      },
+      {
+        "func": "__delitem__",
+        "file": "__init__.py",
+        "line": 741,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 4.9689000000000005e-05,
+        "cumtime": 4.9689000000000005e-05,
+        "pct_cumtime": 8.09513646664375
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6144e-05,
+        "cumtime": 3.6263e-05,
+        "pct_cumtime": 5.907825347459243
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 3.0941e-05,
+        "cumtime": 3.0941e-05,
+        "pct_cumtime": 5.04078603744137
+      },
+      {
+        "func": "<method 'items' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 2.8695000000000002e-05,
+        "cumtime": 2.8695000000000002e-05,
+        "pct_cumtime": 4.674876550350025
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_39.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5295000000000002e-05,
+        "cumtime": 0.000613813,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "rearange_string",
+        "file": "Mbpp_39.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000198268,
+        "cumtime": 0.000598518,
+        "pct_cumtime": 97.50819875108543
+      }
+    ]
+  }
+]

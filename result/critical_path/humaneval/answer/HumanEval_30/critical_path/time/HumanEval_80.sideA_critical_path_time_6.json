@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_80.py",
+    "total_cumtime_hint": 0.000103632,
+    "total_tottime_sum_topk": 0.000109528,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_80.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.2277e-05,
+        "cumtime": 0.000103632,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_happy",
+        "file": "HumanEval_80.py",
+        "line": 1,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 6.4781e-05,
+        "cumtime": 8.135500000000001e-05,
+        "pct_cumtime": 78.50374401729196
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 1.6574e-05,
+        "cumtime": 1.6574e-05,
+        "pct_cumtime": 15.99312953527868
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.896e-06,
+        "cumtime": 5.896e-06,
+        "pct_cumtime": 5.689362359116875
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_80.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.2277e-05,
+        "cumtime": 0.000103632,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_happy",
+        "file": "HumanEval_80.py",
+        "line": 1,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 6.4781e-05,
+        "cumtime": 8.135500000000001e-05,
+        "pct_cumtime": 78.50374401729196
+      }
+    ]
+  }
+]

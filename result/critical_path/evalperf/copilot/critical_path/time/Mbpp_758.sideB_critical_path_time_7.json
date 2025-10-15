@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_758.py",
+    "total_cumtime_hint": 0.007690519000000001,
+    "total_tottime_sum_topk": 0.007702035,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_758.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.003558901,
+        "cumtime": 0.007690519000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "unique_sublists",
+        "file": "Mbpp_758.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00336722,
+        "cumtime": 0.004131618,
+        "pct_cumtime": 53.72352633157787
+      },
+      {
+        "func": "<method 'setdefault' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1024,
+        "calls_total": 1024,
+        "tottime": 0.000637712,
+        "cumtime": 0.000637712,
+        "pct_cumtime": 8.292184181587745
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1024,
+        "calls_total": 1024,
+        "tottime": 6.6535e-05,
+        "cumtime": 6.6535e-05,
+        "pct_cumtime": 0.8651561747653181
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1024,
+        "calls_total": 1024,
+        "tottime": 5.9736000000000005e-05,
+        "cumtime": 5.9736000000000005e-05,
+        "pct_cumtime": 0.7767486173559938
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1516000000000001e-05,
+        "cumtime": 1.1516000000000001e-05,
+        "pct_cumtime": 0.14974281969786435
+      },
+      {
+        "func": "<method 'items' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.1500000000000005e-07,
+        "cumtime": 4.1500000000000005e-07,
+        "pct_cumtime": 0.0053962547911265805
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_758.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.003558901,
+        "cumtime": 0.007690519000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "unique_sublists",
+        "file": "Mbpp_758.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00336722,
+        "cumtime": 0.004131618,
+        "pct_cumtime": 53.72352633157787
+      }
+    ]
+  }
+]

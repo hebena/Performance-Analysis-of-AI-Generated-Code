@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_151.py",
+    "total_cumtime_hint": 0.0008030190000000001,
+    "total_tottime_sum_topk": 0.000809351,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_151.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000145456,
+        "cumtime": 0.0008030190000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "double_the_difference",
+        "file": "HumanEval_151.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 4.0638e-05,
+        "cumtime": 0.000651511,
+        "pct_cumtime": 81.13270047159531
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 0.000128696,
+        "cumtime": 0.000616925,
+        "pct_cumtime": 76.82570399953177
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_151.py",
+        "line": 2,
+        "calls_primitive": 1800,
+        "calls_total": 1800,
+        "tottime": 0.00035225800000000004,
+        "cumtime": 0.000488229,
+        "pct_cumtime": 60.799184079081556
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 3420,
+        "calls_total": 3420,
+        "tottime": 0.000135971,
+        "cumtime": 0.000135971,
+        "pct_cumtime": 16.932476068436735
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.3320000000000005e-06,
+        "cumtime": 6.3320000000000005e-06,
+        "pct_cumtime": 0.7885243063987277
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_151.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000145456,
+        "cumtime": 0.0008030190000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "double_the_difference",
+        "file": "HumanEval_151.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 4.0638e-05,
+        "cumtime": 0.000651511,
+        "pct_cumtime": 81.13270047159531
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_151.py",
+        "line": 2,
+        "calls_primitive": 1800,
+        "calls_total": 1800,
+        "tottime": 0.00035225800000000004,
+        "cumtime": 0.000488229,
+        "pct_cumtime": 60.799184079081556
+      }
+    ]
+  }
+]

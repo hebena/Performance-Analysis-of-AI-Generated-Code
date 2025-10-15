@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_20.py",
+    "total_cumtime_hint": 34.303456261,
+    "total_tottime_sum_topk": 34.303471853000005,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_20.py",
+        "line": 26,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.2460000000000003e-05,
+        "cumtime": 34.303456261,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_closest_elements",
+        "file": "HumanEval_20.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 23.580349766,
+        "cumtime": 34.303413801000005,
+        "pct_cumtime": 99.99987622238507
+      },
+      {
+        "func": "<built-in method builtins.abs>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 268419072,
+        "calls_total": 268419072,
+        "tottime": 10.723054398,
+        "cumtime": 10.723054398,
+        "pct_cumtime": 31.25939939233227
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5592000000000003e-05,
+        "cumtime": 1.5592000000000003e-05,
+        "pct_cumtime": 4.545314583279099e-05
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 9,
+        "calls_total": 9,
+        "tottime": 9.637000000000001e-06,
+        "cumtime": 9.637000000000001e-06,
+        "pct_cumtime": 2.8093379065585348e-05
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_20.py",
+        "line": 26,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.2460000000000003e-05,
+        "cumtime": 34.303456261,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_closest_elements",
+        "file": "HumanEval_20.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 23.580349766,
+        "cumtime": 34.303413801000005,
+        "pct_cumtime": 99.99987622238507
+      }
+    ]
+  }
+]

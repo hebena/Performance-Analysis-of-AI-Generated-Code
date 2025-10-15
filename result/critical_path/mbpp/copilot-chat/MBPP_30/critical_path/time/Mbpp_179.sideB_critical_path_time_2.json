@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_179.py",
+    "total_cumtime_hint": 0.000168065,
+    "total_tottime_sum_topk": 0.000173874,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_179.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0979000000000001e-05,
+        "cumtime": 0.000168065,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_num_keith",
+        "file": "Mbpp_179.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00010063,
+        "cumtime": 0.00015708600000000002,
+        "pct_cumtime": 93.46740844316189
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 2.438e-05,
+        "cumtime": 2.438e-05,
+        "pct_cumtime": 14.50629220837176
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.6278000000000002e-05,
+        "cumtime": 1.6278000000000002e-05,
+        "pct_cumtime": 9.685538333382917
+      },
+      {
+        "func": "<method 'pop' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.5798e-05,
+        "cumtime": 1.5798e-05,
+        "pct_cumtime": 9.399934549132775
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.809000000000001e-06,
+        "cumtime": 5.809000000000001e-06,
+        "pct_cumtime": 3.4564007973105646
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_179.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0979000000000001e-05,
+        "cumtime": 0.000168065,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_num_keith",
+        "file": "Mbpp_179.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00010063,
+        "cumtime": 0.00015708600000000002,
+        "pct_cumtime": 93.46740844316189
+      }
+    ]
+  }
+]

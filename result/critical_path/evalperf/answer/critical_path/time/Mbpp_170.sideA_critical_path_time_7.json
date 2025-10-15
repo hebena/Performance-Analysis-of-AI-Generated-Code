@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_170.py",
+    "total_cumtime_hint": 0.026727229,
+    "total_tottime_sum_topk": 0.026743118000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_170.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.011661177,
+        "cumtime": 0.026727229,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_range_list",
+        "file": "Mbpp_170.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.008581555000000001,
+        "cumtime": 0.015066052000000002,
+        "pct_cumtime": 56.36967453678046
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.006482600000000001,
+        "cumtime": 0.006482600000000001,
+        "pct_cumtime": 24.25466553229293
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5889e-05,
+        "cumtime": 1.5889e-05,
+        "pct_cumtime": 0.05944873671715088
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 3,
+        "calls_total": 3,
+        "tottime": 1.06e-06,
+        "cumtime": 1.06e-06,
+        "pct_cumtime": 0.0039659928831380165
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.370000000000001e-07,
+        "cumtime": 8.370000000000001e-07,
+        "pct_cumtime": 0.0031316377765910563
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_170.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.011661177,
+        "cumtime": 0.026727229,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_range_list",
+        "file": "Mbpp_170.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.008581555000000001,
+        "cumtime": 0.015066052000000002,
+        "pct_cumtime": 56.36967453678046
+      }
+    ]
+  }
+]

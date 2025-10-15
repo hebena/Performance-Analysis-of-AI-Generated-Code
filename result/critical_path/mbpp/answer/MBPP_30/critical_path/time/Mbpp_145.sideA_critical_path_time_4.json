@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_145.py",
+    "total_cumtime_hint": 8.075600000000001e-05,
+    "total_tottime_sum_topk": 8.680100000000001e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_145.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.995000000000001e-06,
+        "cumtime": 8.075600000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_Abs_Diff",
+        "file": "Mbpp_145.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.5764000000000004e-05,
+        "cumtime": 7.1761e-05,
+        "pct_cumtime": 88.86150874238446
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.3391000000000001e-05,
+        "cumtime": 1.3391000000000001e-05,
+        "pct_cumtime": 16.582049630987168
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.2606000000000001e-05,
+        "cumtime": 1.2606000000000001e-05,
+        "pct_cumtime": 15.609985635742236
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.0450000000000006e-06,
+        "cumtime": 6.0450000000000006e-06,
+        "pct_cumtime": 7.485511912427559
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_145.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.995000000000001e-06,
+        "cumtime": 8.075600000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_Abs_Diff",
+        "file": "Mbpp_145.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.5764000000000004e-05,
+        "cumtime": 7.1761e-05,
+        "pct_cumtime": 88.86150874238446
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_592.py",
+    "total_cumtime_hint": 0.29765845100000005,
+    "total_tottime_sum_topk": 0.297671058,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_592.py",
+        "line": 29,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.140000000000001e-07,
+        "cumtime": 0.29765845100000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_Of_product",
+        "file": "Mbpp_592.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0171e-05,
+        "cumtime": 0.297657537,
+        "pct_cumtime": 99.99969293665376
+      },
+      {
+        "func": "binomial_Coeff",
+        "file": "Mbpp_592.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.297420764,
+        "cumtime": 0.297636102,
+        "pct_cumtime": 99.9924917300601
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 3972,
+        "calls_total": 3972,
+        "tottime": 0.000215338,
+        "cumtime": 0.000215338,
+        "pct_cumtime": 0.07234398999140124
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2607000000000001e-05,
+        "cumtime": 1.2607000000000001e-05,
+        "pct_cumtime": 0.004235391253850205
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.264e-06,
+        "cumtime": 1.264e-06,
+        "pct_cumtime": 0.0004246477786044784
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_592.py",
+        "line": 29,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.140000000000001e-07,
+        "cumtime": 0.29765845100000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_Of_product",
+        "file": "Mbpp_592.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0171e-05,
+        "cumtime": 0.297657537,
+        "pct_cumtime": 99.99969293665376
+      },
+      {
+        "func": "binomial_Coeff",
+        "file": "Mbpp_592.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.297420764,
+        "cumtime": 0.297636102,
+        "pct_cumtime": 99.9924917300601
+      }
+    ]
+  }
+]

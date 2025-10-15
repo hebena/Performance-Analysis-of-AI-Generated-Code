@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_598.py",
+    "total_cumtime_hint": 3.5655e-05,
+    "total_tottime_sum_topk": 4.2257e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_598.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.68e-06,
+        "cumtime": 3.5655e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "armstrong_number",
+        "file": "Mbpp_598.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.5975e-05,
+        "cumtime": 2.5975e-05,
+        "pct_cumtime": 72.85093254802972
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.6020000000000005e-06,
+        "cumtime": 6.6020000000000005e-06,
+        "pct_cumtime": 18.516337119618566
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_598.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.68e-06,
+        "cumtime": 3.5655e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "armstrong_number",
+        "file": "Mbpp_598.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.5975e-05,
+        "cumtime": 2.5975e-05,
+        "pct_cumtime": 72.85093254802972
+      }
+    ]
+  }
+]

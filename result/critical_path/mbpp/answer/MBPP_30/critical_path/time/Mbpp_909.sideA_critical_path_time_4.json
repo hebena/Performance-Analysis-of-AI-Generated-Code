@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_909.py",
+    "total_cumtime_hint": 0.00048826100000000003,
+    "total_tottime_sum_topk": 0.00049399,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_909.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.162000000000001e-06,
+        "cumtime": 0.00048826100000000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "previous_palindrome",
+        "file": "Mbpp_909.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00047909900000000003,
+        "cumtime": 0.00047909900000000003,
+        "pct_cumtime": 98.12354457964081
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.7290000000000005e-06,
+        "cumtime": 5.7290000000000005e-06,
+        "pct_cumtime": 1.1733478610824948
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_909.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.162000000000001e-06,
+        "cumtime": 0.00048826100000000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "previous_palindrome",
+        "file": "Mbpp_909.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00047909900000000003,
+        "cumtime": 0.00047909900000000003,
+        "pct_cumtime": 98.12354457964081
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_881.py",
+    "total_cumtime_hint": 8.2365e-05,
+    "total_tottime_sum_topk": 8.824700000000001e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_881.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1373000000000001e-05,
+        "cumtime": 8.2365e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_even_odd",
+        "file": "Mbpp_881.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.3645e-05,
+        "cumtime": 7.0992e-05,
+        "pct_cumtime": 86.19195046439629
+      },
+      {
+        "func": "<built-in method builtins.next>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 2.0417e-05,
+        "cumtime": 3.7347e-05,
+        "pct_cumtime": 45.34328901839373
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_881.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1482000000000001e-05,
+        "cumtime": 1.1482000000000001e-05,
+        "pct_cumtime": 13.94038730043101
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.882000000000001e-06,
+        "cumtime": 5.882000000000001e-06,
+        "pct_cumtime": 7.141382868937049
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_881.py",
+        "line": 6,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.448e-06,
+        "cumtime": 5.448e-06,
+        "pct_cumtime": 6.6144600254962675
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_881.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1373000000000001e-05,
+        "cumtime": 8.2365e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_even_odd",
+        "file": "Mbpp_881.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.3645e-05,
+        "cumtime": 7.0992e-05,
+        "pct_cumtime": 86.19195046439629
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_881.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1482000000000001e-05,
+        "cumtime": 1.1482000000000001e-05,
+        "pct_cumtime": 13.94038730043101
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_881.py",
+        "line": 6,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.448e-06,
+        "cumtime": 5.448e-06,
+        "pct_cumtime": 6.6144600254962675
+      }
+    ]
+  }
+]

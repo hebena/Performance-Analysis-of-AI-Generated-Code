@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_103.py",
+    "total_cumtime_hint": 0.000128849,
+    "total_tottime_sum_topk": 0.000134179,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_103.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.938000000000001e-06,
+        "cumtime": 0.000128849,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "eulerian_num",
+        "file": "Mbpp_103.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 930,
+        "tottime": 0.00012091100000000001,
+        "cumtime": 0.00012091100000000001,
+        "pct_cumtime": 93.83930026620308
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.330000000000001e-06,
+        "cumtime": 5.330000000000001e-06,
+        "pct_cumtime": 4.136625041715497
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_103.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.938000000000001e-06,
+        "cumtime": 0.000128849,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "eulerian_num",
+        "file": "Mbpp_103.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 930,
+        "tottime": 0.00012091100000000001,
+        "cumtime": 0.00012091100000000001,
+        "pct_cumtime": 93.83930026620308
+      }
+    ]
+  }
+]

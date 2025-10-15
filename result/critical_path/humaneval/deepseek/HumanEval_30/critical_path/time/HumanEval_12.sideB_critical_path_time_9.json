@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_12.py",
+    "total_cumtime_hint": 0.000105457,
+    "total_tottime_sum_topk": 0.00011125100000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_12.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1012e-05,
+        "cumtime": 0.000105457,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "longest",
+        "file": "HumanEval_12.py",
+        "line": 10,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4564e-05,
+        "cumtime": 9.444500000000001e-05,
+        "pct_cumtime": 89.55782925742245
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 60,
+        "calls_total": 60,
+        "tottime": 2.4911000000000003e-05,
+        "cumtime": 6.535200000000001e-05,
+        "pct_cumtime": 61.97028172620121
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_12.py",
+        "line": 22,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 3.0126000000000003e-05,
+        "cumtime": 4.0441e-05,
+        "pct_cumtime": 38.34833154745536
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 1.4844e-05,
+        "cumtime": 1.4844e-05,
+        "pct_cumtime": 14.075879268327377
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.794000000000001e-06,
+        "cumtime": 5.794000000000001e-06,
+        "pct_cumtime": 5.494182462994397
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_12.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1012e-05,
+        "cumtime": 0.000105457,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "longest",
+        "file": "HumanEval_12.py",
+        "line": 10,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4564e-05,
+        "cumtime": 9.444500000000001e-05,
+        "pct_cumtime": 89.55782925742245
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_12.py",
+        "line": 22,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 3.0126000000000003e-05,
+        "cumtime": 4.0441e-05,
+        "pct_cumtime": 38.34833154745536
+      }
+    ]
+  }
+]

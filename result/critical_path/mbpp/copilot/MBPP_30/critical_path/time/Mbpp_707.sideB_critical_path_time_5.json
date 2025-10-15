@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_707.py",
+    "total_cumtime_hint": 0.00026260000000000004,
+    "total_tottime_sum_topk": 0.000268317,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_707.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.803e-06,
+        "cumtime": 0.00026260000000000004,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Set_Bits",
+        "file": "Mbpp_707.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00014449000000000002,
+        "cumtime": 0.000253797,
+        "pct_cumtime": 96.64775323686213
+      },
+      {
+        "func": "<method 'count' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 960,
+        "calls_total": 960,
+        "tottime": 6.2822e-05,
+        "cumtime": 6.2822e-05,
+        "pct_cumtime": 23.92307692307692
+      },
+      {
+        "func": "<built-in method builtins.bin>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 960,
+        "calls_total": 960,
+        "tottime": 4.6485e-05,
+        "cumtime": 4.6485e-05,
+        "pct_cumtime": 17.701827875095198
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.7170000000000005e-06,
+        "cumtime": 5.7170000000000005e-06,
+        "pct_cumtime": 2.177075399847677
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_707.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.803e-06,
+        "cumtime": 0.00026260000000000004,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Set_Bits",
+        "file": "Mbpp_707.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00014449000000000002,
+        "cumtime": 0.000253797,
+        "pct_cumtime": 96.64775323686213
+      }
+    ]
+  }
+]

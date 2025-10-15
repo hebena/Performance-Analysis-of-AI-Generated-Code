@@ -1,0 +1,122 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_53.py",
+    "total_cumtime_hint": 0.006895941,
+    "total_tottime_sum_topk": 0.006903308,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_53.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0009800470000000002,
+        "cumtime": 0.006895941,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "randint",
+        "file": "random.py",
+        "line": 336,
+        "calls_primitive": 6000,
+        "calls_total": 6000,
+        "tottime": 0.000848888,
+        "cumtime": 0.0057429000000000004,
+        "pct_cumtime": 83.279424809464
+      },
+      {
+        "func": "randrange",
+        "file": "random.py",
+        "line": 295,
+        "calls_primitive": 6000,
+        "calls_total": 6000,
+        "tottime": 0.002143682,
+        "cumtime": 0.0048940120000000005,
+        "pct_cumtime": 70.96945870041522
+      },
+      {
+        "func": "_randbelow_with_getrandbits",
+        "file": "random.py",
+        "line": 245,
+        "calls_primitive": 6000,
+        "calls_total": 6000,
+        "tottime": 0.001288462,
+        "cumtime": 0.002011166,
+        "pct_cumtime": 29.164489661381964
+      },
+      {
+        "func": "<built-in method _operator.index>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 18000,
+        "calls_total": 18000,
+        "tottime": 0.000739164,
+        "cumtime": 0.000739164,
+        "pct_cumtime": 10.718827205743205
+      },
+      {
+        "func": "<method 'bit_length' of 'int' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 6000,
+        "calls_total": 6000,
+        "tottime": 0.00036307500000000003,
+        "cumtime": 0.00036307500000000003,
+        "pct_cumtime": 5.2650537468345515
+      },
+      {
+        "func": "<method 'getrandbits' of '_random.Random' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 6137,
+        "calls_total": 6137,
+        "tottime": 0.00035962900000000004,
+        "cumtime": 0.00035962900000000004,
+        "pct_cumtime": 5.215082321614991
+      },
+      {
+        "func": "add",
+        "file": "HumanEval_53.py",
+        "line": 1,
+        "calls_primitive": 3150,
+        "calls_total": 3150,
+        "tottime": 0.00017299400000000002,
+        "cumtime": 0.00017299400000000002,
+        "pct_cumtime": 2.508635152185902
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.367000000000001e-06,
+        "cumtime": 7.367000000000001e-06,
+        "pct_cumtime": 0.10683096041569963
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_53.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0009800470000000002,
+        "cumtime": 0.006895941,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "add",
+        "file": "HumanEval_53.py",
+        "line": 1,
+        "calls_primitive": 3150,
+        "calls_total": 3150,
+        "tottime": 0.00017299400000000002,
+        "cumtime": 0.00017299400000000002,
+        "pct_cumtime": 2.508635152185902
+      }
+    ]
+  }
+]

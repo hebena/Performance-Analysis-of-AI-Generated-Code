@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_7.py",
+    "total_cumtime_hint": 2.9644000000000003e-05,
+    "total_tottime_sum_topk": 3.6047e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_7.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.6056e-05,
+        "cumtime": 2.9644000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "filter_by_substring",
+        "file": "HumanEval_7.py",
+        "line": 3,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 1.3588000000000001e-05,
+        "cumtime": 1.3588000000000001e-05,
+        "pct_cumtime": 45.83726892457158
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.403e-06,
+        "cumtime": 6.403e-06,
+        "pct_cumtime": 21.599649170152475
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_7.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.6056e-05,
+        "cumtime": 2.9644000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "filter_by_substring",
+        "file": "HumanEval_7.py",
+        "line": 3,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 1.3588000000000001e-05,
+        "cumtime": 1.3588000000000001e-05,
+        "pct_cumtime": 45.83726892457158
+      }
+    ]
+  }
+]

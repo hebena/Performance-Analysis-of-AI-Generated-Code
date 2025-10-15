@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_252.py",
+    "total_cumtime_hint": 2.8039e-05,
+    "total_tottime_sum_topk": 3.4197000000000005e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_252.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0181000000000001e-05,
+        "cumtime": 2.8039e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "convert",
+        "file": "Mbpp_252.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.928e-06,
+        "cumtime": 1.7858e-05,
+        "pct_cumtime": 63.68986055137488
+      },
+      {
+        "func": "<built-in method cmath.polar>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.93e-06,
+        "cumtime": 7.93e-06,
+        "pct_cumtime": 28.282035735939225
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.158e-06,
+        "cumtime": 6.158e-06,
+        "pct_cumtime": 21.962266842612078
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_252.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0181000000000001e-05,
+        "cumtime": 2.8039e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "convert",
+        "file": "Mbpp_252.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.928e-06,
+        "cumtime": 1.7858e-05,
+        "pct_cumtime": 63.68986055137488
+      }
+    ]
+  }
+]

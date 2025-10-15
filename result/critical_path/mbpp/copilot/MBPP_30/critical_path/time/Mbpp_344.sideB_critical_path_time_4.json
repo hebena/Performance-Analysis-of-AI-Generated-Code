@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_344.py",
+    "total_cumtime_hint": 0.0005591270000000001,
+    "total_tottime_sum_topk": 0.000564715,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_344.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.382000000000001e-06,
+        "cumtime": 0.0005591270000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Odd_Squares",
+        "file": "Mbpp_344.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000549745,
+        "cumtime": 0.000549745,
+        "pct_cumtime": 98.32202701711775
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.5880000000000005e-06,
+        "cumtime": 5.5880000000000005e-06,
+        "pct_cumtime": 0.9994151597043248
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_344.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.382000000000001e-06,
+        "cumtime": 0.0005591270000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Odd_Squares",
+        "file": "Mbpp_344.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000549745,
+        "cumtime": 0.000549745,
+        "pct_cumtime": 98.32202701711775
+      }
+    ]
+  }
+]

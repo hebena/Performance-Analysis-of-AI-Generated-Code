@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_134.py",
+    "total_cumtime_hint": 0.000190236,
+    "total_tottime_sum_topk": 0.000196936,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_134.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.9994e-05,
+        "cumtime": 0.000190236,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_if_last_char_is_a_letter",
+        "file": "HumanEval_134.py",
+        "line": 1,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 0.000100208,
+        "cumtime": 0.000160242,
+        "pct_cumtime": 84.23326815113859
+      },
+      {
+        "func": "<method 'split' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 3.4511e-05,
+        "cumtime": 3.4511e-05,
+        "pct_cumtime": 18.141150991400156
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 1.3959000000000001e-05,
+        "cumtime": 1.3959000000000001e-05,
+        "pct_cumtime": 7.337727874850186
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.7e-06,
+        "cumtime": 6.7e-06,
+        "pct_cumtime": 3.521941167812612
+      },
+      {
+        "func": "<method 'lower' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.608e-06,
+        "cumtime": 6.608e-06,
+        "pct_cumtime": 3.4735801846127963
+      },
+      {
+        "func": "<built-in method builtins.ord>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.9560000000000005e-06,
+        "cumtime": 4.9560000000000005e-06,
+        "pct_cumtime": 2.6051851384595976
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_134.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.9994e-05,
+        "cumtime": 0.000190236,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_if_last_char_is_a_letter",
+        "file": "HumanEval_134.py",
+        "line": 1,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 0.000100208,
+        "cumtime": 0.000160242,
+        "pct_cumtime": 84.23326815113859
+      }
+    ]
+  }
+]

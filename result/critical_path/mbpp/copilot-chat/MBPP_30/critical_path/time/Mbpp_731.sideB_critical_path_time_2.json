@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_731.py",
+    "total_cumtime_hint": 2.7324e-05,
+    "total_tottime_sum_topk": 3.3258e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_731.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.014e-06,
+        "cumtime": 2.7324e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "lateralsurface_cone",
+        "file": "Mbpp_731.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.3312e-05,
+        "cumtime": 1.8310000000000003e-05,
+        "pct_cumtime": 67.01068657590397
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.934e-06,
+        "cumtime": 5.934e-06,
+        "pct_cumtime": 21.71717171717172
+      },
+      {
+        "func": "<built-in method math.sqrt>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.998e-06,
+        "cumtime": 4.998e-06,
+        "pct_cumtime": 18.291611769872638
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_731.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.014e-06,
+        "cumtime": 2.7324e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "lateralsurface_cone",
+        "file": "Mbpp_731.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.3312e-05,
+        "cumtime": 1.8310000000000003e-05,
+        "pct_cumtime": 67.01068657590397
+      }
+    ]
+  }
+]

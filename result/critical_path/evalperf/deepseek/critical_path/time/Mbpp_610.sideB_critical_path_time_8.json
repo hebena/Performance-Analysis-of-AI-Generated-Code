@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_610.py",
+    "total_cumtime_hint": 0.024021206,
+    "total_tottime_sum_topk": 0.024037142,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_610.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.012357508000000001,
+        "cumtime": 0.024021206,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_kth_element",
+        "file": "Mbpp_610.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.011663698,
+        "cumtime": 0.011663698,
+        "pct_cumtime": 48.55583853699935
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5936e-05,
+        "cumtime": 1.5936e-05,
+        "pct_cumtime": 0.0663413818606776
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_610.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.012357508000000001,
+        "cumtime": 0.024021206,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_kth_element",
+        "file": "Mbpp_610.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.011663698,
+        "cumtime": 0.011663698,
+        "pct_cumtime": 48.55583853699935
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_138.py",
+    "total_cumtime_hint": 3.2902000000000004e-05,
+    "total_tottime_sum_topk": 3.8823000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_138.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0166e-05,
+        "cumtime": 3.2902000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_equal_to_sum_even",
+        "file": "HumanEval_138.py",
+        "line": 1,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 1.2736000000000001e-05,
+        "cumtime": 1.2736000000000001e-05,
+        "pct_cumtime": 38.70889307640873
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.9210000000000006e-06,
+        "cumtime": 5.9210000000000006e-06,
+        "pct_cumtime": 17.995866512674
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_138.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0166e-05,
+        "cumtime": 3.2902000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_equal_to_sum_even",
+        "file": "HumanEval_138.py",
+        "line": 1,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 1.2736000000000001e-05,
+        "cumtime": 1.2736000000000001e-05,
+        "pct_cumtime": 38.70889307640873
+      }
+    ]
+  }
+]

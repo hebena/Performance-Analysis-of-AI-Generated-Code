@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_4.py",
+    "total_cumtime_hint": 0.103602118,
+    "total_tottime_sum_topk": 0.10360877600000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_4.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0156e-05,
+        "cumtime": 0.103602118,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "heap_queue_largest",
+        "file": "Mbpp_4.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00047694800000000004,
+        "cumtime": 0.103581962,
+        "pct_cumtime": 99.98054479928682
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2496,
+        "calls_total": 2496,
+        "tottime": 0.08566836200000001,
+        "cumtime": 0.08566836200000001,
+        "pct_cumtime": 82.68977860085835
+      },
+      {
+        "func": "<method 'remove' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1248,
+        "calls_total": 1248,
+        "tottime": 0.017353198,
+        "cumtime": 0.017353198,
+        "pct_cumtime": 16.749848685525905
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1248,
+        "calls_total": 1248,
+        "tottime": 8.3454e-05,
+        "cumtime": 8.3454e-05,
+        "pct_cumtime": 0.0805524072393964
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.6580000000000005e-06,
+        "cumtime": 6.6580000000000005e-06,
+        "pct_cumtime": 0.006426509542980579
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_4.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0156e-05,
+        "cumtime": 0.103602118,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "heap_queue_largest",
+        "file": "Mbpp_4.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00047694800000000004,
+        "cumtime": 0.103581962,
+        "pct_cumtime": 99.98054479928682
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_578.py",
+    "total_cumtime_hint": 0.0013277380000000002,
+    "total_tottime_sum_topk": 0.001337611,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_578.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0008581550000000001,
+        "cumtime": 0.0013277380000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "interleave_lists",
+        "file": "Mbpp_578.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000468859,
+        "cumtime": 0.00046958300000000003,
+        "pct_cumtime": 35.367143216508076
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.873e-06,
+        "cumtime": 9.873e-06,
+        "pct_cumtime": 0.743595498509495
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 3,
+        "calls_total": 3,
+        "tottime": 7.240000000000001e-07,
+        "cumtime": 7.240000000000001e-07,
+        "pct_cumtime": 0.05452883023608573
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_578.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0008581550000000001,
+        "cumtime": 0.0013277380000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "interleave_lists",
+        "file": "Mbpp_578.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000468859,
+        "cumtime": 0.00046958300000000003,
+        "pct_cumtime": 35.367143216508076
+      }
+    ]
+  }
+]

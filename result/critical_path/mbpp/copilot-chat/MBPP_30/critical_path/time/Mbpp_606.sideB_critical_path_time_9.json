@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_606.py",
+    "total_cumtime_hint": 2.5599e-05,
+    "total_tottime_sum_topk": 3.1279e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_606.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.592e-06,
+        "cumtime": 2.5599e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "radian_degree",
+        "file": "Mbpp_606.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.2512000000000002e-05,
+        "cumtime": 1.7007e-05,
+        "pct_cumtime": 66.43618891362945
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.680000000000001e-06,
+        "cumtime": 5.680000000000001e-06,
+        "pct_cumtime": 22.18836673307551
+      },
+      {
+        "func": "<built-in method math.radians>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.495e-06,
+        "cumtime": 4.495e-06,
+        "pct_cumtime": 17.559279659361696
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_606.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.592e-06,
+        "cumtime": 2.5599e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "radian_degree",
+        "file": "Mbpp_606.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.2512000000000002e-05,
+        "cumtime": 1.7007e-05,
+        "pct_cumtime": 66.43618891362945
+      }
+    ]
+  }
+]

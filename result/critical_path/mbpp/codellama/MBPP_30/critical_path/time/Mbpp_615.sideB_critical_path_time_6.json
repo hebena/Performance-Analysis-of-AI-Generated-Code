@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_615.py",
+    "total_cumtime_hint": 0.00019392700000000002,
+    "total_tottime_sum_topk": 0.00019974100000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_615.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4242e-05,
+        "cumtime": 0.00019392700000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "average_tuple",
+        "file": "Mbpp_615.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00011620700000000001,
+        "cumtime": 0.000179685,
+        "pct_cumtime": 92.65599942246308
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 2.5833e-05,
+        "cumtime": 2.5833e-05,
+        "pct_cumtime": 13.320991919639862
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 2.031e-05,
+        "cumtime": 2.031e-05,
+        "pct_cumtime": 10.473013040989649
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 1.7335000000000003e-05,
+        "cumtime": 1.7335000000000003e-05,
+        "pct_cumtime": 8.93893062853548
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.814000000000001e-06,
+        "cumtime": 5.814000000000001e-06,
+        "pct_cumtime": 2.9980353431961513
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_615.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4242e-05,
+        "cumtime": 0.00019392700000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "average_tuple",
+        "file": "Mbpp_615.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00011620700000000001,
+        "cumtime": 0.000179685,
+        "pct_cumtime": 92.65599942246308
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_681.py",
+    "total_cumtime_hint": 3.596e-05,
+    "total_tottime_sum_topk": 4.1981000000000003e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_681.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.642000000000001e-06,
+        "cumtime": 3.596e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "smallest_Divisor",
+        "file": "Mbpp_681.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.7318000000000002e-05,
+        "cumtime": 2.7318000000000002e-05,
+        "pct_cumtime": 75.96774193548387
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.0210000000000005e-06,
+        "cumtime": 6.0210000000000005e-06,
+        "pct_cumtime": 16.743604004449388
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_681.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.642000000000001e-06,
+        "cumtime": 3.596e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "smallest_Divisor",
+        "file": "Mbpp_681.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.7318000000000002e-05,
+        "cumtime": 2.7318000000000002e-05,
+        "pct_cumtime": 75.96774193548387
+      }
+    ]
+  }
+]

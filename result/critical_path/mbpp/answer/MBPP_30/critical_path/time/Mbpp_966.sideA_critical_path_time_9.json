@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_966.py",
+    "total_cumtime_hint": 2.2911e-05,
+    "total_tottime_sum_topk": 2.9081e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_966.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2255e-05,
+        "cumtime": 2.2911e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_empty",
+        "file": "Mbpp_966.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0656000000000001e-05,
+        "cumtime": 1.0656000000000001e-05,
+        "pct_cumtime": 46.51040984679848
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.17e-06,
+        "cumtime": 6.17e-06,
+        "pct_cumtime": 26.930295491248746
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_966.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2255e-05,
+        "cumtime": 2.2911e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_empty",
+        "file": "Mbpp_966.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0656000000000001e-05,
+        "cumtime": 1.0656000000000001e-05,
+        "pct_cumtime": 46.51040984679848
+      }
+    ]
+  }
+]

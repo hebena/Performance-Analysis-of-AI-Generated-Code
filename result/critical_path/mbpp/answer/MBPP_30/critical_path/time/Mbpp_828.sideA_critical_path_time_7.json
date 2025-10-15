@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_828.py",
+    "total_cumtime_hint": 0.000281394,
+    "total_tottime_sum_topk": 0.000287057,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_828.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0163e-05,
+        "cumtime": 0.000281394,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_alpha_dig_spl",
+        "file": "Mbpp_828.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00016684000000000002,
+        "cumtime": 0.00027123100000000003,
+        "pct_cumtime": 96.38833805980227
+      },
+      {
+        "func": "<method 'isalpha' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1200,
+        "calls_total": 1200,
+        "tottime": 6.1931e-05,
+        "cumtime": 6.1931e-05,
+        "pct_cumtime": 22.00864268605585
+      },
+      {
+        "func": "<method 'isdigit' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 780,
+        "calls_total": 780,
+        "tottime": 3.8444e-05,
+        "cumtime": 3.8444e-05,
+        "pct_cumtime": 13.661982842562384
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.663000000000001e-06,
+        "cumtime": 5.663000000000001e-06,
+        "pct_cumtime": 2.0124807209819684
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.016e-06,
+        "cumtime": 4.016e-06,
+        "pct_cumtime": 1.4271803947489996
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_828.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0163e-05,
+        "cumtime": 0.000281394,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_alpha_dig_spl",
+        "file": "Mbpp_828.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00016684000000000002,
+        "cumtime": 0.00027123100000000003,
+        "pct_cumtime": 96.38833805980227
+      }
+    ]
+  }
+]

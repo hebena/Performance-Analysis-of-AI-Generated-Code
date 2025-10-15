@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_34.py",
+    "total_cumtime_hint": 3.0619e-05,
+    "total_tottime_sum_topk": 3.6422000000000005e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_34.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1350000000000001e-05,
+        "cumtime": 3.0619e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_missing",
+        "file": "Mbpp_34.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.9269e-05,
+        "cumtime": 1.9269e-05,
+        "pct_cumtime": 62.93151311277312
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.803e-06,
+        "cumtime": 5.803e-06,
+        "pct_cumtime": 18.952284529213888
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_34.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1350000000000001e-05,
+        "cumtime": 3.0619e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_missing",
+        "file": "Mbpp_34.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.9269e-05,
+        "cumtime": 1.9269e-05,
+        "pct_cumtime": 62.93151311277312
+      }
+    ]
+  }
+]

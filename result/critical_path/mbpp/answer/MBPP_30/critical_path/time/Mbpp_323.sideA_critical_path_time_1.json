@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_323.py",
+    "total_cumtime_hint": 0.00011460600000000001,
+    "total_tottime_sum_topk": 0.000120542,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_323.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.407e-05,
+        "cumtime": 0.00011460600000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "re_arrange",
+        "file": "Mbpp_323.py",
+        "line": 7,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.1065e-05,
+        "cumtime": 0.000100536,
+        "pct_cumtime": 87.72315585571435
+      },
+      {
+        "func": "right_rotate",
+        "file": "Mbpp_323.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 2.9471000000000003e-05,
+        "cumtime": 2.9471000000000003e-05,
+        "pct_cumtime": 25.715058548418057
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.9360000000000004e-06,
+        "cumtime": 5.9360000000000004e-06,
+        "pct_cumtime": 5.179484494703593
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_323.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.407e-05,
+        "cumtime": 0.00011460600000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "re_arrange",
+        "file": "Mbpp_323.py",
+        "line": 7,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.1065e-05,
+        "cumtime": 0.000100536,
+        "pct_cumtime": 87.72315585571435
+      },
+      {
+        "func": "right_rotate",
+        "file": "Mbpp_323.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 2.9471000000000003e-05,
+        "cumtime": 2.9471000000000003e-05,
+        "pct_cumtime": 25.715058548418057
+      }
+    ]
+  }
+]

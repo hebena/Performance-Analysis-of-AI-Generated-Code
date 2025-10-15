@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_736.py",
+    "total_cumtime_hint": 2.4208000000000003e-05,
+    "total_tottime_sum_topk": 2.9849000000000002e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_736.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.712000000000001e-06,
+        "cumtime": 2.4208000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "left_insertion",
+        "file": "Mbpp_736.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.479e-06,
+        "cumtime": 1.4496000000000001e-05,
+        "pct_cumtime": 59.881031064111035
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.641000000000001e-06,
+        "cumtime": 5.641000000000001e-06,
+        "pct_cumtime": 23.3022141440846
+      },
+      {
+        "func": "<built-in method _bisect.bisect_left>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.017e-06,
+        "cumtime": 5.017e-06,
+        "pct_cumtime": 20.724553866490417
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_736.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.712000000000001e-06,
+        "cumtime": 2.4208000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "left_insertion",
+        "file": "Mbpp_736.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.479e-06,
+        "cumtime": 1.4496000000000001e-05,
+        "pct_cumtime": 59.881031064111035
+      }
+    ]
+  }
+]

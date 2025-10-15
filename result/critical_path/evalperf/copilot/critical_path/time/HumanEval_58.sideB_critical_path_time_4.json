@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_58.py",
+    "total_cumtime_hint": 55.800240077000005,
+    "total_tottime_sum_topk": 55.800255471,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_58.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000527735,
+        "cumtime": 55.800240077000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "common",
+        "file": "HumanEval_58.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 55.798543883,
+        "cumtime": 55.79971234200001,
+        "pct_cumtime": 99.99905424242034
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 6460,
+        "calls_total": 6460,
+        "tottime": 0.000874828,
+        "cumtime": 0.000874828,
+        "pct_cumtime": 0.0015677853693690299
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.00029363100000000004,
+        "cumtime": 0.00029363100000000004,
+        "pct_cumtime": 0.0005262181660774434
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5394000000000002e-05,
+        "cumtime": 1.5394000000000002e-05,
+        "pct_cumtime": 2.758769492525028e-05
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_58.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000527735,
+        "cumtime": 55.800240077000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "common",
+        "file": "HumanEval_58.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 55.798543883,
+        "cumtime": 55.79971234200001,
+        "pct_cumtime": 99.99905424242034
+      }
+    ]
+  }
+]

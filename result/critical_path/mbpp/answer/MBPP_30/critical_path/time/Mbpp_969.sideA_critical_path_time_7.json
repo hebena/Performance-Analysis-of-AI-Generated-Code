@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_969.py",
+    "total_cumtime_hint": 0.00017164100000000002,
+    "total_tottime_sum_topk": 0.00017978700000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_969.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.3796e-05,
+        "cumtime": 0.00017164100000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "join_tuples",
+        "file": "Mbpp_969.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00011181400000000001,
+        "cumtime": 0.00014784500000000002,
+        "pct_cumtime": 86.136179584132
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 2.1244000000000002e-05,
+        "cumtime": 2.1244000000000002e-05,
+        "pct_cumtime": 12.376996172243228
+      },
+      {
+        "func": "<method 'extend' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.4787000000000001e-05,
+        "cumtime": 1.4787000000000001e-05,
+        "pct_cumtime": 8.615074486865026
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.146000000000001e-06,
+        "cumtime": 8.146000000000001e-06,
+        "pct_cumtime": 4.745952307432374
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_969.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.3796e-05,
+        "cumtime": 0.00017164100000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "join_tuples",
+        "file": "Mbpp_969.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00011181400000000001,
+        "cumtime": 0.00014784500000000002,
+        "pct_cumtime": 86.136179584132
+      }
+    ]
+  }
+]

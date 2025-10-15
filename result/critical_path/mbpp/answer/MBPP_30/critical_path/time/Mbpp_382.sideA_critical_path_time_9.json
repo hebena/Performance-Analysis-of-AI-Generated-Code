@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_382.py",
+    "total_cumtime_hint": 9.5296e-05,
+    "total_tottime_sum_topk": 0.000102749,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_382.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3460000000000002e-05,
+        "cumtime": 9.5296e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_rotation_count",
+        "file": "Mbpp_382.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.0829e-05,
+        "cumtime": 8.183600000000001e-05,
+        "pct_cumtime": 85.87558764271324
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 2.1007e-05,
+        "cumtime": 2.1007e-05,
+        "pct_cumtime": 22.04394728005373
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.4530000000000005e-06,
+        "cumtime": 7.4530000000000005e-06,
+        "pct_cumtime": 7.820894895903291
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_382.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3460000000000002e-05,
+        "cumtime": 9.5296e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_rotation_count",
+        "file": "Mbpp_382.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.0829e-05,
+        "cumtime": 8.183600000000001e-05,
+        "pct_cumtime": 85.87558764271324
+      }
+    ]
+  }
+]

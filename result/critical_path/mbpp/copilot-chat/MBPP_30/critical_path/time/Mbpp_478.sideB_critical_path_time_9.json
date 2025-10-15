@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_478.py",
+    "total_cumtime_hint": 0.00014109000000000002,
+    "total_tottime_sum_topk": 0.000147,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_478.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.712000000000001e-06,
+        "cumtime": 0.00014109000000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_lowercase",
+        "file": "Mbpp_478.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.788e-05,
+        "cumtime": 0.000131378,
+        "pct_cumtime": 93.11645049259337
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.5805e-05,
+        "cumtime": 0.000113498,
+        "pct_cumtime": 80.44368842582747
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_478.py",
+        "line": 5,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 5.2911e-05,
+        "cumtime": 7.7693e-05,
+        "pct_cumtime": 55.06626975689276
+      },
+      {
+        "func": "<method 'islower' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 480,
+        "calls_total": 480,
+        "tottime": 2.4782e-05,
+        "cumtime": 2.4782e-05,
+        "pct_cumtime": 17.564675030122615
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.91e-06,
+        "cumtime": 5.91e-06,
+        "pct_cumtime": 4.188815649585371
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_478.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.712000000000001e-06,
+        "cumtime": 0.00014109000000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_lowercase",
+        "file": "Mbpp_478.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.788e-05,
+        "cumtime": 0.000131378,
+        "pct_cumtime": 93.11645049259337
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_478.py",
+        "line": 5,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 5.2911e-05,
+        "cumtime": 7.7693e-05,
+        "pct_cumtime": 55.06626975689276
+      }
+    ]
+  }
+]

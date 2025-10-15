@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_127.py",
+    "total_cumtime_hint": 0.00014507000000000002,
+    "total_tottime_sum_topk": 0.000151096,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_127.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.4729e-05,
+        "cumtime": 0.00014507000000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "intersection",
+        "file": "HumanEval_127.py",
+        "line": 1,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 7.4634e-05,
+        "cumtime": 0.000120341,
+        "pct_cumtime": 82.95374646722271
+      },
+      {
+        "func": "is_prime",
+        "file": "HumanEval_127.py",
+        "line": 2,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 1.8725e-05,
+        "cumtime": 1.8725e-05,
+        "pct_cumtime": 12.907561866685047
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 1.3504000000000001e-05,
+        "cumtime": 1.3504000000000001e-05,
+        "pct_cumtime": 9.308609636727097
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 1.3478e-05,
+        "cumtime": 1.3478e-05,
+        "pct_cumtime": 9.290687254428894
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.026e-06,
+        "cumtime": 6.026e-06,
+        "pct_cumtime": 4.153856758806093
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_127.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.4729e-05,
+        "cumtime": 0.00014507000000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "intersection",
+        "file": "HumanEval_127.py",
+        "line": 1,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 7.4634e-05,
+        "cumtime": 0.000120341,
+        "pct_cumtime": 82.95374646722271
+      },
+      {
+        "func": "is_prime",
+        "file": "HumanEval_127.py",
+        "line": 2,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 1.8725e-05,
+        "cumtime": 1.8725e-05,
+        "pct_cumtime": 12.907561866685047
+      }
+    ]
+  }
+]

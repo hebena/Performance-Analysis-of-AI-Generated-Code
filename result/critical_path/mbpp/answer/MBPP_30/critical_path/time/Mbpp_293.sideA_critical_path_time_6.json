@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_293.py",
+    "total_cumtime_hint": 2.5849000000000003e-05,
+    "total_tottime_sum_topk": 3.159e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_293.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.52e-06,
+        "cumtime": 2.5849000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "otherside_rightangle",
+        "file": "Mbpp_293.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1301e-05,
+        "cumtime": 1.6329000000000002e-05,
+        "pct_cumtime": 63.17072227165461
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.741000000000001e-06,
+        "cumtime": 5.741000000000001e-06,
+        "pct_cumtime": 22.209756663700723
+      },
+      {
+        "func": "<built-in method math.sqrt>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.028e-06,
+        "cumtime": 5.028e-06,
+        "pct_cumtime": 19.451429455684938
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_293.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.52e-06,
+        "cumtime": 2.5849000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "otherside_rightangle",
+        "file": "Mbpp_293.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1301e-05,
+        "cumtime": 1.6329000000000002e-05,
+        "pct_cumtime": 63.17072227165461
+      }
+    ]
+  }
+]

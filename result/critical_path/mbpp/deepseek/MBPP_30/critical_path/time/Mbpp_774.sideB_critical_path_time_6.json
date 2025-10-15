@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_774.py",
+    "total_cumtime_hint": 0.00010056500000000001,
+    "total_tottime_sum_topk": 0.000106409,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_774.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0222000000000001e-05,
+        "cumtime": 0.00010056500000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_email",
+        "file": "Mbpp_774.py",
+        "line": 15,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.4168e-05,
+        "cumtime": 9.034300000000001e-05,
+        "pct_cumtime": 89.83542982150848
+      },
+      {
+        "func": "search",
+        "file": "__init__.py",
+        "line": 174,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.3159000000000003e-05,
+        "cumtime": 7.617500000000001e-05,
+        "pct_cumtime": 75.74702928454234
+      },
+      {
+        "func": "<method 'search' of 're.Pattern' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.8994e-05,
+        "cumtime": 2.8994e-05,
+        "pct_cumtime": 28.831104260925766
+      },
+      {
+        "func": "_compile",
+        "file": "__init__.py",
+        "line": 330,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6843e-05,
+        "cumtime": 2.4022e-05,
+        "pct_cumtime": 23.88703823397802
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.179e-06,
+        "cumtime": 7.179e-06,
+        "pct_cumtime": 7.138666534082434
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.844e-06,
+        "cumtime": 5.844e-06,
+        "pct_cumtime": 5.811166906975588
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_774.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0222000000000001e-05,
+        "cumtime": 0.00010056500000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_email",
+        "file": "Mbpp_774.py",
+        "line": 15,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.4168e-05,
+        "cumtime": 9.034300000000001e-05,
+        "pct_cumtime": 89.83542982150848
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_652.py",
+    "total_cumtime_hint": 0.000108132,
+    "total_tottime_sum_topk": 0.000114061,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_652.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.379e-05,
+        "cumtime": 0.000108132,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "matrix_to_list",
+        "file": "Mbpp_652.py",
+        "line": 11,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.4342e-05,
+        "cumtime": 8.4342e-05,
+        "pct_cumtime": 77.99911219620463
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.929e-06,
+        "cumtime": 5.929e-06,
+        "pct_cumtime": 5.483113231975734
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_652.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.379e-05,
+        "cumtime": 0.000108132,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "matrix_to_list",
+        "file": "Mbpp_652.py",
+        "line": 11,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.4342e-05,
+        "cumtime": 8.4342e-05,
+        "pct_cumtime": 77.99911219620463
+      }
+    ]
+  }
+]

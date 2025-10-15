@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_780.py",
+    "total_cumtime_hint": 4.2025000000000005e-05,
+    "total_tottime_sum_topk": 4.7714000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_780.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.6794000000000002e-05,
+        "cumtime": 4.2025000000000005e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_combinations",
+        "file": "Mbpp_780.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.5231000000000003e-05,
+        "cumtime": 2.5231000000000003e-05,
+        "pct_cumtime": 60.038072575847714
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.689e-06,
+        "cumtime": 5.689e-06,
+        "pct_cumtime": 13.537180249851277
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_780.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.6794000000000002e-05,
+        "cumtime": 4.2025000000000005e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_combinations",
+        "file": "Mbpp_780.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.5231000000000003e-05,
+        "cumtime": 2.5231000000000003e-05,
+        "pct_cumtime": 60.038072575847714
+      }
+    ]
+  }
+]

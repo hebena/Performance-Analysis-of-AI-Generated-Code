@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_580.py",
+    "total_cumtime_hint": 0.000574886,
+    "total_tottime_sum_topk": 0.000581098,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_580.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3766000000000002e-05,
+        "cumtime": 0.000574886,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "extract_even",
+        "file": "Mbpp_580.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.8372000000000004e-05,
+        "cumtime": 0.00056112,
+        "pct_cumtime": 97.60543829559252
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_580.py",
+        "line": 11,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 0.000104154,
+        "cumtime": 0.000512748,
+        "pct_cumtime": 89.19124835184715
+      },
+      {
+        "func": "helper",
+        "file": "Mbpp_580.py",
+        "line": 6,
+        "calls_primitive": 300,
+        "calls_total": 660,
+        "tottime": 0.00018675,
+        "cumtime": 0.00037685800000000004,
+        "pct_cumtime": 65.55351843669875
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_580.py",
+        "line": 8,
+        "calls_primitive": 270,
+        "calls_total": 540,
+        "tottime": 0.000109957,
+        "cumtime": 0.00026714400000000003,
+        "pct_cumtime": 46.4690390790522
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2460,
+        "calls_total": 2460,
+        "tottime": 0.00011188700000000001,
+        "cumtime": 0.00011188700000000001,
+        "pct_cumtime": 19.462467341351157
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.212e-06,
+        "cumtime": 6.212e-06,
+        "pct_cumtime": 1.0805620592604446
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_580.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3766000000000002e-05,
+        "cumtime": 0.000574886,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "extract_even",
+        "file": "Mbpp_580.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.8372000000000004e-05,
+        "cumtime": 0.00056112,
+        "pct_cumtime": 97.60543829559252
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_580.py",
+        "line": 11,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 0.000104154,
+        "cumtime": 0.000512748,
+        "pct_cumtime": 89.19124835184715
+      },
+      {
+        "func": "helper",
+        "file": "Mbpp_580.py",
+        "line": 6,
+        "calls_primitive": 300,
+        "calls_total": 660,
+        "tottime": 0.00018675,
+        "cumtime": 0.00037685800000000004,
+        "pct_cumtime": 65.55351843669875
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_580.py",
+        "line": 8,
+        "calls_primitive": 270,
+        "calls_total": 540,
+        "tottime": 0.000109957,
+        "cumtime": 0.00026714400000000003,
+        "pct_cumtime": 46.4690390790522
+      }
+    ]
+  }
+]

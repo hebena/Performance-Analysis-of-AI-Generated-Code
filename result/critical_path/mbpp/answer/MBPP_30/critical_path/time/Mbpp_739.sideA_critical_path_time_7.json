@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_739.py",
+    "total_cumtime_hint": 5.4012000000000004e-05,
+    "total_tottime_sum_topk": 5.995300000000001e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_739.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.3e-06,
+        "cumtime": 5.4012000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Index",
+        "file": "Mbpp_739.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.6844000000000003e-05,
+        "cumtime": 4.4712e-05,
+        "pct_cumtime": 82.78160408798044
+      },
+      {
+        "func": "<built-in method math.pow>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.878e-06,
+        "cumtime": 6.878e-06,
+        "pct_cumtime": 12.734207213211878
+      },
+      {
+        "func": "<built-in method builtins.round>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.228e-06,
+        "cumtime": 6.228e-06,
+        "pct_cumtime": 11.530770939791157
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.941e-06,
+        "cumtime": 5.941e-06,
+        "pct_cumtime": 10.999407539065393
+      },
+      {
+        "func": "<built-in method math.sqrt>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.762e-06,
+        "cumtime": 4.762e-06,
+        "pct_cumtime": 8.816559283122269
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_739.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.3e-06,
+        "cumtime": 5.4012000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Index",
+        "file": "Mbpp_739.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.6844000000000003e-05,
+        "cumtime": 4.4712e-05,
+        "pct_cumtime": 82.78160408798044
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_694.py",
+    "total_cumtime_hint": 0.00024136800000000002,
+    "total_tottime_sum_topk": 0.000247322,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_694.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.7004e-05,
+        "cumtime": 0.00024136800000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "extract_unique",
+        "file": "Mbpp_694.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00014041500000000002,
+        "cumtime": 0.000214364,
+        "pct_cumtime": 88.81210433860329
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 990,
+        "calls_total": 990,
+        "tottime": 5.4850000000000005e-05,
+        "cumtime": 5.4850000000000005e-05,
+        "pct_cumtime": 22.724636240098107
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.2666e-05,
+        "cumtime": 1.2666e-05,
+        "pct_cumtime": 5.247588744158297
+      },
+      {
+        "func": "<method 'values' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.433e-06,
+        "cumtime": 6.433e-06,
+        "pct_cumtime": 2.665224884823174
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.954e-06,
+        "cumtime": 5.954e-06,
+        "pct_cumtime": 2.4667727287792913
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_694.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.7004e-05,
+        "cumtime": 0.00024136800000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "extract_unique",
+        "file": "Mbpp_694.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00014041500000000002,
+        "cumtime": 0.000214364,
+        "pct_cumtime": 88.81210433860329
+      }
+    ]
+  }
+]

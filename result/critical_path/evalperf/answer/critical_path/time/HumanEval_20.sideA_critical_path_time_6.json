@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_20.py",
+    "total_cumtime_hint": 0.002197483,
+    "total_tottime_sum_topk": 0.002204773,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_20.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.5703e-05,
+        "cumtime": 0.002197483,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_closest_elements",
+        "file": "HumanEval_20.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0014614150000000002,
+        "cumtime": 0.0021617800000000003,
+        "pct_cumtime": 98.37527753343258
+      },
+      {
+        "func": "<built-in method builtins.abs>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 16383,
+        "calls_total": 16383,
+        "tottime": 0.0006503310000000001,
+        "cumtime": 0.0006503310000000001,
+        "pct_cumtime": 29.5943586366766
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2,
+        "calls_total": 2,
+        "tottime": 4.9841000000000006e-05,
+        "cumtime": 4.9841000000000006e-05,
+        "pct_cumtime": 2.268094906763784
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.2900000000000005e-06,
+        "cumtime": 7.2900000000000005e-06,
+        "pct_cumtime": 0.331743180720852
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.9300000000000002e-07,
+        "cumtime": 1.9300000000000002e-07,
+        "pct_cumtime": 0.008782775566409388
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_20.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.5703e-05,
+        "cumtime": 0.002197483,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_closest_elements",
+        "file": "HumanEval_20.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0014614150000000002,
+        "cumtime": 0.0021617800000000003,
+        "pct_cumtime": 98.37527753343258
+      }
+    ]
+  }
+]

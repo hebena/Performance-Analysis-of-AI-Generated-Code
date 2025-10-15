@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_852.py",
+    "total_cumtime_hint": 4.7194e-05,
+    "total_tottime_sum_topk": 5.3261000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_852.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3223e-05,
+        "cumtime": 4.7194e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_negs",
+        "file": "Mbpp_852.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.215e-05,
+        "cumtime": 3.3971000000000004e-05,
+        "pct_cumtime": 71.98160783150401
+      },
+      {
+        "func": "<method 'remove' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 150,
+        "calls_total": 150,
+        "tottime": 1.1821e-05,
+        "cumtime": 1.1821e-05,
+        "pct_cumtime": 25.047675551976944
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.0670000000000005e-06,
+        "cumtime": 6.0670000000000005e-06,
+        "pct_cumtime": 12.855447726405899
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_852.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3223e-05,
+        "cumtime": 4.7194e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_negs",
+        "file": "Mbpp_852.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.215e-05,
+        "cumtime": 3.3971000000000004e-05,
+        "pct_cumtime": 71.98160783150401
+      }
+    ]
+  }
+]

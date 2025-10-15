@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_531.py",
+    "total_cumtime_hint": 0.0009005840000000001,
+    "total_tottime_sum_topk": 0.0009067220000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_531.py",
+        "line": 28,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1472000000000001e-05,
+        "cumtime": 0.0009005840000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "min_coins",
+        "file": "Mbpp_531.py",
+        "line": 18,
+        "calls_primitive": 90,
+        "calls_total": 2940,
+        "tottime": 0.0008891120000000001,
+        "cumtime": 0.0008891120000000001,
+        "pct_cumtime": 98.72615991401136
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.138e-06,
+        "cumtime": 6.138e-06,
+        "pct_cumtime": 0.681557744752294
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_531.py",
+        "line": 28,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1472000000000001e-05,
+        "cumtime": 0.0009005840000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "min_coins",
+        "file": "Mbpp_531.py",
+        "line": 18,
+        "calls_primitive": 90,
+        "calls_total": 2940,
+        "tottime": 0.0008891120000000001,
+        "cumtime": 0.0008891120000000001,
+        "pct_cumtime": 98.72615991401136
+      }
+    ]
+  }
+]

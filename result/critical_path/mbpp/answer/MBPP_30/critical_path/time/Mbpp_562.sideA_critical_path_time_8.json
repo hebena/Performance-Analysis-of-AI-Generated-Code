@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_562.py",
+    "total_cumtime_hint": 0.00010494700000000001,
+    "total_tottime_sum_topk": 0.000110636,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_562.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4997e-05,
+        "cumtime": 0.00010494700000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "Find_Max_Length",
+        "file": "Mbpp_562.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.612e-05,
+        "cumtime": 8.995e-05,
+        "pct_cumtime": 85.70992977407643
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.968e-05,
+        "cumtime": 7.383e-05,
+        "pct_cumtime": 70.349795611118
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_562.py",
+        "line": 2,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 3.2378e-05,
+        "cumtime": 4.415e-05,
+        "pct_cumtime": 42.068853802395495
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 1.1772e-05,
+        "cumtime": 1.1772e-05,
+        "pct_cumtime": 11.217090531411092
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.689e-06,
+        "cumtime": 5.689e-06,
+        "pct_cumtime": 5.420831467312071
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_562.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4997e-05,
+        "cumtime": 0.00010494700000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "Find_Max_Length",
+        "file": "Mbpp_562.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.612e-05,
+        "cumtime": 8.995e-05,
+        "pct_cumtime": 85.70992977407643
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_562.py",
+        "line": 2,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 3.2378e-05,
+        "cumtime": 4.415e-05,
+        "pct_cumtime": 42.068853802395495
+      }
+    ]
+  }
+]

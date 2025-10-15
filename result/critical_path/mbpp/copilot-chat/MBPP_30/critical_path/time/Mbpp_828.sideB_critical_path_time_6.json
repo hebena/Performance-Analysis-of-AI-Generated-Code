@@ -1,0 +1,162 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_828.py",
+    "total_cumtime_hint": 0.000913513,
+    "total_tottime_sum_topk": 0.0009195680000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_828.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0655e-05,
+        "cumtime": 0.000913513,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_alpha_dig_spl",
+        "file": "Mbpp_828.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.9058000000000004e-05,
+        "cumtime": 0.0009028580000000001,
+        "pct_cumtime": 98.83362360469967
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 0.00026105000000000003,
+        "cumtime": 0.0008638000000000001,
+        "pct_cumtime": 94.55804131960903
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_828.py",
+        "line": 7,
+        "calls_primitive": 1290,
+        "calls_total": 1290,
+        "tottime": 0.00013397500000000002,
+        "cumtime": 0.00021028800000000002,
+        "pct_cumtime": 23.019705247763305
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_828.py",
+        "line": 5,
+        "calls_primitive": 1290,
+        "calls_total": 1290,
+        "tottime": 0.00013202300000000002,
+        "cumtime": 0.000197624,
+        "pct_cumtime": 21.633408610495962
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_828.py",
+        "line": 6,
+        "calls_primitive": 1290,
+        "calls_total": 1290,
+        "tottime": 0.00013069,
+        "cumtime": 0.00019483800000000002,
+        "pct_cumtime": 21.328432107698525
+      },
+      {
+        "func": "<method 'isalnum' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1200,
+        "calls_total": 1200,
+        "tottime": 7.6313e-05,
+        "cumtime": 7.6313e-05,
+        "pct_cumtime": 8.353794636748464
+      },
+      {
+        "func": "<method 'isalpha' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1200,
+        "calls_total": 1200,
+        "tottime": 6.5601e-05,
+        "cumtime": 6.5601e-05,
+        "pct_cumtime": 7.181178592970215
+      },
+      {
+        "func": "<method 'isdigit' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1200,
+        "calls_total": 1200,
+        "tottime": 6.414800000000001e-05,
+        "cumtime": 6.414800000000001e-05,
+        "pct_cumtime": 7.022122290542117
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.0550000000000005e-06,
+        "cumtime": 6.0550000000000005e-06,
+        "pct_cumtime": 0.662825816381376
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_828.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0655e-05,
+        "cumtime": 0.000913513,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_alpha_dig_spl",
+        "file": "Mbpp_828.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.9058000000000004e-05,
+        "cumtime": 0.0009028580000000001,
+        "pct_cumtime": 98.83362360469967
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_828.py",
+        "line": 7,
+        "calls_primitive": 1290,
+        "calls_total": 1290,
+        "tottime": 0.00013397500000000002,
+        "cumtime": 0.00021028800000000002,
+        "pct_cumtime": 23.019705247763305
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_828.py",
+        "line": 5,
+        "calls_primitive": 1290,
+        "calls_total": 1290,
+        "tottime": 0.00013202300000000002,
+        "cumtime": 0.000197624,
+        "pct_cumtime": 21.633408610495962
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_828.py",
+        "line": 6,
+        "calls_primitive": 1290,
+        "calls_total": 1290,
+        "tottime": 0.00013069,
+        "cumtime": 0.00019483800000000002,
+        "pct_cumtime": 21.328432107698525
+      }
+    ]
+  }
+]

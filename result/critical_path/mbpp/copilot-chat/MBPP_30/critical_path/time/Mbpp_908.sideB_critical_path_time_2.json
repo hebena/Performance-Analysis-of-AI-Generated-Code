@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_908.py",
+    "total_cumtime_hint": 2.3681000000000002e-05,
+    "total_tottime_sum_topk": 2.9452000000000002e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_908.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0081e-05,
+        "cumtime": 2.3681000000000002e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_fixed_point",
+        "file": "Mbpp_908.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.36e-05,
+        "cumtime": 1.36e-05,
+        "pct_cumtime": 57.4300071787509
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.771e-06,
+        "cumtime": 5.771e-06,
+        "pct_cumtime": 24.369747899159663
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_908.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0081e-05,
+        "cumtime": 2.3681000000000002e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_fixed_point",
+        "file": "Mbpp_908.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.36e-05,
+        "cumtime": 1.36e-05,
+        "pct_cumtime": 57.4300071787509
+      }
+    ]
+  }
+]

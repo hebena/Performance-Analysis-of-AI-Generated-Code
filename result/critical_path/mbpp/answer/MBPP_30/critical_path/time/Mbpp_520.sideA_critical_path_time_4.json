@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_520.py",
+    "total_cumtime_hint": 0.00012703900000000001,
+    "total_tottime_sum_topk": 0.000133053,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_520.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1027000000000001e-05,
+        "cumtime": 0.00012703900000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_lcm",
+        "file": "Mbpp_520.py",
+        "line": 16,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.6087e-05,
+        "cumtime": 0.00011601200000000001,
+        "pct_cumtime": 91.31998835003424
+      },
+      {
+        "func": "find_lcm",
+        "file": "Mbpp_520.py",
+        "line": 1,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 6.6081e-05,
+        "cumtime": 6.6081e-05,
+        "pct_cumtime": 52.01630995206197
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.014e-06,
+        "cumtime": 6.014e-06,
+        "pct_cumtime": 4.733979329182376
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.844e-06,
+        "cumtime": 3.844e-06,
+        "pct_cumtime": 3.0258424578279106
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_520.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1027000000000001e-05,
+        "cumtime": 0.00012703900000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_lcm",
+        "file": "Mbpp_520.py",
+        "line": 16,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.6087e-05,
+        "cumtime": 0.00011601200000000001,
+        "pct_cumtime": 91.31998835003424
+      },
+      {
+        "func": "find_lcm",
+        "file": "Mbpp_520.py",
+        "line": 1,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 6.6081e-05,
+        "cumtime": 6.6081e-05,
+        "pct_cumtime": 52.01630995206197
+      }
+    ]
+  }
+]

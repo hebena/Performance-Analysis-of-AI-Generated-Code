@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_560.py",
+    "total_cumtime_hint": 0.00035277,
+    "total_tottime_sum_topk": 0.000362288,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_560.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.3332000000000003e-05,
+        "cumtime": 0.00035277,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "union_elements",
+        "file": "Mbpp_560.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.4427e-05,
+        "cumtime": 0.00032943800000000004,
+        "pct_cumtime": 93.38605890523571
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.4318e-05,
+        "cumtime": 0.000265011,
+        "pct_cumtime": 75.12288459903053
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_560.py",
+        "line": 5,
+        "calls_primitive": 570,
+        "calls_total": 570,
+        "tottime": 0.000111859,
+        "cumtime": 0.000180693,
+        "pct_cumtime": 51.22119227825495
+      },
+      {
+        "func": "<method 'index' of 'tuple' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 570,
+        "calls_total": 570,
+        "tottime": 6.8834e-05,
+        "cumtime": 6.8834e-05,
+        "pct_cumtime": 19.512430195311392
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.518000000000001e-06,
+        "cumtime": 9.518000000000001e-06,
+        "pct_cumtime": 2.698075233154747
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_560.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.3332000000000003e-05,
+        "cumtime": 0.00035277,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "union_elements",
+        "file": "Mbpp_560.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.4427e-05,
+        "cumtime": 0.00032943800000000004,
+        "pct_cumtime": 93.38605890523571
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_560.py",
+        "line": 5,
+        "calls_primitive": 570,
+        "calls_total": 570,
+        "tottime": 0.000111859,
+        "cumtime": 0.000180693,
+        "pct_cumtime": 51.22119227825495
+      }
+    ]
+  }
+]

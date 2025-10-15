@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_108.py",
+    "total_cumtime_hint": 0.015547765000000002,
+    "total_tottime_sum_topk": 0.015556532000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_108.py",
+        "line": 60,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.9805e-05,
+        "cumtime": 0.015547765000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "merge_sorted_list",
+        "file": "Mbpp_108.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.005301223000000001,
+        "cumtime": 0.015497960000000002,
+        "pct_cumtime": 99.67966456915191
+      },
+      {
+        "func": "<method 'pop' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 24576,
+        "calls_total": 24576,
+        "tottime": 0.008848898000000001,
+        "cumtime": 0.008848898000000001,
+        "pct_cumtime": 56.91427674652917
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 24576,
+        "calls_total": 24576,
+        "tottime": 0.001291561,
+        "cumtime": 0.001291561,
+        "pct_cumtime": 8.307052492753781
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 3,
+        "calls_total": 3,
+        "tottime": 5.6278000000000006e-05,
+        "cumtime": 5.6278000000000006e-05,
+        "pct_cumtime": 0.3619684244005489
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.767000000000001e-06,
+        "cumtime": 8.767000000000001e-06,
+        "pct_cumtime": 0.05638752579550822
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_108.py",
+        "line": 60,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.9805e-05,
+        "cumtime": 0.015547765000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "merge_sorted_list",
+        "file": "Mbpp_108.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.005301223000000001,
+        "cumtime": 0.015497960000000002,
+        "pct_cumtime": 99.67966456915191
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_157.py",
+    "total_cumtime_hint": 0.00038559900000000003,
+    "total_tottime_sum_topk": 0.00039154600000000005,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_157.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.5392e-05,
+        "cumtime": 0.00038559900000000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "encode_list",
+        "file": "Mbpp_157.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00022568200000000003,
+        "cumtime": 0.000350207,
+        "pct_cumtime": 90.82155296045892
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1650,
+        "calls_total": 1650,
+        "tottime": 7.0184e-05,
+        "cumtime": 7.0184e-05,
+        "pct_cumtime": 18.201292015798796
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 750,
+        "calls_total": 750,
+        "tottime": 4.8675000000000004e-05,
+        "cumtime": 4.8675000000000004e-05,
+        "pct_cumtime": 12.623217383862508
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.947e-06,
+        "cumtime": 5.947e-06,
+        "pct_cumtime": 1.5422757839102277
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.6660000000000005e-06,
+        "cumtime": 5.6660000000000005e-06,
+        "pct_cumtime": 1.4694021509391881
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_157.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.5392e-05,
+        "cumtime": 0.00038559900000000003,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "encode_list",
+        "file": "Mbpp_157.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00022568200000000003,
+        "cumtime": 0.000350207,
+        "pct_cumtime": 90.82155296045892
+      }
+    ]
+  }
+]

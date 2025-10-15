@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_398.py",
+    "total_cumtime_hint": 0.000382651,
+    "total_tottime_sum_topk": 0.00038964,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_398.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4173000000000001e-05,
+        "cumtime": 0.000382651,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_of_digits",
+        "file": "Mbpp_398.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.9275e-05,
+        "cumtime": 0.00036847800000000005,
+        "pct_cumtime": 96.29610271500663
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.6881000000000006e-05,
+        "cumtime": 0.000349203,
+        "pct_cumtime": 91.25887558114313
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_398.py",
+        "line": 2,
+        "calls_primitive": 720,
+        "calls_total": 720,
+        "tottime": 0.00021730800000000001,
+        "cumtime": 0.000292322,
+        "pct_cumtime": 76.39389417510995
+      },
+      {
+        "func": "<method 'isdigit' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1290,
+        "calls_total": 1290,
+        "tottime": 7.501400000000001e-05,
+        "cumtime": 7.501400000000001e-05,
+        "pct_cumtime": 19.60376426561018
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.989e-06,
+        "cumtime": 6.989e-06,
+        "pct_cumtime": 1.8264685052436815
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_398.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4173000000000001e-05,
+        "cumtime": 0.000382651,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_of_digits",
+        "file": "Mbpp_398.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.9275e-05,
+        "cumtime": 0.00036847800000000005,
+        "pct_cumtime": 96.29610271500663
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_398.py",
+        "line": 2,
+        "calls_primitive": 720,
+        "calls_total": 720,
+        "tottime": 0.00021730800000000001,
+        "cumtime": 0.000292322,
+        "pct_cumtime": 76.39389417510995
+      }
+    ]
+  }
+]

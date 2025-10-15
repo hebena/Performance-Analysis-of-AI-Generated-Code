@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_584.py",
+    "total_cumtime_hint": 0.00021805400000000002,
+    "total_tottime_sum_topk": 0.00022508300000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_584.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3243e-05,
+        "cumtime": 0.00021805400000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_adverbs",
+        "file": "Mbpp_584.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.835100000000001e-05,
+        "cumtime": 0.000204811,
+        "pct_cumtime": 93.92673374485219
+      },
+      {
+        "func": "finditer",
+        "file": "__init__.py",
+        "line": 280,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.2806000000000004e-05,
+        "cumtime": 8.0179e-05,
+        "pct_cumtime": 36.77024957120713
+      },
+      {
+        "func": "_compile",
+        "file": "__init__.py",
+        "line": 330,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.0725000000000002e-05,
+        "cumtime": 3.1451e-05,
+        "pct_cumtime": 14.423491428728664
+      },
+      {
+        "func": "<method 'finditer' of 're.Pattern' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.5922e-05,
+        "cumtime": 1.5922e-05,
+        "pct_cumtime": 7.301861006906546
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0726e-05,
+        "cumtime": 1.0726e-05,
+        "pct_cumtime": 4.918965027011657
+      },
+      {
+        "func": "<method 'group' of 're.Match' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0677000000000001e-05,
+        "cumtime": 1.0677000000000001e-05,
+        "pct_cumtime": 4.896493529125813
+      },
+      {
+        "func": "<method 'start' of 're.Match' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.912e-06,
+        "cumtime": 7.912e-06,
+        "pct_cumtime": 3.6284590055674277
+      },
+      {
+        "func": "<method 'end' of 're.Match' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.692e-06,
+        "cumtime": 7.692e-06,
+        "pct_cumtime": 3.5275665660799613
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.029000000000001e-06,
+        "cumtime": 7.029000000000001e-06,
+        "pct_cumtime": 3.2235134416245517
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_584.py",
+        "line": 6,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3243e-05,
+        "cumtime": 0.00021805400000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_adverbs",
+        "file": "Mbpp_584.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.835100000000001e-05,
+        "cumtime": 0.000204811,
+        "pct_cumtime": 93.92673374485219
+      }
+    ]
+  }
+]

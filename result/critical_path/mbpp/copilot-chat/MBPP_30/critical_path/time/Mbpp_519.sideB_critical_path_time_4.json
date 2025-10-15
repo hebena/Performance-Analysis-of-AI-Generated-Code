@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_519.py",
+    "total_cumtime_hint": 6.0629000000000005e-05,
+    "total_tottime_sum_topk": 6.6815e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_519.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.715000000000001e-06,
+        "cumtime": 6.0629000000000005e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "volume_tetrahedron",
+        "file": "Mbpp_519.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.947e-05,
+        "cumtime": 5.0914e-05,
+        "pct_cumtime": 83.97631496478583
+      },
+      {
+        "func": "<built-in method builtins.round>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6274e-05,
+        "cumtime": 1.6274e-05,
+        "pct_cumtime": 26.841940325586766
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.1860000000000006e-06,
+        "cumtime": 6.1860000000000006e-06,
+        "pct_cumtime": 10.203038150060202
+      },
+      {
+        "func": "<built-in method math.sqrt>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.1700000000000005e-06,
+        "cumtime": 5.1700000000000005e-06,
+        "pct_cumtime": 8.527272427386235
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_519.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.715000000000001e-06,
+        "cumtime": 6.0629000000000005e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "volume_tetrahedron",
+        "file": "Mbpp_519.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.947e-05,
+        "cumtime": 5.0914e-05,
+        "pct_cumtime": 83.97631496478583
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_948.py",
+    "total_cumtime_hint": 2.0627e-05,
+    "total_tottime_sum_topk": 2.7469e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_948.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.627e-06,
+        "cumtime": 2.0627e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_item",
+        "file": "Mbpp_948.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.339e-06,
+        "cumtime": 1.2e-05,
+        "pct_cumtime": 58.176176855577644
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.842000000000001e-06,
+        "cumtime": 6.842000000000001e-06,
+        "pct_cumtime": 33.17011683715519
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 60,
+        "calls_total": 60,
+        "tottime": 2.661e-06,
+        "cumtime": 2.661e-06,
+        "pct_cumtime": 12.90056721772434
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_948.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.627e-06,
+        "cumtime": 2.0627e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_item",
+        "file": "Mbpp_948.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.339e-06,
+        "cumtime": 1.2e-05,
+        "pct_cumtime": 58.176176855577644
+      }
+    ]
+  }
+]

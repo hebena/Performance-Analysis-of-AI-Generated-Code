@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_75.py",
+    "total_cumtime_hint": 5.1416000000000004e-05,
+    "total_tottime_sum_topk": 5.7900000000000005e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_75.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.5670000000000005e-06,
+        "cumtime": 5.1416000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_tuples",
+        "file": "Mbpp_75.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.6849000000000005e-05,
+        "cumtime": 4.6849000000000005e-05,
+        "pct_cumtime": 91.11755095690059
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.484e-06,
+        "cumtime": 6.484e-06,
+        "pct_cumtime": 12.610860432550178
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_75.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.5670000000000005e-06,
+        "cumtime": 5.1416000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_tuples",
+        "file": "Mbpp_75.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.6849000000000005e-05,
+        "cumtime": 4.6849000000000005e-05,
+        "pct_cumtime": 91.11755095690059
+      }
+    ]
+  }
+]

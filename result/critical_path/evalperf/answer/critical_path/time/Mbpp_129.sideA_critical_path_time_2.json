@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_129.py",
+    "total_cumtime_hint": 0.008882217000000001,
+    "total_tottime_sum_topk": 0.00889785,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_129.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.008849578,
+        "cumtime": 0.008882217000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "magic_square_test",
+        "file": "Mbpp_129.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5984e-05,
+        "cumtime": 3.2639000000000004e-05,
+        "pct_cumtime": 0.36746456430866303
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5633e-05,
+        "cumtime": 1.5633e-05,
+        "pct_cumtime": 0.17600335591891075
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 5,
+        "calls_total": 5,
+        "tottime": 1.4999000000000002e-05,
+        "cumtime": 1.4999000000000002e-05,
+        "pct_cumtime": 0.16886549833222944
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.680000000000001e-07,
+        "cumtime": 8.680000000000001e-07,
+        "pct_cumtime": 0.009772334992491177
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.88e-07,
+        "cumtime": 7.88e-07,
+        "pct_cumtime": 0.008871658956316874
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_129.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.008849578,
+        "cumtime": 0.008882217000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "magic_square_test",
+        "file": "Mbpp_129.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5984e-05,
+        "cumtime": 3.2639000000000004e-05,
+        "pct_cumtime": 0.36746456430866303
+      }
+    ]
+  }
+]

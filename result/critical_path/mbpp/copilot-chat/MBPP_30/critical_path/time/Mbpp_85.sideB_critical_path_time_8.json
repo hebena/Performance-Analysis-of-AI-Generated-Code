@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_85.py",
+    "total_cumtime_hint": 1.4753000000000001e-05,
+    "total_tottime_sum_topk": 2.0273e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_85.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.278000000000001e-06,
+        "cumtime": 1.4753000000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "surfacearea_sphere",
+        "file": "Mbpp_85.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.475000000000001e-06,
+        "cumtime": 6.475000000000001e-06,
+        "pct_cumtime": 43.88937843150546
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.5200000000000005e-06,
+        "cumtime": 5.5200000000000005e-06,
+        "pct_cumtime": 37.416118755507355
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_85.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.278000000000001e-06,
+        "cumtime": 1.4753000000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "surfacearea_sphere",
+        "file": "Mbpp_85.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.475000000000001e-06,
+        "cumtime": 6.475000000000001e-06,
+        "pct_cumtime": 43.88937843150546
+      }
+    ]
+  }
+]

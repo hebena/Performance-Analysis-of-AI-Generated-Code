@@ -1,0 +1,122 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_495.py",
+    "total_cumtime_hint": 0.000189099,
+    "total_tottime_sum_topk": 0.000194897,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_495.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1432e-05,
+        "cumtime": 0.000189099,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_lowercase",
+        "file": "Mbpp_495.py",
+        "line": 13,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.5723000000000002e-05,
+        "cumtime": 0.000177667,
+        "pct_cumtime": 93.95448944732654
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_495.py",
+        "line": 14,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.466e-05,
+        "cumtime": 0.00016194400000000002,
+        "pct_cumtime": 85.63979714329533
+      },
+      {
+        "func": "sub",
+        "file": "__init__.py",
+        "line": 183,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.5672e-05,
+        "cumtime": 0.00014728400000000002,
+        "pct_cumtime": 77.88724424772211
+      },
+      {
+        "func": "<method 'sub' of 're.Pattern' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.6551e-05,
+        "cumtime": 9.6551e-05,
+        "pct_cumtime": 51.05844028789153
+      },
+      {
+        "func": "_compile",
+        "file": "__init__.py",
+        "line": 330,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.7264000000000003e-05,
+        "cumtime": 2.5061000000000003e-05,
+        "pct_cumtime": 13.252846392630316
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.797e-06,
+        "cumtime": 7.797e-06,
+        "pct_cumtime": 4.123237034569193
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.798e-06,
+        "cumtime": 5.798e-06,
+        "pct_cumtime": 3.066118805493419
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_495.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1432e-05,
+        "cumtime": 0.000189099,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove_lowercase",
+        "file": "Mbpp_495.py",
+        "line": 13,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.5723000000000002e-05,
+        "cumtime": 0.000177667,
+        "pct_cumtime": 93.95448944732654
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_495.py",
+        "line": 14,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.466e-05,
+        "cumtime": 0.00016194400000000002,
+        "pct_cumtime": 85.63979714329533
+      }
+    ]
+  }
+]

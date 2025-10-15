@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_319.py",
+    "total_cumtime_hint": 0.000105785,
+    "total_tottime_sum_topk": 0.000111649,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_319.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3898000000000001e-05,
+        "cumtime": 0.000105785,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_long_word",
+        "file": "Mbpp_319.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.2163e-05,
+        "cumtime": 9.188700000000001e-05,
+        "pct_cumtime": 86.86203147894315
+      },
+      {
+        "func": "findall",
+        "file": "__init__.py",
+        "line": 270,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.241e-05,
+        "cumtime": 7.972400000000001e-05,
+        "pct_cumtime": 75.36418206740086
+      },
+      {
+        "func": "<method 'findall' of 're.Pattern' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.3413e-05,
+        "cumtime": 3.3413e-05,
+        "pct_cumtime": 31.58576357706669
+      },
+      {
+        "func": "_compile",
+        "file": "__init__.py",
+        "line": 330,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6859000000000002e-05,
+        "cumtime": 2.3901e-05,
+        "pct_cumtime": 22.593940539774067
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.0420000000000005e-06,
+        "cumtime": 7.0420000000000005e-06,
+        "pct_cumtime": 6.656898426052843
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.864e-06,
+        "cumtime": 5.864e-06,
+        "pct_cumtime": 5.543318996076948
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_319.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3898000000000001e-05,
+        "cumtime": 0.000105785,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_long_word",
+        "file": "Mbpp_319.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.2163e-05,
+        "cumtime": 9.188700000000001e-05,
+        "pct_cumtime": 86.86203147894315
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_133.py",
+    "total_cumtime_hint": 0.000239776,
+    "total_tottime_sum_topk": 0.000245759,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_133.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.037e-05,
+        "cumtime": 0.000239776,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_squares",
+        "file": "HumanEval_133.py",
+        "line": 3,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 0.00013497500000000001,
+        "cumtime": 0.000189406,
+        "pct_cumtime": 78.99289336714267
+      },
+      {
+        "func": "<built-in method math.ceil>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1020,
+        "calls_total": 1020,
+        "tottime": 5.4431e-05,
+        "cumtime": 5.4431e-05,
+        "pct_cumtime": 22.70077071933805
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.983e-06,
+        "cumtime": 5.983e-06,
+        "pct_cumtime": 2.4952455625250236
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_133.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.037e-05,
+        "cumtime": 0.000239776,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "sum_squares",
+        "file": "HumanEval_133.py",
+        "line": 3,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 0.00013497500000000001,
+        "cumtime": 0.000189406,
+        "pct_cumtime": 78.99289336714267
+      }
+    ]
+  }
+]

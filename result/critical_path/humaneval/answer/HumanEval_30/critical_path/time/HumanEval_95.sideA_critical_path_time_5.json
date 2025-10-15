@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_95.py",
+    "total_cumtime_hint": 0.000271917,
+    "total_tottime_sum_topk": 0.000277812,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_95.py",
+        "line": 35,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.4237000000000004e-05,
+        "cumtime": 0.000271917,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_dict_case",
+        "file": "HumanEval_95.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 0.000151702,
+        "cumtime": 0.00023768000000000001,
+        "pct_cumtime": 87.40902554823715
+      },
+      {
+        "func": "<method 'keys' of 'dict' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 2.4936000000000003e-05,
+        "cumtime": 2.4936000000000003e-05,
+        "pct_cumtime": 9.170445393263387
+      },
+      {
+        "func": "<method 'islower' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 1.7527e-05,
+        "cumtime": 1.7527e-05,
+        "pct_cumtime": 6.4457168915514655
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 1.6772e-05,
+        "cumtime": 1.6772e-05,
+        "pct_cumtime": 6.168058635539523
+      },
+      {
+        "func": "<method 'isupper' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 1.6229e-05,
+        "cumtime": 1.6229e-05,
+        "pct_cumtime": 5.968365346778612
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 1.0514000000000001e-05,
+        "cumtime": 1.0514000000000001e-05,
+        "pct_cumtime": 3.866621064516011
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.895e-06,
+        "cumtime": 5.895e-06,
+        "pct_cumtime": 2.1679409525700857
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_95.py",
+        "line": 35,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.4237000000000004e-05,
+        "cumtime": 0.000271917,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_dict_case",
+        "file": "HumanEval_95.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 0.000151702,
+        "cumtime": 0.00023768000000000001,
+        "pct_cumtime": 87.40902554823715
+      }
+    ]
+  }
+]

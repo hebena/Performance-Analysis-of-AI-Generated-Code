@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_158.py",
+    "total_cumtime_hint": 0.00045134700000000005,
+    "total_tottime_sum_topk": 0.000457314,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_158.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.8445e-05,
+        "cumtime": 0.00045134700000000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_max",
+        "file": "HumanEval_158.py",
+        "line": 1,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 4.7851e-05,
+        "cumtime": 0.00041290200000000004,
+        "pct_cumtime": 91.48216339091651
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 0.000125752,
+        "cumtime": 0.000365051,
+        "pct_cumtime": 80.88034261887195
+      },
+      {
+        "func": "<lambda>",
+        "file": "HumanEval_158.py",
+        "line": 2,
+        "calls_primitive": 990,
+        "calls_total": 990,
+        "tottime": 0.00019829500000000003,
+        "cumtime": 0.00023929900000000003,
+        "pct_cumtime": 53.01885245720034
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 990,
+        "calls_total": 990,
+        "tottime": 4.1004e-05,
+        "cumtime": 4.1004e-05,
+        "pct_cumtime": 9.084806146933513
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.967000000000001e-06,
+        "cumtime": 5.967000000000001e-06,
+        "pct_cumtime": 1.3220426855612202
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_158.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.8445e-05,
+        "cumtime": 0.00045134700000000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_max",
+        "file": "HumanEval_158.py",
+        "line": 1,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 4.7851e-05,
+        "cumtime": 0.00041290200000000004,
+        "pct_cumtime": 91.48216339091651
+      },
+      {
+        "func": "<lambda>",
+        "file": "HumanEval_158.py",
+        "line": 2,
+        "calls_primitive": 990,
+        "calls_total": 990,
+        "tottime": 0.00019829500000000003,
+        "cumtime": 0.00023929900000000003,
+        "pct_cumtime": 53.01885245720034
+      }
+    ]
+  }
+]

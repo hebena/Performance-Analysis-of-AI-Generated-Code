@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_956.py",
+    "total_cumtime_hint": 0.0005275000000000001,
+    "total_tottime_sum_topk": 0.0005331250000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_956.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.9594000000000002e-05,
+        "cumtime": 0.0005275000000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "split_list",
+        "file": "Mbpp_956.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00032368100000000003,
+        "cumtime": 0.000507906,
+        "pct_cumtime": 96.28549763033175
+      },
+      {
+        "func": "<method 'isupper' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2670,
+        "calls_total": 2670,
+        "tottime": 0.00013623200000000002,
+        "cumtime": 0.00013623200000000002,
+        "pct_cumtime": 25.825971563981042
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 600,
+        "calls_total": 600,
+        "tottime": 3.6779e-05,
+        "cumtime": 3.6779e-05,
+        "pct_cumtime": 6.972322274881517
+      },
+      {
+        "func": "<method 'remove' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.715e-06,
+        "cumtime": 6.715e-06,
+        "pct_cumtime": 1.2729857819905213
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.625e-06,
+        "cumtime": 5.625e-06,
+        "pct_cumtime": 1.066350710900474
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.4990000000000005e-06,
+        "cumtime": 4.4990000000000005e-06,
+        "pct_cumtime": 0.8528909952606636
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_956.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.9594000000000002e-05,
+        "cumtime": 0.0005275000000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "split_list",
+        "file": "Mbpp_956.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00032368100000000003,
+        "cumtime": 0.000507906,
+        "pct_cumtime": 96.28549763033175
+      }
+    ]
+  }
+]

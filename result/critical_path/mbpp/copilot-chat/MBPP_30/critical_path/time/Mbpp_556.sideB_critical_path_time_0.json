@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_556.py",
+    "total_cumtime_hint": 7.3952e-05,
+    "total_tottime_sum_topk": 8.0042e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_556.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0734000000000001e-05,
+        "cumtime": 7.3952e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Odd_Pair",
+        "file": "Mbpp_556.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.3218e-05,
+        "cumtime": 6.3218e-05,
+        "pct_cumtime": 85.48517957594116
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.09e-06,
+        "cumtime": 6.09e-06,
+        "pct_cumtime": 8.235071397663349
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_556.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0734000000000001e-05,
+        "cumtime": 7.3952e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Odd_Pair",
+        "file": "Mbpp_556.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.3218e-05,
+        "cumtime": 6.3218e-05,
+        "pct_cumtime": 85.48517957594116
+      }
+    ]
+  }
+]

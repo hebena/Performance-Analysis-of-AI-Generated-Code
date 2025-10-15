@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_27.py",
+    "total_cumtime_hint": 0.000316586,
+    "total_tottime_sum_topk": 0.000322024,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_27.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.6018e-05,
+        "cumtime": 0.000316586,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove",
+        "file": "Mbpp_27.py",
+        "line": 12,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000188752,
+        "cumtime": 0.000300568,
+        "pct_cumtime": 94.94039534281366
+      },
+      {
+        "func": "<method 'isdigit' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1710,
+        "calls_total": 1710,
+        "tottime": 8.505200000000001e-05,
+        "cumtime": 8.505200000000001e-05,
+        "pct_cumtime": 26.865369915283686
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 2.2436e-05,
+        "cumtime": 2.2436e-05,
+        "pct_cumtime": 7.086857915384762
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.438e-06,
+        "cumtime": 5.438e-06,
+        "pct_cumtime": 1.7177007195517175
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.328e-06,
+        "cumtime": 4.328e-06,
+        "pct_cumtime": 1.3670850890437354
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_27.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.6018e-05,
+        "cumtime": 0.000316586,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "remove",
+        "file": "Mbpp_27.py",
+        "line": 12,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000188752,
+        "cumtime": 0.000300568,
+        "pct_cumtime": 94.94039534281366
+      }
+    ]
+  }
+]

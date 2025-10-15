@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_159.py",
+    "total_cumtime_hint": 1.8508e-05,
+    "total_tottime_sum_topk": 2.4569e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_159.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.817e-06,
+        "cumtime": 1.8508e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "month_season",
+        "file": "Mbpp_159.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.691000000000001e-06,
+        "cumtime": 9.691000000000001e-06,
+        "pct_cumtime": 52.3611411281608
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.061e-06,
+        "cumtime": 6.061e-06,
+        "pct_cumtime": 32.74800086449103
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_159.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.817e-06,
+        "cumtime": 1.8508e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "month_season",
+        "file": "Mbpp_159.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.691000000000001e-06,
+        "cumtime": 9.691000000000001e-06,
+        "pct_cumtime": 52.3611411281608
+      }
+    ]
+  }
+]

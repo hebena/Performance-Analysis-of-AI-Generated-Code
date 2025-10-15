@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_449.py",
+    "total_cumtime_hint": 1.5124000000000001e-05,
+    "total_tottime_sum_topk": 2.0813e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_449.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.142e-06,
+        "cumtime": 1.5124000000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_Triangle",
+        "file": "Mbpp_449.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.9820000000000005e-06,
+        "cumtime": 5.9820000000000005e-06,
+        "pct_cumtime": 39.5530282993917
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.689e-06,
+        "cumtime": 5.689e-06,
+        "pct_cumtime": 37.61571012959534
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_449.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.142e-06,
+        "cumtime": 1.5124000000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_Triangle",
+        "file": "Mbpp_449.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.9820000000000005e-06,
+        "cumtime": 5.9820000000000005e-06,
+        "pct_cumtime": 39.5530282993917
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_66.py",
+    "total_cumtime_hint": 0.000529983,
+    "total_tottime_sum_topk": 0.00053564,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_66.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.4528000000000003e-05,
+        "cumtime": 0.000529983,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "digitSum",
+        "file": "HumanEval_66.py",
+        "line": 1,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 3.7422e-05,
+        "cumtime": 0.000505455,
+        "pct_cumtime": 95.37192702407435
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 0.00012987,
+        "cumtime": 0.000468033,
+        "pct_cumtime": 88.31094582279054
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_66.py",
+        "line": 16,
+        "calls_primitive": 2010,
+        "calls_total": 2010,
+        "tottime": 0.000231193,
+        "cumtime": 0.000338163,
+        "pct_cumtime": 63.80638624257758
+      },
+      {
+        "func": "<method 'isupper' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1800,
+        "calls_total": 1800,
+        "tottime": 8.974100000000001e-05,
+        "cumtime": 8.974100000000001e-05,
+        "pct_cumtime": 16.932807278724034
+      },
+      {
+        "func": "<built-in method builtins.ord>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 420,
+        "calls_total": 420,
+        "tottime": 1.7229e-05,
+        "cumtime": 1.7229e-05,
+        "pct_cumtime": 3.2508589898166544
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.657e-06,
+        "cumtime": 5.657e-06,
+        "pct_cumtime": 1.0673927276912656
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_66.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.4528000000000003e-05,
+        "cumtime": 0.000529983,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "digitSum",
+        "file": "HumanEval_66.py",
+        "line": 1,
+        "calls_primitive": 240,
+        "calls_total": 240,
+        "tottime": 3.7422e-05,
+        "cumtime": 0.000505455,
+        "pct_cumtime": 95.37192702407435
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_66.py",
+        "line": 16,
+        "calls_primitive": 2010,
+        "calls_total": 2010,
+        "tottime": 0.000231193,
+        "cumtime": 0.000338163,
+        "pct_cumtime": 63.80638624257758
+      }
+    ]
+  }
+]

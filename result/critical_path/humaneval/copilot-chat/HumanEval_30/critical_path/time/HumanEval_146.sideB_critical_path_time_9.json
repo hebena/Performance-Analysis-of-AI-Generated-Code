@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_146.py",
+    "total_cumtime_hint": 0.000339659,
+    "total_tottime_sum_topk": 0.00034588800000000003,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_146.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.004e-05,
+        "cumtime": 0.000339659,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "specialFilter",
+        "file": "HumanEval_146.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 0.00020470400000000002,
+        "cumtime": 0.000309619,
+        "pct_cumtime": 91.15583570581083
+      },
+      {
+        "func": "is_odd",
+        "file": "HumanEval_146.py",
+        "line": 10,
+        "calls_primitive": 780,
+        "calls_total": 780,
+        "tottime": 6.9656e-05,
+        "cumtime": 6.9656e-05,
+        "pct_cumtime": 20.50762676684557
+      },
+      {
+        "func": "<built-in method builtins.abs>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 810,
+        "calls_total": 810,
+        "tottime": 3.5259e-05,
+        "cumtime": 3.5259e-05,
+        "pct_cumtime": 10.380705354487883
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.229e-06,
+        "cumtime": 6.229e-06,
+        "pct_cumtime": 1.8338981154628613
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_146.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.004e-05,
+        "cumtime": 0.000339659,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "specialFilter",
+        "file": "HumanEval_146.py",
+        "line": 1,
+        "calls_primitive": 210,
+        "calls_total": 210,
+        "tottime": 0.00020470400000000002,
+        "cumtime": 0.000309619,
+        "pct_cumtime": 91.15583570581083
+      },
+      {
+        "func": "is_odd",
+        "file": "HumanEval_146.py",
+        "line": 10,
+        "calls_primitive": 780,
+        "calls_total": 780,
+        "tottime": 6.9656e-05,
+        "cumtime": 6.9656e-05,
+        "pct_cumtime": 20.50762676684557
+      }
+    ]
+  }
+]

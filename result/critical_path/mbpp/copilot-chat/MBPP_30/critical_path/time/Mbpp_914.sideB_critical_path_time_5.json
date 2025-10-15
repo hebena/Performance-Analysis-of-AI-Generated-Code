@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_914.py",
+    "total_cumtime_hint": 6.1839e-05,
+    "total_tottime_sum_topk": 6.843700000000001e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_914.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0614e-05,
+        "cumtime": 6.1839e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_Two_Alter",
+        "file": "Mbpp_914.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.8439000000000003e-05,
+        "cumtime": 5.1225000000000005e-05,
+        "pct_cumtime": 82.8360743220298
+      },
+      {
+        "func": "<built-in method builtins.all>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 30,
+        "calls_total": 30,
+        "tottime": 9.921e-06,
+        "cumtime": 1.7222000000000002e-05,
+        "pct_cumtime": 27.84973883795016
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_914.py",
+        "line": 7,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 7.301e-06,
+        "cumtime": 7.301e-06,
+        "pct_cumtime": 11.806465175698182
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.598e-06,
+        "cumtime": 6.598e-06,
+        "pct_cumtime": 10.669642135222109
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 5.5640000000000004e-06,
+        "cumtime": 5.5640000000000004e-06,
+        "pct_cumtime": 8.997558175261567
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_914.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0614e-05,
+        "cumtime": 6.1839e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_Two_Alter",
+        "file": "Mbpp_914.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.8439000000000003e-05,
+        "cumtime": 5.1225000000000005e-05,
+        "pct_cumtime": 82.8360743220298
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_914.py",
+        "line": 7,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 7.301e-06,
+        "cumtime": 7.301e-06,
+        "pct_cumtime": 11.806465175698182
+      }
+    ]
+  }
+]

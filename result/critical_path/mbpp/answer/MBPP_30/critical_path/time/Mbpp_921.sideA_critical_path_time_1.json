@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_921.py",
+    "total_cumtime_hint": 4.3902e-05,
+    "total_tottime_sum_topk": 5.0076e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_921.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5191e-05,
+        "cumtime": 4.3902e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "chunk_tuples",
+        "file": "Mbpp_921.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4677e-05,
+        "cumtime": 2.8711000000000003e-05,
+        "pct_cumtime": 65.39793175709535
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.1740000000000005e-06,
+        "cumtime": 6.1740000000000005e-06,
+        "pct_cumtime": 14.063140631406315
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.034e-06,
+        "cumtime": 4.034e-06,
+        "pct_cumtime": 9.188647442029975
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_921.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.5191e-05,
+        "cumtime": 4.3902e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "chunk_tuples",
+        "file": "Mbpp_921.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4677e-05,
+        "cumtime": 2.8711000000000003e-05,
+        "pct_cumtime": 65.39793175709535
+      }
+    ]
+  }
+]

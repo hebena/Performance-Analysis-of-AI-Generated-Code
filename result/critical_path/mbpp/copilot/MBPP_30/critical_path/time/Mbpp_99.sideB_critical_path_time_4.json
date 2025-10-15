@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_99.py",
+    "total_cumtime_hint": 4.117e-05,
+    "total_tottime_sum_topk": 4.7085e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_99.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.774e-06,
+        "cumtime": 4.117e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "decimal_to_binary",
+        "file": "Mbpp_99.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.1396e-05,
+        "cumtime": 3.1396e-05,
+        "pct_cumtime": 76.25941219334467
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.915e-06,
+        "cumtime": 5.915e-06,
+        "pct_cumtime": 14.36725771192616
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_99.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.774e-06,
+        "cumtime": 4.117e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "decimal_to_binary",
+        "file": "Mbpp_99.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.1396e-05,
+        "cumtime": 3.1396e-05,
+        "pct_cumtime": 76.25941219334467
+      }
+    ]
+  }
+]

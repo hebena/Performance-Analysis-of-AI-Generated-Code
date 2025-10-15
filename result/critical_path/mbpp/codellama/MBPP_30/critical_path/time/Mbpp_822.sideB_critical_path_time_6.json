@@ -1,0 +1,182 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_822.py",
+    "total_cumtime_hint": 0.00048195800000000005,
+    "total_tottime_sum_topk": 0.00044952900000000005,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_822.py",
+        "line": 932,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2511000000000001e-05,
+        "cumtime": 0.00048195800000000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "pass_validity",
+        "file": "Mbpp_822.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.4925e-05,
+        "cumtime": 0.000469447,
+        "pct_cumtime": 97.40413065038861
+      },
+      {
+        "func": "<built-in method builtins.any>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 0.00013768300000000002,
+        "cumtime": 0.00039464800000000005,
+        "pct_cumtime": 81.88431357089208
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_822.py",
+        "line": 9,
+        "calls_primitive": 660,
+        "calls_total": 660,
+        "tottime": 7.0024e-05,
+        "cumtime": 0.000103707,
+        "pct_cumtime": 21.517850103121017
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_822.py",
+        "line": 15,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 4.0746e-05,
+        "cumtime": 5.9979e-05,
+        "pct_cumtime": 12.444860340527597
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_822.py",
+        "line": 11,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 3.4704000000000005e-05,
+        "cumtime": 5.2636e-05,
+        "pct_cumtime": 10.921283597325909
+      },
+      {
+        "func": "<method 'isupper' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 600,
+        "calls_total": 600,
+        "tottime": 3.3683e-05,
+        "cumtime": 3.3683e-05,
+        "pct_cumtime": 6.988783254972425
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_822.py",
+        "line": 7,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 1.8088e-05,
+        "cumtime": 2.6317000000000002e-05,
+        "pct_cumtime": 5.4604343117035095
+      },
+      {
+        "func": "<method 'isspace' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 1.9233e-05,
+        "cumtime": 1.9233e-05,
+        "pct_cumtime": 3.9905966909979704
+      },
+      {
+        "func": "<method 'isdigit' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 1.7932e-05,
+        "cumtime": 1.7932e-05,
+        "pct_cumtime": 3.7206561567605476
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_822.py",
+        "line": 932,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2511000000000001e-05,
+        "cumtime": 0.00048195800000000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "pass_validity",
+        "file": "Mbpp_822.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.4925e-05,
+        "cumtime": 0.000469447,
+        "pct_cumtime": 97.40413065038861
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_822.py",
+        "line": 9,
+        "calls_primitive": 660,
+        "calls_total": 660,
+        "tottime": 7.0024e-05,
+        "cumtime": 0.000103707,
+        "pct_cumtime": 21.517850103121017
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_822.py",
+        "line": 15,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 4.0746e-05,
+        "cumtime": 5.9979e-05,
+        "pct_cumtime": 12.444860340527597
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_822.py",
+        "line": 11,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 3.4704000000000005e-05,
+        "cumtime": 5.2636e-05,
+        "pct_cumtime": 10.921283597325909
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_822.py",
+        "line": 7,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 1.8088e-05,
+        "cumtime": 2.6317000000000002e-05,
+        "pct_cumtime": 5.4604343117035095
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_822.py",
+        "line": 13,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.4326000000000001e-05,
+        "cumtime": 1.4326000000000001e-05,
+        "pct_cumtime": 2.972458181003324
+      }
+    ]
+  }
+]

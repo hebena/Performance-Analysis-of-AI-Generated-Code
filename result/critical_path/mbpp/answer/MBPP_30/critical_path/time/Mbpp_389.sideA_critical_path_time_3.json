@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_389.py",
+    "total_cumtime_hint": 0.000457917,
+    "total_tottime_sum_topk": 0.000463803,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_389.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.498e-06,
+        "cumtime": 0.000457917,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_lucas",
+        "file": "Mbpp_389.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 3690,
+        "tottime": 0.000449419,
+        "cumtime": 0.000449419,
+        "pct_cumtime": 98.1442051725531
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.886e-06,
+        "cumtime": 5.886e-06,
+        "pct_cumtime": 1.2853857795189958
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_389.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.498e-06,
+        "cumtime": 0.000457917,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_lucas",
+        "file": "Mbpp_389.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 3690,
+        "tottime": 0.000449419,
+        "cumtime": 0.000449419,
+        "pct_cumtime": 98.1442051725531
+      }
+    ]
+  }
+]

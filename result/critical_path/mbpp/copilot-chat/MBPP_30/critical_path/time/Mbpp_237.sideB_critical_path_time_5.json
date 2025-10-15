@@ -1,0 +1,152 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_237.py",
+    "total_cumtime_hint": 0.000610354,
+    "total_tottime_sum_topk": 0.0005827450000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_237.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.099e-05,
+        "cumtime": 0.000610354,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_occurences",
+        "file": "Mbpp_237.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000123394,
+        "cumtime": 0.0005793640000000001,
+        "pct_cumtime": 94.92261867703006
+      },
+      {
+        "func": "__init__",
+        "file": "__init__.py",
+        "line": 599,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.586e-05,
+        "cumtime": 0.00031984600000000004,
+        "pct_cumtime": 52.403359361944055
+      },
+      {
+        "func": "update",
+        "file": "__init__.py",
+        "line": 673,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.2392000000000002e-05,
+        "cumtime": 0.000283986,
+        "pct_cumtime": 46.528080425458015
+      },
+      {
+        "func": "<built-in method _collections._count_elements>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.8463000000000006e-05,
+        "cumtime": 0.000224386,
+        "pct_cumtime": 36.76325542226315
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_237.py",
+        "line": 6,
+        "calls_primitive": 900,
+        "calls_total": 900,
+        "tottime": 0.00012166000000000001,
+        "cumtime": 0.000199179,
+        "pct_cumtime": 32.63335703542534
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_237.py",
+        "line": 7,
+        "calls_primitive": 540,
+        "calls_total": 540,
+        "tottime": 6.4695e-05,
+        "cumtime": 0.000165923,
+        "pct_cumtime": 27.18471575511916
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 900,
+        "calls_total": 900,
+        "tottime": 7.7519e-05,
+        "cumtime": 7.7519e-05,
+        "pct_cumtime": 12.700662238635282
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 2.3044e-05,
+        "cumtime": 4.3446000000000004e-05,
+        "pct_cumtime": 7.1181642128994
+      },
+      {
+        "func": "_handle_fromlist",
+        "file": "<frozen importlib._bootstrap>",
+        "line": 1390,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4728e-05,
+        "cumtime": 3.8173e-05,
+        "pct_cumtime": 6.254239343069759
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_237.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.099e-05,
+        "cumtime": 0.000610354,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_occurences",
+        "file": "Mbpp_237.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000123394,
+        "cumtime": 0.0005793640000000001,
+        "pct_cumtime": 94.92261867703006
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_237.py",
+        "line": 6,
+        "calls_primitive": 900,
+        "calls_total": 900,
+        "tottime": 0.00012166000000000001,
+        "cumtime": 0.000199179,
+        "pct_cumtime": 32.63335703542534
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_237.py",
+        "line": 7,
+        "calls_primitive": 540,
+        "calls_total": 540,
+        "tottime": 6.4695e-05,
+        "cumtime": 0.000165923,
+        "pct_cumtime": 27.18471575511916
+      }
+    ]
+  }
+]

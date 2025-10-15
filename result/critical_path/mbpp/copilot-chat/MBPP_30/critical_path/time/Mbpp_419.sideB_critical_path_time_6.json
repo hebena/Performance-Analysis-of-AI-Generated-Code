@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_419.py",
+    "total_cumtime_hint": 0.00017434000000000001,
+    "total_tottime_sum_topk": 0.00018496500000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_419.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1843e-05,
+        "cumtime": 0.00017434000000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "round_and_sum",
+        "file": "Mbpp_419.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.3803000000000002e-05,
+        "cumtime": 0.000162497,
+        "pct_cumtime": 93.20695193300446
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.342e-05,
+        "cumtime": 0.000134606,
+        "pct_cumtime": 77.20890214523345
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_419.py",
+        "line": 5,
+        "calls_primitive": 600,
+        "calls_total": 600,
+        "tottime": 5.6495e-05,
+        "cumtime": 9.1186e-05,
+        "pct_cumtime": 52.303544797522086
+      },
+      {
+        "func": "<built-in method builtins.round>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 510,
+        "calls_total": 510,
+        "tottime": 3.4691000000000004e-05,
+        "cumtime": 3.4691000000000004e-05,
+        "pct_cumtime": 19.898474245726742
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0625e-05,
+        "cumtime": 1.0625e-05,
+        "pct_cumtime": 6.094413215555811
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.0880000000000005e-06,
+        "cumtime": 4.0880000000000005e-06,
+        "pct_cumtime": 2.3448434094298496
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_419.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1843e-05,
+        "cumtime": 0.00017434000000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "round_and_sum",
+        "file": "Mbpp_419.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.3803000000000002e-05,
+        "cumtime": 0.000162497,
+        "pct_cumtime": 93.20695193300446
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_419.py",
+        "line": 5,
+        "calls_primitive": 600,
+        "calls_total": 600,
+        "tottime": 5.6495e-05,
+        "cumtime": 9.1186e-05,
+        "pct_cumtime": 52.303544797522086
+      }
+    ]
+  }
+]

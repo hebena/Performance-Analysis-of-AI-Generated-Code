@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_36.py",
+    "total_cumtime_hint": 6.5861e-05,
+    "total_tottime_sum_topk": 7.147700000000001e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_36.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.881e-06,
+        "cumtime": 6.5861e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Nth_Digit",
+        "file": "Mbpp_36.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.4338e-05,
+        "cumtime": 5.598e-05,
+        "pct_cumtime": 84.99719105388623
+      },
+      {
+        "func": "<method 'split' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.691e-06,
+        "cumtime": 7.691e-06,
+        "pct_cumtime": 11.677624087092513
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.616e-06,
+        "cumtime": 5.616e-06,
+        "pct_cumtime": 8.527049391901127
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.951e-06,
+        "cumtime": 3.951e-06,
+        "pct_cumtime": 5.998997889494541
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_36.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.881e-06,
+        "cumtime": 6.5861e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Nth_Digit",
+        "file": "Mbpp_36.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.4338e-05,
+        "cumtime": 5.598e-05,
+        "pct_cumtime": 84.99719105388623
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_76.py",
+    "total_cumtime_hint": 5.7784e-05,
+    "total_tottime_sum_topk": 6.3774e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_76.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.6514e-05,
+        "cumtime": 5.7784e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_simple_power",
+        "file": "HumanEval_76.py",
+        "line": 1,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 3.1270000000000004e-05,
+        "cumtime": 3.1270000000000004e-05,
+        "pct_cumtime": 54.11532604181089
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.99e-06,
+        "cumtime": 5.99e-06,
+        "pct_cumtime": 10.366191333241035
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_76.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.6514e-05,
+        "cumtime": 5.7784e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_simple_power",
+        "file": "HumanEval_76.py",
+        "line": 1,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 3.1270000000000004e-05,
+        "cumtime": 3.1270000000000004e-05,
+        "pct_cumtime": 54.11532604181089
+      }
+    ]
+  }
+]

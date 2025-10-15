@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_771.py",
+    "total_cumtime_hint": 0.000159115,
+    "total_tottime_sum_topk": 0.000165164,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_771.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1743000000000001e-05,
+        "cumtime": 0.000159115,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_expression",
+        "file": "Mbpp_771.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000106828,
+        "cumtime": 0.000147372,
+        "pct_cumtime": 92.61980328693082
+      },
+      {
+        "func": "<method 'pop' of 'collections.deque' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 1.8189e-05,
+        "cumtime": 1.8189e-05,
+        "pct_cumtime": 11.431354680576941
+      },
+      {
+        "func": "<method 'append' of 'collections.deque' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 330,
+        "calls_total": 330,
+        "tottime": 1.7948e-05,
+        "cumtime": 1.7948e-05,
+        "pct_cumtime": 11.2798919020834
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.049e-06,
+        "cumtime": 6.049e-06,
+        "pct_cumtime": 3.8016528925619832
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.407e-06,
+        "cumtime": 4.407e-06,
+        "pct_cumtime": 2.769694874776105
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_771.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1743000000000001e-05,
+        "cumtime": 0.000159115,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_expression",
+        "file": "Mbpp_771.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000106828,
+        "cumtime": 0.000147372,
+        "pct_cumtime": 92.61980328693082
+      }
+    ]
+  }
+]

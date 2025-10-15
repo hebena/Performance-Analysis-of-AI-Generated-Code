@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_70.py",
+    "total_cumtime_hint": 4.8360000000000005e-05,
+    "total_tottime_sum_topk": 5.433800000000001e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_70.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0425000000000001e-05,
+        "cumtime": 4.8360000000000005e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_equal",
+        "file": "Mbpp_70.py",
+        "line": 8,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1758e-05,
+        "cumtime": 3.7935e-05,
+        "pct_cumtime": 78.44292803970222
+      },
+      {
+        "func": "find_equal_tuple",
+        "file": "Mbpp_70.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.8693000000000002e-05,
+        "cumtime": 2.6177e-05,
+        "pct_cumtime": 54.12944582299421
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 7.484000000000001e-06,
+        "cumtime": 7.484000000000001e-06,
+        "pct_cumtime": 15.475599669148057
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.978e-06,
+        "cumtime": 5.978e-06,
+        "pct_cumtime": 12.361455748552522
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_70.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0425000000000001e-05,
+        "cumtime": 4.8360000000000005e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_equal",
+        "file": "Mbpp_70.py",
+        "line": 8,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1758e-05,
+        "cumtime": 3.7935e-05,
+        "pct_cumtime": 78.44292803970222
+      },
+      {
+        "func": "find_equal_tuple",
+        "file": "Mbpp_70.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.8693000000000002e-05,
+        "cumtime": 2.6177e-05,
+        "pct_cumtime": 54.12944582299421
+      }
+    ]
+  }
+]

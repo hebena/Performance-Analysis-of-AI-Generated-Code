@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_486.py",
+    "total_cumtime_hint": 7.5435e-05,
+    "total_tottime_sum_topk": 8.167600000000001e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_486.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.641000000000001e-06,
+        "cumtime": 7.5435e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "binomial_probability",
+        "file": "Mbpp_486.py",
+        "line": 9,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.6856000000000002e-05,
+        "cumtime": 6.5794e-05,
+        "pct_cumtime": 87.21946046264996
+      },
+      {
+        "func": "nCr",
+        "file": "Mbpp_486.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.6586000000000003e-05,
+        "cumtime": 2.6586000000000003e-05,
+        "pct_cumtime": 35.24358719427322
+      },
+      {
+        "func": "<built-in method builtins.pow>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.2352000000000001e-05,
+        "cumtime": 1.2352000000000001e-05,
+        "pct_cumtime": 16.374362033538812
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.241e-06,
+        "cumtime": 6.241e-06,
+        "pct_cumtime": 8.273347915423875
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_486.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.641000000000001e-06,
+        "cumtime": 7.5435e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "binomial_probability",
+        "file": "Mbpp_486.py",
+        "line": 9,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.6856000000000002e-05,
+        "cumtime": 6.5794e-05,
+        "pct_cumtime": 87.21946046264996
+      },
+      {
+        "func": "nCr",
+        "file": "Mbpp_486.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.6586000000000003e-05,
+        "cumtime": 2.6586000000000003e-05,
+        "pct_cumtime": 35.24358719427322
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_541.py",
+    "total_cumtime_hint": 0.000103528,
+    "total_tottime_sum_topk": 0.00011018,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_541.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.924e-06,
+        "cumtime": 0.000103528,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_abundant",
+        "file": "Mbpp_541.py",
+        "line": 15,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.3889e-05,
+        "cumtime": 9.360400000000001e-05,
+        "pct_cumtime": 90.41418746619273
+      },
+      {
+        "func": "get_sum",
+        "file": "Mbpp_541.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.6962e-05,
+        "cumtime": 7.9715e-05,
+        "pct_cumtime": 76.99849316127039
+      },
+      {
+        "func": "<built-in method math.sqrt>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 390,
+        "calls_total": 390,
+        "tottime": 2.2753e-05,
+        "cumtime": 2.2753e-05,
+        "pct_cumtime": 21.977629240398734
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.652e-06,
+        "cumtime": 6.652e-06,
+        "pct_cumtime": 6.425314890657599
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_541.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.924e-06,
+        "cumtime": 0.000103528,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_abundant",
+        "file": "Mbpp_541.py",
+        "line": 15,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.3889e-05,
+        "cumtime": 9.360400000000001e-05,
+        "pct_cumtime": 90.41418746619273
+      },
+      {
+        "func": "get_sum",
+        "file": "Mbpp_541.py",
+        "line": 2,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.6962e-05,
+        "cumtime": 7.9715e-05,
+        "pct_cumtime": 76.99849316127039
+      }
+    ]
+  }
+]

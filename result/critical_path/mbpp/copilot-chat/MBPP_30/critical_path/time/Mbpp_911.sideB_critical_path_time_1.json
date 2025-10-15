@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_911.py",
+    "total_cumtime_hint": 0.000361873,
+    "total_tottime_sum_topk": 0.000346741,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_911.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4496000000000001e-05,
+        "cumtime": 0.000361873,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "maximum_product",
+        "file": "Mbpp_911.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.8396e-05,
+        "cumtime": 0.000347377,
+        "pct_cumtime": 95.99417475191572
+      },
+      {
+        "func": "nsmallest",
+        "file": "heapq.py",
+        "line": 463,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000103115,
+        "cumtime": 0.000149648,
+        "pct_cumtime": 41.35373459749691
+      },
+      {
+        "func": "nlargest",
+        "file": "heapq.py",
+        "line": 523,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.568700000000001e-05,
+        "cumtime": 0.000142237,
+        "pct_cumtime": 39.305778546617184
+      },
+      {
+        "func": "<method 'sort' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 2.052e-05,
+        "cumtime": 2.052e-05,
+        "pct_cumtime": 5.670497660781545
+      },
+      {
+        "func": "<built-in method _heapq._heapreplace_max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 300,
+        "calls_total": 300,
+        "tottime": 1.8549e-05,
+        "cumtime": 1.8549e-05,
+        "pct_cumtime": 5.125831438101212
+      },
+      {
+        "func": "<built-in method _heapq.heapreplace>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 150,
+        "calls_total": 150,
+        "tottime": 1.3014000000000001e-05,
+        "cumtime": 1.3014000000000001e-05,
+        "pct_cumtime": 3.5962893059167165
+      },
+      {
+        "func": "<built-in method builtins.iter>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.2286e-05,
+        "cumtime": 1.2286e-05,
+        "pct_cumtime": 3.3951137553782678
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.0631e-05,
+        "cumtime": 1.0631e-05,
+        "pct_cumtime": 2.9377709859536356
+      },
+      {
+        "func": "<built-in method _heapq.heapify>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0047e-05,
+        "cumtime": 1.0047e-05,
+        "pct_cumtime": 2.776388401455759
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_911.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4496000000000001e-05,
+        "cumtime": 0.000361873,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "maximum_product",
+        "file": "Mbpp_911.py",
+        "line": 5,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.8396e-05,
+        "cumtime": 0.000347377,
+        "pct_cumtime": 95.99417475191572
+      }
+    ]
+  }
+]

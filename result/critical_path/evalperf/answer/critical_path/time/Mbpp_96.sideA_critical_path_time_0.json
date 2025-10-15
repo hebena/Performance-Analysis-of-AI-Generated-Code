@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_96.py",
+    "total_cumtime_hint": 3.7311e-05,
+    "total_tottime_sum_topk": 4.3192e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_96.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.018e-06,
+        "cumtime": 3.7311e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "divisor",
+        "file": "Mbpp_96.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.5197e-05,
+        "cumtime": 3.6293e-05,
+        "pct_cumtime": 97.27158210715338
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.881e-06,
+        "cumtime": 5.881e-06,
+        "pct_cumtime": 15.76210768942135
+      },
+      {
+        "func": "<method 'add' of 'set' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 8,
+        "calls_total": 8,
+        "tottime": 9.84e-07,
+        "cumtime": 9.84e-07,
+        "pct_cumtime": 2.637291951435233
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1200000000000001e-07,
+        "cumtime": 1.1200000000000001e-07,
+        "pct_cumtime": 0.3001795717080754
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_96.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.018e-06,
+        "cumtime": 3.7311e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "divisor",
+        "file": "Mbpp_96.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.5197e-05,
+        "cumtime": 3.6293e-05,
+        "pct_cumtime": 97.27158210715338
+      }
+    ]
+  }
+]

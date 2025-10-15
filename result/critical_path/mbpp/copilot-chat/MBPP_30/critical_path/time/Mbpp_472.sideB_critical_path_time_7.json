@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_472.py",
+    "total_cumtime_hint": 7.425300000000001e-05,
+    "total_tottime_sum_topk": 8.051500000000001e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_472.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1921000000000002e-05,
+        "cumtime": 7.425300000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_Consecutive",
+        "file": "Mbpp_472.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.7670000000000004e-05,
+        "cumtime": 6.2332e-05,
+        "pct_cumtime": 83.94542981428359
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.755e-06,
+        "cumtime": 8.755e-06,
+        "pct_cumtime": 11.790769396522698
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.996000000000001e-06,
+        "cumtime": 7.996000000000001e-06,
+        "pct_cumtime": 10.768588474539749
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.911000000000001e-06,
+        "cumtime": 7.911000000000001e-06,
+        "pct_cumtime": 10.654114985253122
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.262e-06,
+        "cumtime": 6.262e-06,
+        "pct_cumtime": 8.433329293092534
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_472.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1921000000000002e-05,
+        "cumtime": 7.425300000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_Consecutive",
+        "file": "Mbpp_472.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.7670000000000004e-05,
+        "cumtime": 6.2332e-05,
+        "pct_cumtime": 83.94542981428359
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_529.py",
+    "total_cumtime_hint": 0.000105172,
+    "total_tottime_sum_topk": 0.000111055,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_529.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.269e-06,
+        "cumtime": 0.000105172,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "jacobsthal_lucas",
+        "file": "Mbpp_529.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 810,
+        "tottime": 9.6903e-05,
+        "cumtime": 9.6903e-05,
+        "pct_cumtime": 92.13764119727685
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.883e-06,
+        "cumtime": 5.883e-06,
+        "pct_cumtime": 5.593694139124482
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_529.py",
+        "line": 19,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.269e-06,
+        "cumtime": 0.000105172,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "jacobsthal_lucas",
+        "file": "Mbpp_529.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 810,
+        "tottime": 9.6903e-05,
+        "cumtime": 9.6903e-05,
+        "pct_cumtime": 92.13764119727685
+      }
+    ]
+  }
+]

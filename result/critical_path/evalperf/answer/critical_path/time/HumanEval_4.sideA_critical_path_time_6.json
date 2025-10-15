@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_4.py",
+    "total_cumtime_hint": 0.007094731000000001,
+    "total_tottime_sum_topk": 0.007107478,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_4.py",
+        "line": 26,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000195937,
+        "cumtime": 0.007094731000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "mean_absolute_deviation",
+        "file": "HumanEval_4.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.004133691,
+        "cumtime": 0.006898794000000001,
+        "pct_cumtime": 97.23827443211025
+      },
+      {
+        "func": "<built-in method builtins.abs>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 65536,
+        "calls_total": 65536,
+        "tottime": 0.0025803980000000002,
+        "cumtime": 0.0025803980000000002,
+        "pct_cumtime": 36.37062490459469
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000184303,
+        "cumtime": 0.000184303,
+        "pct_cumtime": 2.5977447206948368
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2747e-05,
+        "cumtime": 1.2747e-05,
+        "pct_cumtime": 0.17966854557276377
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2,
+        "calls_total": 2,
+        "tottime": 4.02e-07,
+        "cumtime": 4.02e-07,
+        "pct_cumtime": 0.005666176772593633
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_4.py",
+        "line": 26,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000195937,
+        "cumtime": 0.007094731000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "mean_absolute_deviation",
+        "file": "HumanEval_4.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.004133691,
+        "cumtime": 0.006898794000000001,
+        "pct_cumtime": 97.23827443211025
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_526.py",
+    "total_cumtime_hint": 0.00011626900000000001,
+    "total_tottime_sum_topk": 0.000122617,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_526.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2041e-05,
+        "cumtime": 0.00011626900000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "capitalize_first_last_letters",
+        "file": "Mbpp_526.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.6704e-05,
+        "cumtime": 0.000104228,
+        "pct_cumtime": 89.64384315681738
+      },
+      {
+        "func": "<method 'upper' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 1.1624000000000001e-05,
+        "cumtime": 1.1624000000000001e-05,
+        "pct_cumtime": 9.997505784000895
+      },
+      {
+        "func": "<method 'split' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.471e-06,
+        "cumtime": 8.471e-06,
+        "pct_cumtime": 7.285690940835476
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.632e-06,
+        "cumtime": 6.632e-06,
+        "pct_cumtime": 5.704013967609595
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.361000000000001e-06,
+        "cumtime": 6.361000000000001e-06,
+        "pct_cumtime": 5.470933782865596
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.348e-06,
+        "cumtime": 6.348e-06,
+        "pct_cumtime": 5.4597528145937435
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.436e-06,
+        "cumtime": 4.436e-06,
+        "pct_cumtime": 3.8152904041489992
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_526.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2041e-05,
+        "cumtime": 0.00011626900000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "capitalize_first_last_letters",
+        "file": "Mbpp_526.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.6704e-05,
+        "cumtime": 0.000104228,
+        "pct_cumtime": 89.64384315681738
+      }
+    ]
+  }
+]

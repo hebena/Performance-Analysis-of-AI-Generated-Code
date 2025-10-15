@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_577.py",
+    "total_cumtime_hint": 5.0327e-05,
+    "total_tottime_sum_topk": 5.6228000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_577.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.147e-06,
+        "cumtime": 5.0327e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "last_Digit_Factorial",
+        "file": "Mbpp_577.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.9749000000000003e-05,
+        "cumtime": 4.118e-05,
+        "pct_cumtime": 81.8248653804121
+      },
+      {
+        "func": "<built-in method math.factorial>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1431000000000001e-05,
+        "cumtime": 1.1431000000000001e-05,
+        "pct_cumtime": 22.713454010769567
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.901000000000001e-06,
+        "cumtime": 5.901000000000001e-06,
+        "pct_cumtime": 11.725316430544241
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_577.py",
+        "line": 8,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.147e-06,
+        "cumtime": 5.0327e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "last_Digit_Factorial",
+        "file": "Mbpp_577.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.9749000000000003e-05,
+        "cumtime": 4.118e-05,
+        "pct_cumtime": 81.8248653804121
+      }
+    ]
+  }
+]

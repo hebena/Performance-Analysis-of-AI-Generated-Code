@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_53.py",
+    "total_cumtime_hint": 1.3459000000000001e-05,
+    "total_tottime_sum_topk": 1.9253000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_53.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.523000000000001e-06,
+        "cumtime": 1.3459000000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.794000000000001e-06,
+        "cumtime": 5.794000000000001e-06,
+        "pct_cumtime": 43.04926071773535
+      },
+      {
+        "func": "check_Equality",
+        "file": "Mbpp_53.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.936000000000001e-06,
+        "cumtime": 4.936000000000001e-06,
+        "pct_cumtime": 36.67434430492607
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_53.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.523000000000001e-06,
+        "cumtime": 1.3459000000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_Equality",
+        "file": "Mbpp_53.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.936000000000001e-06,
+        "cumtime": 4.936000000000001e-06,
+        "pct_cumtime": 36.67434430492607
+      }
+    ]
+  }
+]

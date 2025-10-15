@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_164.py",
+    "total_cumtime_hint": 8.3971e-05,
+    "total_tottime_sum_topk": 8.974e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_164.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.098e-06,
+        "cumtime": 8.3971e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "areEquivalent",
+        "file": "Mbpp_164.py",
+        "line": 10,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.8802e-05,
+        "cumtime": 7.4873e-05,
+        "pct_cumtime": 89.16530707029808
+      },
+      {
+        "func": "divSum",
+        "file": "Mbpp_164.py",
+        "line": 2,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 4.8338000000000004e-05,
+        "cumtime": 5.6071000000000006e-05,
+        "pct_cumtime": 66.77424348882353
+      },
+      {
+        "func": "<built-in method math.floor>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 7.733e-06,
+        "cumtime": 7.733e-06,
+        "pct_cumtime": 9.209131724047587
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.769e-06,
+        "cumtime": 5.769e-06,
+        "pct_cumtime": 6.870229007633588
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_164.py",
+        "line": 13,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.098e-06,
+        "cumtime": 8.3971e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "areEquivalent",
+        "file": "Mbpp_164.py",
+        "line": 10,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.8802e-05,
+        "cumtime": 7.4873e-05,
+        "pct_cumtime": 89.16530707029808
+      },
+      {
+        "func": "divSum",
+        "file": "Mbpp_164.py",
+        "line": 2,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 4.8338000000000004e-05,
+        "cumtime": 5.6071000000000006e-05,
+        "pct_cumtime": 66.77424348882353
+      }
+    ]
+  }
+]

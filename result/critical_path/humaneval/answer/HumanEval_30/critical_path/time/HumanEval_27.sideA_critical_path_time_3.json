@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_27.py",
+    "total_cumtime_hint": 3.2755e-05,
+    "total_tottime_sum_topk": 3.8418000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_27.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.822000000000001e-06,
+        "cumtime": 3.2755e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "flip_case",
+        "file": "HumanEval_27.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1588000000000002e-05,
+        "cumtime": 2.3933000000000003e-05,
+        "pct_cumtime": 73.06670737292016
+      },
+      {
+        "func": "<method 'swapcase' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.2345000000000001e-05,
+        "cumtime": 1.2345000000000001e-05,
+        "pct_cumtime": 37.688902457640054
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.663000000000001e-06,
+        "cumtime": 5.663000000000001e-06,
+        "pct_cumtime": 17.288963517020303
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_27.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.822000000000001e-06,
+        "cumtime": 3.2755e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "flip_case",
+        "file": "HumanEval_27.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1588000000000002e-05,
+        "cumtime": 2.3933000000000003e-05,
+        "pct_cumtime": 73.06670737292016
+      }
+    ]
+  }
+]

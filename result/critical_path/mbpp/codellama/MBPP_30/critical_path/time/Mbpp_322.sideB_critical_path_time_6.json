@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_322.py",
+    "total_cumtime_hint": 9.059000000000001e-05,
+    "total_tottime_sum_topk": 9.7259e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_322.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4824e-05,
+        "cumtime": 9.059000000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "position_min",
+        "file": "Mbpp_322.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.1174e-05,
+        "cumtime": 7.5766e-05,
+        "pct_cumtime": 83.63616293189094
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.2240000000000001e-05,
+        "cumtime": 1.2240000000000001e-05,
+        "pct_cumtime": 13.5114251021084
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 7.944e-06,
+        "cumtime": 7.944e-06,
+        "pct_cumtime": 8.769179821172314
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.669e-06,
+        "cumtime": 6.669e-06,
+        "pct_cumtime": 7.361739706369355
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.408e-06,
+        "cumtime": 4.408e-06,
+        "pct_cumtime": 4.865879236118776
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_322.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.4824e-05,
+        "cumtime": 9.059000000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "position_min",
+        "file": "Mbpp_322.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.1174e-05,
+        "cumtime": 7.5766e-05,
+        "pct_cumtime": 83.63616293189094
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_903.py",
+    "total_cumtime_hint": 6.5857e-05,
+    "total_tottime_sum_topk": 7.187e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_903.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.652000000000001e-06,
+        "cumtime": 6.5857e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Unset_Bits",
+        "file": "Mbpp_903.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.7205000000000005e-05,
+        "cumtime": 5.7205000000000005e-05,
+        "pct_cumtime": 86.86244438708111
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.013000000000001e-06,
+        "cumtime": 6.013000000000001e-06,
+        "pct_cumtime": 9.130388569172602
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_903.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.652000000000001e-06,
+        "cumtime": 6.5857e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Unset_Bits",
+        "file": "Mbpp_903.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 5.7205000000000005e-05,
+        "cumtime": 5.7205000000000005e-05,
+        "pct_cumtime": 86.86244438708111
+      }
+    ]
+  }
+]

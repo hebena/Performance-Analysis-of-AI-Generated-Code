@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_286.py",
+    "total_cumtime_hint": 0.000299943,
+    "total_tottime_sum_topk": 0.000306353,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_286.py",
+        "line": 28,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3495e-05,
+        "cumtime": 0.000299943,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_sub_array_sum_repeated",
+        "file": "Mbpp_286.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.498800000000001e-05,
+        "cumtime": 0.000286448,
+        "pct_cumtime": 95.50081182091265
+      },
+      {
+        "func": "kadane",
+        "file": "Mbpp_286.py",
+        "line": 6,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.7483e-05,
+        "cumtime": 0.000162962,
+        "pct_cumtime": 54.33098955468205
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2070,
+        "calls_total": 2070,
+        "tottime": 9.5827e-05,
+        "cumtime": 9.5827e-05,
+        "pct_cumtime": 31.948403530004033
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.15e-06,
+        "cumtime": 8.15e-06,
+        "pct_cumtime": 2.717182931423637
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.4100000000000005e-06,
+        "cumtime": 6.4100000000000005e-06,
+        "pct_cumtime": 2.1370727104816587
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_286.py",
+        "line": 28,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3495e-05,
+        "cumtime": 0.000299943,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_sub_array_sum_repeated",
+        "file": "Mbpp_286.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 8.498800000000001e-05,
+        "cumtime": 0.000286448,
+        "pct_cumtime": 95.50081182091265
+      },
+      {
+        "func": "kadane",
+        "file": "Mbpp_286.py",
+        "line": 6,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.7483e-05,
+        "cumtime": 0.000162962,
+        "pct_cumtime": 54.33098955468205
+      }
+    ]
+  }
+]

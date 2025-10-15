@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_17.py",
+    "total_cumtime_hint": 8.0691e-05,
+    "total_tottime_sum_topk": 8.6735e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_17.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0226000000000003e-05,
+        "cumtime": 8.0691e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "parse_music",
+        "file": "HumanEval_17.py",
+        "line": 3,
+        "calls_primitive": 150,
+        "calls_total": 150,
+        "tottime": 4.5689e-05,
+        "cumtime": 6.0465000000000005e-05,
+        "pct_cumtime": 74.93400751013124
+      },
+      {
+        "func": "<method 'split' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 150,
+        "calls_total": 150,
+        "tottime": 1.4776e-05,
+        "cumtime": 1.4776e-05,
+        "pct_cumtime": 18.31183155494417
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.044e-06,
+        "cumtime": 6.044e-06,
+        "pct_cumtime": 7.49030251205215
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_17.py",
+        "line": 20,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0226000000000003e-05,
+        "cumtime": 8.0691e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "parse_music",
+        "file": "HumanEval_17.py",
+        "line": 3,
+        "calls_primitive": 150,
+        "calls_total": 150,
+        "tottime": 4.5689e-05,
+        "cumtime": 6.0465000000000005e-05,
+        "pct_cumtime": 74.93400751013124
+      }
+    ]
+  }
+]

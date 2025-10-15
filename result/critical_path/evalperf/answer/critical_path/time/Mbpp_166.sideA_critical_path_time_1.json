@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_166.py",
+    "total_cumtime_hint": 5.3204e-05,
+    "total_tottime_sum_topk": 5.8974e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_166.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.092e-06,
+        "cumtime": 5.3204e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_even_pair",
+        "file": "Mbpp_166.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.6112e-05,
+        "cumtime": 4.6112e-05,
+        "pct_cumtime": 86.67017517479889
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.770000000000001e-06,
+        "cumtime": 5.770000000000001e-06,
+        "pct_cumtime": 10.845049244417714
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_166.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 7.092e-06,
+        "cumtime": 5.3204e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_even_pair",
+        "file": "Mbpp_166.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.6112e-05,
+        "cumtime": 4.6112e-05,
+        "pct_cumtime": 86.67017517479889
+      }
+    ]
+  }
+]

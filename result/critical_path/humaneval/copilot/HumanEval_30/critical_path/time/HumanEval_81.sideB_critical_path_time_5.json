@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_81.py",
+    "total_cumtime_hint": 0.000152745,
+    "total_tottime_sum_topk": 0.00015874400000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_81.py",
+        "line": 56,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.7338e-05,
+        "cumtime": 0.000152745,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "numerical_letter_grade",
+        "file": "HumanEval_81.py",
+        "line": 1,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 9.274000000000001e-05,
+        "cumtime": 0.00012540700000000001,
+        "pct_cumtime": 82.10219647124293
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 450,
+        "calls_total": 450,
+        "tottime": 3.2667000000000004e-05,
+        "cumtime": 3.2667000000000004e-05,
+        "pct_cumtime": 21.386624766768144
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.9990000000000005e-06,
+        "cumtime": 5.9990000000000005e-06,
+        "pct_cumtime": 3.9274608006808736
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_81.py",
+        "line": 56,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.7338e-05,
+        "cumtime": 0.000152745,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "numerical_letter_grade",
+        "file": "HumanEval_81.py",
+        "line": 1,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 9.274000000000001e-05,
+        "cumtime": 0.00012540700000000001,
+        "pct_cumtime": 82.10219647124293
+      }
+    ]
+  }
+]

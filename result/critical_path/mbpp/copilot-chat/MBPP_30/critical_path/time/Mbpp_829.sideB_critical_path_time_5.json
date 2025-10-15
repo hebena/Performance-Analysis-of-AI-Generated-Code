@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_829.py",
+    "total_cumtime_hint": 0.000408377,
+    "total_tottime_sum_topk": 0.000345621,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_829.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.3049000000000002e-05,
+        "cumtime": 0.000408377,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "second_frequent",
+        "file": "Mbpp_829.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.5033e-05,
+        "cumtime": 0.00038532800000000005,
+        "pct_cumtime": 94.35595050651727
+      },
+      {
+        "func": "most_common",
+        "file": "__init__.py",
+        "line": 622,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.4886000000000004e-05,
+        "cumtime": 0.00016038600000000002,
+        "pct_cumtime": 39.27400416771757
+      },
+      {
+        "func": "__init__",
+        "file": "__init__.py",
+        "line": 599,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.4875e-05,
+        "cumtime": 0.00011317300000000001,
+        "pct_cumtime": 27.71287315397292
+      },
+      {
+        "func": "nlargest",
+        "file": "heapq.py",
+        "line": 523,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.4823e-05,
+        "cumtime": 0.00010633900000000001,
+        "pct_cumtime": 26.03941945800082
+      },
+      {
+        "func": "update",
+        "file": "__init__.py",
+        "line": 673,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.2598000000000003e-05,
+        "cumtime": 7.8298e-05,
+        "pct_cumtime": 19.172970074220633
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 2.2143e-05,
+        "cumtime": 4.2915000000000005e-05,
+        "pct_cumtime": 10.508672133837118
+      },
+      {
+        "func": "_handle_fromlist",
+        "file": "<frozen importlib._bootstrap>",
+        "line": 1390,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.6841000000000003e-05,
+        "cumtime": 4.0856e-05,
+        "pct_cumtime": 10.004481153443999
+      },
+      {
+        "func": "__instancecheck__",
+        "file": "<frozen abc>",
+        "line": 117,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.2579000000000001e-05,
+        "cumtime": 2.0772e-05,
+        "pct_cumtime": 5.086476466598266
+      },
+      {
+        "func": "<built-in method _collections._count_elements>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.8794e-05,
+        "cumtime": 1.8794e-05,
+        "pct_cumtime": 4.602120099809735
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_829.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.3049000000000002e-05,
+        "cumtime": 0.000408377,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "second_frequent",
+        "file": "Mbpp_829.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.5033e-05,
+        "cumtime": 0.00038532800000000005,
+        "pct_cumtime": 94.35595050651727
+      }
+    ]
+  }
+]

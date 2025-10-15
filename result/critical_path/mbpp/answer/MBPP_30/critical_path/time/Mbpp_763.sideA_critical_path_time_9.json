@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_763.py",
+    "total_cumtime_hint": 4.3089e-05,
+    "total_tottime_sum_topk": 4.9159e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_763.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.883e-06,
+        "cumtime": 4.3089e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Min_Diff",
+        "file": "Mbpp_763.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4175e-05,
+        "cumtime": 3.3206e-05,
+        "pct_cumtime": 77.06375176959317
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 9.031e-06,
+        "cumtime": 9.031e-06,
+        "pct_cumtime": 20.95894543851099
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.07e-06,
+        "cumtime": 6.07e-06,
+        "pct_cumtime": 14.087122003295505
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_763.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.883e-06,
+        "cumtime": 4.3089e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Min_Diff",
+        "file": "Mbpp_763.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4175e-05,
+        "cumtime": 3.3206e-05,
+        "pct_cumtime": 77.06375176959317
+      }
+    ]
+  }
+]

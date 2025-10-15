@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_40.py",
+    "total_cumtime_hint": 0.000442141,
+    "total_tottime_sum_topk": 0.00044792800000000005,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_40.py",
+        "line": 27,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.126e-05,
+        "cumtime": 0.000442141,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "triples_sum_to_zero",
+        "file": "HumanEval_40.py",
+        "line": 1,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 0.00030233100000000003,
+        "cumtime": 0.00041088100000000004,
+        "pct_cumtime": 92.92985721749397
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2220,
+        "calls_total": 2220,
+        "tottime": 8.265200000000001e-05,
+        "cumtime": 8.265200000000001e-05,
+        "pct_cumtime": 18.693584173374557
+      },
+      {
+        "func": "<built-in method builtins.sorted>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 2.5898000000000002e-05,
+        "cumtime": 2.5898000000000002e-05,
+        "pct_cumtime": 5.8574074786097645
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.787000000000001e-06,
+        "cumtime": 5.787000000000001e-06,
+        "pct_cumtime": 1.308858486319975
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_40.py",
+        "line": 27,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.126e-05,
+        "cumtime": 0.000442141,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "triples_sum_to_zero",
+        "file": "HumanEval_40.py",
+        "line": 1,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 0.00030233100000000003,
+        "cumtime": 0.00041088100000000004,
+        "pct_cumtime": 92.92985721749397
+      }
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_414.py",
+    "total_cumtime_hint": 0.000385098,
+    "total_tottime_sum_topk": 0.000394442,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_414.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000179077,
+        "cumtime": 0.000385098,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "overlapping",
+        "file": "Mbpp_414.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.351e-06,
+        "cumtime": 0.00020602100000000003,
+        "pct_cumtime": 53.49833029514566
+      },
+      {
+        "func": "<built-in method builtins.any>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.32e-06,
+        "cumtime": 0.00020267,
+        "pct_cumtime": 52.62816218209391
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_414.py",
+        "line": 6,
+        "calls_primitive": 2,
+        "calls_total": 2,
+        "tottime": 0.00020135000000000002,
+        "cumtime": 0.00020135000000000002,
+        "pct_cumtime": 52.28539228975482
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.344e-06,
+        "cumtime": 9.344e-06,
+        "pct_cumtime": 2.426395359103397
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_414.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.000179077,
+        "cumtime": 0.000385098,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "overlapping",
+        "file": "Mbpp_414.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.351e-06,
+        "cumtime": 0.00020602100000000003,
+        "pct_cumtime": 53.49833029514566
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_414.py",
+        "line": 6,
+        "calls_primitive": 2,
+        "calls_total": 2,
+        "tottime": 0.00020135000000000002,
+        "cumtime": 0.00020135000000000002,
+        "pct_cumtime": 52.28539228975482
+      }
+    ]
+  }
+]

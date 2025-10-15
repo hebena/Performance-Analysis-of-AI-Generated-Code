@@ -1,0 +1,112 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_239.py",
+    "total_cumtime_hint": 0.056239532,
+    "total_tottime_sum_topk": 0.056251586000000006,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_239.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.43e-07,
+        "cumtime": 0.056239532,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_total_number_of_sequences",
+        "file": "Mbpp_239.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.109e-06,
+        "cumtime": 0.056238589000000005,
+        "pct_cumtime": 99.9983232435149
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.746e-06,
+        "cumtime": 0.056236480000000005,
+        "pct_cumtime": 99.9945732123091
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_239.py",
+        "line": 12,
+        "calls_primitive": 110,
+        "calls_total": 110,
+        "tottime": 1.5598000000000002e-05,
+        "cumtime": 0.056227734,
+        "pct_cumtime": 99.9790218737951
+      },
+      {
+        "func": "count",
+        "file": "Mbpp_239.py",
+        "line": 5,
+        "calls_primitive": 109,
+        "calls_total": 311425,
+        "tottime": 0.056212136,
+        "cumtime": 0.056212136,
+        "pct_cumtime": 99.95128693460678
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2054e-05,
+        "cumtime": 1.2054e-05,
+        "pct_cumtime": 0.02143332202693294
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_239.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.43e-07,
+        "cumtime": 0.056239532,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_total_number_of_sequences",
+        "file": "Mbpp_239.py",
+        "line": 4,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.109e-06,
+        "cumtime": 0.056238589000000005,
+        "pct_cumtime": 99.9983232435149
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_239.py",
+        "line": 12,
+        "calls_primitive": 110,
+        "calls_total": 110,
+        "tottime": 1.5598000000000002e-05,
+        "cumtime": 0.056227734,
+        "pct_cumtime": 99.9790218737951
+      },
+      {
+        "func": "count",
+        "file": "Mbpp_239.py",
+        "line": 5,
+        "calls_primitive": 109,
+        "calls_total": 311425,
+        "tottime": 0.056212136,
+        "cumtime": 0.056212136,
+        "pct_cumtime": 99.95128693460678
+      }
+    ]
+  }
+]

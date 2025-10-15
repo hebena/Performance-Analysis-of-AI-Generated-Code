@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_806.py",
+    "total_cumtime_hint": 0.000305751,
+    "total_tottime_sum_topk": 0.000311392,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_806.py",
+        "line": 34,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.875e-06,
+        "cumtime": 0.000305751,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_run_uppercase",
+        "file": "Mbpp_806.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000182608,
+        "cumtime": 0.000296876,
+        "pct_cumtime": 97.09731121075646
+      },
+      {
+        "func": "<method 'isupper' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1620,
+        "calls_total": 1620,
+        "tottime": 7.990200000000001e-05,
+        "cumtime": 7.990200000000001e-05,
+        "pct_cumtime": 26.133029818381626
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 510,
+        "calls_total": 510,
+        "tottime": 2.6505e-05,
+        "cumtime": 2.6505e-05,
+        "pct_cumtime": 8.668818744664778
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 7.861e-06,
+        "cumtime": 7.861e-06,
+        "pct_cumtime": 2.5710463743372878
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.641000000000001e-06,
+        "cumtime": 5.641000000000001e-06,
+        "pct_cumtime": 1.8449653476194685
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_806.py",
+        "line": 34,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.875e-06,
+        "cumtime": 0.000305751,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "max_run_uppercase",
+        "file": "Mbpp_806.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000182608,
+        "cumtime": 0.000296876,
+        "pct_cumtime": 97.09731121075646
+      }
+    ]
+  }
+]

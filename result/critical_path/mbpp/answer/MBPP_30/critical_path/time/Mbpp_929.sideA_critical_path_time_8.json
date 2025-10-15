@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_929.py",
+    "total_cumtime_hint": 2.8349000000000003e-05,
+    "total_tottime_sum_topk": 3.4305000000000004e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_929.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.668e-06,
+        "cumtime": 2.8349000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_tuplex",
+        "file": "Mbpp_929.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1907000000000001e-05,
+        "cumtime": 1.9681e-05,
+        "pct_cumtime": 69.42396557197785
+      },
+      {
+        "func": "<method 'count' of 'tuple' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.774e-06,
+        "cumtime": 7.774e-06,
+        "pct_cumtime": 27.422484038237684
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.956e-06,
+        "cumtime": 5.956e-06,
+        "pct_cumtime": 21.009559420085363
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_929.py",
+        "line": 5,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.668e-06,
+        "cumtime": 2.8349000000000003e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_tuplex",
+        "file": "Mbpp_929.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1907000000000001e-05,
+        "cumtime": 1.9681e-05,
+        "pct_cumtime": 69.42396557197785
+      }
+    ]
+  }
+]

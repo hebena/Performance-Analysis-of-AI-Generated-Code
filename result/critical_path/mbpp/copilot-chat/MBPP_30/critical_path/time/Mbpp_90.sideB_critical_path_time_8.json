@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_90.py",
+    "total_cumtime_hint": 0.00010513100000000001,
+    "total_tottime_sum_topk": 0.00011148700000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_90.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1049e-05,
+        "cumtime": 0.00010513100000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "len_log",
+        "file": "Mbpp_90.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6331e-05,
+        "cumtime": 9.408200000000001e-05,
+        "pct_cumtime": 89.49025501517156
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.019e-05,
+        "cumtime": 7.775100000000001e-05,
+        "pct_cumtime": 73.95630213733342
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_90.py",
+        "line": 5,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 3.6555000000000005e-05,
+        "cumtime": 4.7561e-05,
+        "pct_cumtime": 45.23974850424708
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 1.1006000000000001e-05,
+        "cumtime": 1.1006000000000001e-05,
+        "pct_cumtime": 10.46884363318146
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.356000000000001e-06,
+        "cumtime": 6.356000000000001e-06,
+        "pct_cumtime": 6.045790489960145
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_90.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1049e-05,
+        "cumtime": 0.00010513100000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "len_log",
+        "file": "Mbpp_90.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.6331e-05,
+        "cumtime": 9.408200000000001e-05,
+        "pct_cumtime": 89.49025501517156
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_90.py",
+        "line": 5,
+        "calls_primitive": 360,
+        "calls_total": 360,
+        "tottime": 3.6555000000000005e-05,
+        "cumtime": 4.7561e-05,
+        "pct_cumtime": 45.23974850424708
+      }
+    ]
+  }
+]

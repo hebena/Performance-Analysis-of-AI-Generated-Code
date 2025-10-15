@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_773.py",
+    "total_cumtime_hint": 0.000186188,
+    "total_tottime_sum_topk": 0.00019189600000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_773.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.806e-06,
+        "cumtime": 0.000186188,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "occurance_substring",
+        "file": "Mbpp_773.py",
+        "line": 13,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00012485800000000002,
+        "cumtime": 0.00017638200000000002,
+        "pct_cumtime": 94.7332803403012
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1410,
+        "calls_total": 1410,
+        "tottime": 5.1524000000000003e-05,
+        "cumtime": 5.1524000000000003e-05,
+        "pct_cumtime": 27.6731046039487
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.708e-06,
+        "cumtime": 5.708e-06,
+        "pct_cumtime": 3.0657185210647304
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_773.py",
+        "line": 17,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.806e-06,
+        "cumtime": 0.000186188,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "occurance_substring",
+        "file": "Mbpp_773.py",
+        "line": 13,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00012485800000000002,
+        "cumtime": 0.00017638200000000002,
+        "pct_cumtime": 94.7332803403012
+      }
+    ]
+  }
+]

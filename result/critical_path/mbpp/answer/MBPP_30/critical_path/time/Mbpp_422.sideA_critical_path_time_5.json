@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_422.py",
+    "total_cumtime_hint": 4.4679000000000004e-05,
+    "total_tottime_sum_topk": 5.024e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_422.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0468e-05,
+        "cumtime": 4.4679000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Average_Of_Cube",
+        "file": "Mbpp_422.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.9258e-05,
+        "cumtime": 3.4211e-05,
+        "pct_cumtime": 76.57064840305289
+      },
+      {
+        "func": "<built-in method builtins.round>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.4953e-05,
+        "cumtime": 1.4953e-05,
+        "pct_cumtime": 33.467624611114836
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.561000000000001e-06,
+        "cumtime": 5.561000000000001e-06,
+        "pct_cumtime": 12.446563262382774
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_422.py",
+        "line": 7,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0468e-05,
+        "cumtime": 4.4679000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "find_Average_Of_Cube",
+        "file": "Mbpp_422.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.9258e-05,
+        "cumtime": 3.4211e-05,
+        "pct_cumtime": 76.57064840305289
+      }
+    ]
+  }
+]

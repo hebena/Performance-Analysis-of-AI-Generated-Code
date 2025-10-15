@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_101.py",
+    "total_cumtime_hint": 0.0005529160000000001,
+    "total_tottime_sum_topk": 0.0005586370000000001,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_101.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.1859e-05,
+        "cumtime": 0.0005529160000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "words_string",
+        "file": "HumanEval_101.py",
+        "line": 1,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 0.000299676,
+        "cumtime": 0.000521057,
+        "pct_cumtime": 94.23800360271721
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 3390,
+        "calls_total": 3390,
+        "tottime": 0.00018198200000000002,
+        "cumtime": 0.00018198200000000002,
+        "pct_cumtime": 32.913136896020376
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 150,
+        "calls_total": 150,
+        "tottime": 2.2232e-05,
+        "cumtime": 2.2232e-05,
+        "pct_cumtime": 4.020863928698029
+      },
+      {
+        "func": "<method 'split' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 150,
+        "calls_total": 150,
+        "tottime": 1.7167e-05,
+        "cumtime": 1.7167e-05,
+        "pct_cumtime": 3.104811580782614
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.721e-06,
+        "cumtime": 5.721e-06,
+        "pct_cumtime": 1.0346960478626046
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_101.py",
+        "line": 21,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.1859e-05,
+        "cumtime": 0.0005529160000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "words_string",
+        "file": "HumanEval_101.py",
+        "line": 1,
+        "calls_primitive": 180,
+        "calls_total": 180,
+        "tottime": 0.000299676,
+        "cumtime": 0.000521057,
+        "pct_cumtime": 94.23800360271721
+      }
+    ]
+  }
+]

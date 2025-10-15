@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_298.py",
+    "total_cumtime_hint": 0.00011432800000000001,
+    "total_tottime_sum_topk": 0.000120366,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_298.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.0331e-05,
+        "cumtime": 0.00011432800000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "intersection_nested_lists",
+        "file": "Mbpp_298.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.3479e-05,
+        "cumtime": 8.3997e-05,
+        "pct_cumtime": 73.47019102931915
+      },
+      {
+        "func": "<method 'append' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 2.0518000000000002e-05,
+        "cumtime": 2.0518000000000002e-05,
+        "pct_cumtime": 17.946609754390877
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.0380000000000005e-06,
+        "cumtime": 6.0380000000000005e-06,
+        "pct_cumtime": 5.281295920509412
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_298.py",
+        "line": 18,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 3.0331e-05,
+        "cumtime": 0.00011432800000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "intersection_nested_lists",
+        "file": "Mbpp_298.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.3479e-05,
+        "cumtime": 8.3997e-05,
+        "pct_cumtime": 73.47019102931915
+      }
+    ]
+  }
+]

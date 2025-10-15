@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_54.py",
+    "total_cumtime_hint": 0.000546273,
+    "total_tottime_sum_topk": 0.000552411,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_54.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.7335000000000003e-05,
+        "cumtime": 0.000546273,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "counting_sort",
+        "file": "Mbpp_54.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000343377,
+        "cumtime": 0.0005289380000000001,
+        "pct_cumtime": 96.82667823597359
+      },
+      {
+        "func": "<method 'extend' of 'list' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2940,
+        "calls_total": 2940,
+        "tottime": 0.000164345,
+        "cumtime": 0.000164345,
+        "pct_cumtime": 30.08477446258556
+      },
+      {
+        "func": "<built-in method builtins.min>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1131e-05,
+        "cumtime": 1.1131e-05,
+        "pct_cumtime": 2.0376258757068353
+      },
+      {
+        "func": "<built-in method builtins.max>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.0085000000000001e-05,
+        "cumtime": 1.0085000000000001e-05,
+        "pct_cumtime": 1.8461465238076933
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.138e-06,
+        "cumtime": 6.138e-06,
+        "pct_cumtime": 1.1236140171672406
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_54.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.7335000000000003e-05,
+        "cumtime": 0.000546273,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "counting_sort",
+        "file": "Mbpp_54.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000343377,
+        "cumtime": 0.0005289380000000001,
+        "pct_cumtime": 96.82667823597359
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_711.py",
+    "total_cumtime_hint": 5.0356000000000004e-05,
+    "total_tottime_sum_topk": 5.6164e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_711.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1151e-05,
+        "cumtime": 5.0356000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "product_Equal",
+        "file": "Mbpp_711.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.9205e-05,
+        "cumtime": 3.9205e-05,
+        "pct_cumtime": 77.85566764635793
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.808e-06,
+        "cumtime": 5.808e-06,
+        "pct_cumtime": 11.53387878306458
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_711.py",
+        "line": 15,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1151e-05,
+        "cumtime": 5.0356000000000004e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "product_Equal",
+        "file": "Mbpp_711.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.9205e-05,
+        "cumtime": 3.9205e-05,
+        "pct_cumtime": 77.85566764635793
+      }
+    ]
+  }
+]

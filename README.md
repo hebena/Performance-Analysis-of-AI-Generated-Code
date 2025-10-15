@@ -1,61 +1,45 @@
-# Replication package for: Performance Analysis of AI-Generated Code: A Case Study of Copilot, CodeLlaMa, and DeepSeek-Coder Models
+# Replication package for: Performance Analysis of AI-Generated Code: A Case Study of Copilot, Copilot Chat, CodeLlaMa, and DeepSeek-Coder Models
 
-Structure of the project:
+## Structure of the Project
 
-There are four folders in this project: 
-- **Data**:
-  
-    The original datasets and the rules used for PMD.
-    
-- **Root causes**:
-  
-    The root causes identified by author1 and author2.
-    
-- **Result**:
-  
-    1. Copilot: 
+This replication package contains four main folders:
 
-        1. results_for_humaneval
+### 1. **data/**
+Contains the datasets and static analysis rules used in the study.
 
-            - CPU
-            
-                This folder includes the CPU utilization results from HumanEval
-                
-            - Execution-Time
-            
-                This folder includes the Execution time results from HumanEval
-                
-            - Memory
-            
-                This folder includes the Memory usage results from HumanEval
+- **datasets/**
+  - `humaneval-v2-20210705.jsonl` - HumanEval dataset
+  - `mbpp.jsonl` - MBPP (Mostly Basic Python Problems) dataset
+  - `evalperf_dataset.jsonl` - EvalPerf dataset
+  - `aixbench_dataset_autotest_nl.jsonl` - AIxBench dataset
 
-        2. results_for_mbpp
-        
-            The file structure is the same as humaneval.
-    
-    2. CodeLlama: 
+- **rules/**
+  - `pmd_rules.xml` - PMD static analysis rules
 
-        The file structure is the same as Copilot.
+### 2. **result/**
+Contains the experimental results for the four models (Copilot, Copilot Chat, CodeLlaMa, and DeepSeek-Coder).
 
-    3. DeepSeek-Coder: 
+- **critical_path/**
 
-        The file structure is the same as Copilot.
-    
-- **Scripts**:
-  
-    1. scripts_for_humaneval
-        - Compare the generated code and canonical code
-          
-            `compare_copilot.py`, `compare_copilot_before_fewshot_prompt.py` and `compare_copilot_after_fewshot_prompt.py` will get the number of scripts with significant performance regressions in the Copilot-generated code, the Copilot-generated code before few-shot prompt engineering, and the Copilot-generated code after few-shot prompt engineering. The scripts of CodeLlama and DeepSeek-Coder have a format similar to Copilot.
-            
-        - Get dynamic results 
-          
-            `cprofile.py`, `memory.py` and `cpu.py` will get the dynamic results for Execution time, Memory usage, and CPU utilization.
-            
-        - Preparation work
-          
-            `add_@profile.py` and `add_for_function.py` will do the preparation work for dynamic analysis.
-    
-    2. scripts_for_mbpp
-    
-        The file structure is the same as humaneval.
+  Critical path analysis results for scripts showing performance regression across four models.
+  - `humaneval/` - Critical path results for HumanEval dataset
+  - `mbpp/` - Critical path results for MBPP dataset
+  - `evalperf/` - Critical path results for EvalPerf dataset
+
+- **dynamic_output/**
+
+  Dynamic execution results for the four models.
+  - `original/` - Results from original prompts
+  - `cot_prompt/` - Results from Chain-of-Thought prompt engineering
+  - `few_shot_prompt/` - Results from few-shot prompt engineering
+
+### 3. **root causes/**
+Root cause analysis performed by two independent authors.
+- `author1.xlsx` - Root cause analysis by author 1
+- `author2.xlsx` - Root cause analysis by author 2
+
+### 4. **scripts/**
+Scripts for calculating performance metrics.
+- `runtime.py` - Script to measure execution time using cProfile
+- `memory.py` - Script to measure memory usage using tracemalloc
+- `cpu.py` - Script to measure CPU utilization using cProfile and Psutil

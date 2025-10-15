@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_744.py",
+    "total_cumtime_hint": 0.20423265300000001,
+    "total_tottime_sum_topk": 0.204244644,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_744.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.347e-06,
+        "cumtime": 0.20423265300000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_none",
+        "file": "Mbpp_744.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.792e-06,
+        "cumtime": 0.204231306,
+        "pct_cumtime": 99.99934045806083
+      },
+      {
+        "func": "<built-in method builtins.any>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.132562504,
+        "cumtime": 0.20422451400000002,
+        "pct_cumtime": 99.99601483901793
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_744.py",
+        "line": 10,
+        "calls_primitive": 2097153,
+        "calls_total": 2097153,
+        "tottime": 0.07166201,
+        "cumtime": 0.07166201,
+        "pct_cumtime": 35.08841948011124
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1991000000000001e-05,
+        "cumtime": 1.1991000000000001e-05,
+        "pct_cumtime": 0.005871245280253986
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_744.py",
+        "line": 12,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.347e-06,
+        "cumtime": 0.20423265300000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_none",
+        "file": "Mbpp_744.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.792e-06,
+        "cumtime": 0.204231306,
+        "pct_cumtime": 99.99934045806083
+      },
+      {
+        "func": "<lambda>",
+        "file": "Mbpp_744.py",
+        "line": 10,
+        "calls_primitive": 2097153,
+        "calls_total": 2097153,
+        "tottime": 0.07166201,
+        "cumtime": 0.07166201,
+        "pct_cumtime": 35.08841948011124
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_481.py",
+    "total_cumtime_hint": 0.000837012,
+    "total_tottime_sum_topk": 0.000842975,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_481.py",
+        "line": 33,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0546000000000003e-05,
+        "cumtime": 0.000837012,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_subset_sum",
+        "file": "Mbpp_481.py",
+        "line": 15,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.0008164660000000001,
+        "cumtime": 0.0008164660000000001,
+        "pct_cumtime": 97.54531595723836
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.963e-06,
+        "cumtime": 5.963e-06,
+        "pct_cumtime": 0.7124151147175907
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_481.py",
+        "line": 33,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.0546000000000003e-05,
+        "cumtime": 0.000837012,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "is_subset_sum",
+        "file": "Mbpp_481.py",
+        "line": 15,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.0008164660000000001,
+        "cumtime": 0.0008164660000000001,
+        "pct_cumtime": 97.54531595723836
+      }
+    ]
+  }
+]

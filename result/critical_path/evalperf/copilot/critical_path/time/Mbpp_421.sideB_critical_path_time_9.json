@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_421.py",
+    "total_cumtime_hint": 0.029953662000000002,
+    "total_tottime_sum_topk": 0.029967149000000002,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_421.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.029e-06,
+        "cumtime": 0.029953662000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "concatenate_tuple",
+        "file": "Mbpp_421.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.027786602,
+        "cumtime": 0.029951633000000002,
+        "pct_cumtime": 99.99322620386116
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0021642690000000003,
+        "cumtime": 0.0021642690000000003,
+        "pct_cumtime": 7.225390337915946
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.3487000000000001e-05,
+        "cumtime": 1.3487000000000001e-05,
+        "pct_cumtime": 0.04502621415705366
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2,
+        "calls_total": 2,
+        "tottime": 7.620000000000001e-07,
+        "cumtime": 7.620000000000001e-07,
+        "pct_cumtime": 0.002543929353279075
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_421.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 2.029e-06,
+        "cumtime": 0.029953662000000002,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "concatenate_tuple",
+        "file": "Mbpp_421.py",
+        "line": 3,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.027786602,
+        "cumtime": 0.029951633000000002,
+        "pct_cumtime": 99.99322620386116
+      }
+    ]
+  }
+]

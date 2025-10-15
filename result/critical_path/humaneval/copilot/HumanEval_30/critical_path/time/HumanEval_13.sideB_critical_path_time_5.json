@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_13.py",
+    "total_cumtime_hint": 2.8384e-05,
+    "total_tottime_sum_topk": 3.4760000000000006e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_13.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0981e-05,
+        "cumtime": 2.8384e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "greatest_common_divisor",
+        "file": "HumanEval_13.py",
+        "line": 1,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 1.7403000000000003e-05,
+        "cumtime": 1.7403000000000003e-05,
+        "pct_cumtime": 61.31271138669674
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.3760000000000004e-06,
+        "cumtime": 6.3760000000000004e-06,
+        "pct_cumtime": 22.46335963923337
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_13.py",
+        "line": 16,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0981e-05,
+        "cumtime": 2.8384e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "greatest_common_divisor",
+        "file": "HumanEval_13.py",
+        "line": 1,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 1.7403000000000003e-05,
+        "cumtime": 1.7403000000000003e-05,
+        "pct_cumtime": 61.31271138669674
+      }
+    ]
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_669.py",
+    "total_cumtime_hint": 9.468700000000001e-05,
+    "total_tottime_sum_topk": 0.000100678,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_669.py",
+        "line": 27,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.945e-06,
+        "cumtime": 9.468700000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_IP",
+        "file": "Mbpp_669.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.7518e-05,
+        "cumtime": 8.474200000000001e-05,
+        "pct_cumtime": 89.49697424144813
+      },
+      {
+        "func": "search",
+        "file": "__init__.py",
+        "line": 174,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.2621000000000002e-05,
+        "cumtime": 6.7224e-05,
+        "pct_cumtime": 70.99601846082355
+      },
+      {
+        "func": "_compile",
+        "file": "__init__.py",
+        "line": 330,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.7425e-05,
+        "cumtime": 2.4521e-05,
+        "pct_cumtime": 25.896902425887397
+      },
+      {
+        "func": "<method 'search' of 're.Pattern' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.0082000000000002e-05,
+        "cumtime": 2.0082000000000002e-05,
+        "pct_cumtime": 21.208824865081795
+      },
+      {
+        "func": "<built-in method builtins.isinstance>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 7.096e-06,
+        "cumtime": 7.096e-06,
+        "pct_cumtime": 7.494164985689693
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.991000000000001e-06,
+        "cumtime": 5.991000000000001e-06,
+        "pct_cumtime": 6.3271621236283755
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_669.py",
+        "line": 27,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 9.945e-06,
+        "cumtime": 9.468700000000001e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "check_IP",
+        "file": "Mbpp_669.py",
+        "line": 3,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.7518e-05,
+        "cumtime": 8.474200000000001e-05,
+        "pct_cumtime": 89.49697424144813
+      }
+    ]
+  }
+]

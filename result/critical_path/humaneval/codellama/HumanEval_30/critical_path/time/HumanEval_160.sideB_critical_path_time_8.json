@@ -1,0 +1,82 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_160.py",
+    "total_cumtime_hint": 0.00038003600000000005,
+    "total_tottime_sum_topk": 0.00038032800000000004,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_160.py",
+        "line": 31,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.9101000000000002e-05,
+        "cumtime": 0.00038003600000000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "do_algebra",
+        "file": "HumanEval_160.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.575e-05,
+        "cumtime": 0.000360935,
+        "pct_cumtime": 94.97389720973801
+      },
+      {
+        "func": "<built-in method builtins.eval>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000289095,
+        "cumtime": 0.000295185,
+        "pct_cumtime": 77.67290467218893
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.3200000000000005e-06,
+        "cumtime": 6.3200000000000005e-06,
+        "pct_cumtime": 1.6630003473355155
+      },
+      {
+        "func": "<module>",
+        "file": "<string>",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.2e-08,
+        "cumtime": 6.2e-08,
+        "pct_cumtime": 0.016314243913734486
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_160.py",
+        "line": 31,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.9101000000000002e-05,
+        "cumtime": 0.00038003600000000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "do_algebra",
+        "file": "HumanEval_160.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.575e-05,
+        "cumtime": 0.000360935,
+        "pct_cumtime": 94.97389720973801
+      }
+    ]
+  }
+]

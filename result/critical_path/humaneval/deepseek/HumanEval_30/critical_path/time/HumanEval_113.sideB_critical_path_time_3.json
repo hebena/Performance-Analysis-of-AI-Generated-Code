@@ -1,0 +1,92 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_113.py",
+    "total_cumtime_hint": 0.0008295280000000001,
+    "total_tottime_sum_topk": 0.000588837,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_113.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.764e-05,
+        "cumtime": 0.0008295280000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "odd_count",
+        "file": "HumanEval_113.py",
+        "line": 8,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00017010000000000001,
+        "cumtime": 0.0008118880000000001,
+        "pct_cumtime": 97.87348950246405
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 720,
+        "calls_total": 720,
+        "tottime": 0.00031433400000000004,
+        "cumtime": 0.000641788,
+        "pct_cumtime": 77.36785256193883
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_113.py",
+        "line": 20,
+        "calls_primitive": 930,
+        "calls_total": 930,
+        "tottime": 8.0667e-05,
+        "cumtime": 8.0667e-05,
+        "pct_cumtime": 9.724445708885053
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.096000000000001e-06,
+        "cumtime": 6.096000000000001e-06,
+        "pct_cumtime": 0.7348757365634433
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_113.py",
+        "line": 1,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.764e-05,
+        "cumtime": 0.0008295280000000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "odd_count",
+        "file": "HumanEval_113.py",
+        "line": 8,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.00017010000000000001,
+        "cumtime": 0.0008118880000000001,
+        "pct_cumtime": 97.87348950246405
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_113.py",
+        "line": 20,
+        "calls_primitive": 930,
+        "calls_total": 930,
+        "tottime": 8.0667e-05,
+        "cumtime": 8.0667e-05,
+        "pct_cumtime": 9.724445708885053
+      }
+    ]
+  }
+]

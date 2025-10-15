@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_147.py",
+    "total_cumtime_hint": 0.249072969,
+    "total_tottime_sum_topk": 0.249085666,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_147.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.009077012,
+        "cumtime": 0.249072969,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_max_triples",
+        "file": "HumanEval_147.py",
+        "line": 1,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 0.23998639500000002,
+        "cumtime": 0.239995957,
+        "pct_cumtime": 96.35568161553493
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.2697e-05,
+        "cumtime": 1.2697e-05,
+        "pct_cumtime": 0.00509770291452221
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 9.562000000000001e-06,
+        "cumtime": 9.562000000000001e-06,
+        "pct_cumtime": 0.003839035620119821
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_147.py",
+        "line": 24,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.009077012,
+        "cumtime": 0.249072969,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "get_max_triples",
+        "file": "HumanEval_147.py",
+        "line": 1,
+        "calls_primitive": 120,
+        "calls_total": 120,
+        "tottime": 0.23998639500000002,
+        "cumtime": 0.239995957,
+        "pct_cumtime": 96.35568161553493
+      }
+    ]
+  }
+]

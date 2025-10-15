@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_203.py",
+    "total_cumtime_hint": 2.0536e-05,
+    "total_tottime_sum_topk": 2.6365000000000003e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_203.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.953e-06,
+        "cumtime": 2.0536e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "hamming_Distance",
+        "file": "Mbpp_203.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1583e-05,
+        "cumtime": 1.1583e-05,
+        "pct_cumtime": 56.40338917023763
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.8290000000000004e-06,
+        "cumtime": 5.8290000000000004e-06,
+        "pct_cumtime": 28.384300740163614
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_203.py",
+        "line": 9,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.953e-06,
+        "cumtime": 2.0536e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "hamming_Distance",
+        "file": "Mbpp_203.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 1.1583e-05,
+        "cumtime": 1.1583e-05,
+        "pct_cumtime": 56.40338917023763
+      }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_50.py",
+    "total_cumtime_hint": 0.08870190800000001,
+    "total_tottime_sum_topk": 0.078616578,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_50.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0023893250000000003,
+        "cumtime": 0.08870190800000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "<method 'join' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 9000,
+        "calls_total": 9000,
+        "tottime": 0.004503008,
+        "cumtime": 0.042002889,
+        "pct_cumtime": 47.35285852024739
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_50.py",
+        "line": 21,
+        "calls_primitive": 48236,
+        "calls_total": 48236,
+        "tottime": 0.005828106,
+        "cumtime": 0.037499881000000006,
+        "pct_cumtime": 42.27629579287066
+      },
+      {
+        "func": "choice",
+        "file": "random.py",
+        "line": 345,
+        "calls_primitive": 45236,
+        "calls_total": 45236,
+        "tottime": 0.012037876000000001,
+        "cumtime": 0.031671775,
+        "pct_cumtime": 35.705855391521
+      },
+      {
+        "func": "encode_shift",
+        "file": "HumanEval_50.py",
+        "line": 1,
+        "calls_primitive": 3000,
+        "calls_total": 3000,
+        "tottime": 0.012551063000000001,
+        "cumtime": 0.020315032,
+        "pct_cumtime": 22.9025873941742
+      },
+      {
+        "func": "decode_shift",
+        "file": "HumanEval_50.py",
+        "line": 7,
+        "calls_primitive": 3000,
+        "calls_total": 3000,
+        "tottime": 0.012125541,
+        "cumtime": 0.019476132,
+        "pct_cumtime": 21.95683547190439
+      },
+      {
+        "func": "_randbelow_with_getrandbits",
+        "file": "random.py",
+        "line": 245,
+        "calls_primitive": 48236,
+        "calls_total": 48236,
+        "tottime": 0.011004545000000001,
+        "cumtime": 0.016962849000000002,
+        "pct_cumtime": 19.123431933392006
+      },
+      {
+        "func": "<built-in method builtins.ord>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 271416,
+        "calls_total": 271416,
+        "tottime": 0.010585591,
+        "cumtime": 0.010585591,
+        "pct_cumtime": 11.933893237110524
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90472,
+        "calls_total": 90472,
+        "tottime": 0.003931493,
+        "cumtime": 0.003931493,
+        "pct_cumtime": 4.432253024365608
+      },
+      {
+        "func": "<built-in method builtins.chr>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90472,
+        "calls_total": 90472,
+        "tottime": 0.0036600300000000003,
+        "cumtime": 0.0036600300000000003,
+        "pct_cumtime": 4.126213384271283
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_50.py",
+        "line": 14,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 0.0023893250000000003,
+        "cumtime": 0.08870190800000001,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_50.py",
+        "line": 21,
+        "calls_primitive": 48236,
+        "calls_total": 48236,
+        "tottime": 0.005828106,
+        "cumtime": 0.037499881000000006,
+        "pct_cumtime": 42.27629579287066
+      },
+      {
+        "func": "encode_shift",
+        "file": "HumanEval_50.py",
+        "line": 1,
+        "calls_primitive": 3000,
+        "calls_total": 3000,
+        "tottime": 0.012551063000000001,
+        "cumtime": 0.020315032,
+        "pct_cumtime": 22.9025873941742
+      },
+      {
+        "func": "decode_shift",
+        "file": "HumanEval_50.py",
+        "line": 7,
+        "calls_primitive": 3000,
+        "calls_total": 3000,
+        "tottime": 0.012125541,
+        "cumtime": 0.019476132,
+        "pct_cumtime": 21.95683547190439
+      }
+    ]
+  }
+]

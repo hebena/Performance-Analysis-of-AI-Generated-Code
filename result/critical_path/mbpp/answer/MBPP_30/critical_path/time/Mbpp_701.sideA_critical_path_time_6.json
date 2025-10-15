@@ -1,0 +1,72 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_701.py",
+    "total_cumtime_hint": 5.1244000000000006e-05,
+    "total_tottime_sum_topk": 5.7418e-05,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_701.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0569e-05,
+        "cumtime": 5.1244000000000006e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "equilibrium_index",
+        "file": "Mbpp_701.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.3861e-05,
+        "cumtime": 4.0675e-05,
+        "pct_cumtime": 79.37514635859807
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 6.814e-06,
+        "cumtime": 6.814e-06,
+        "pct_cumtime": 13.297166497541173
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.1740000000000005e-06,
+        "cumtime": 6.1740000000000005e-06,
+        "pct_cumtime": 12.048239793927094
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_701.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.0569e-05,
+        "cumtime": 5.1244000000000006e-05,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "equilibrium_index",
+        "file": "Mbpp_701.py",
+        "line": 1,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 3.3861e-05,
+        "cumtime": 4.0675e-05,
+        "pct_cumtime": 79.37514635859807
+      }
+    ]
+  }
+]

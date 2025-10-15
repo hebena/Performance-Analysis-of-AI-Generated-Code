@@ -1,0 +1,132 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_78.py",
+    "total_cumtime_hint": 0.00045230400000000005,
+    "total_tottime_sum_topk": 0.000458092,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_78.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1413e-05,
+        "cumtime": 0.00045230400000000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_With_Odd_SetBits",
+        "file": "Mbpp_78.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4243e-05,
+        "cumtime": 0.000440891,
+        "pct_cumtime": 97.47669708868371
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 4.201e-05,
+        "cumtime": 0.00041664800000000004,
+        "pct_cumtime": 92.11680639569848
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_78.py",
+        "line": 8,
+        "calls_primitive": 570,
+        "calls_total": 570,
+        "tottime": 0.000109232,
+        "cumtime": 0.000374638,
+        "pct_cumtime": 82.82880540521418
+      },
+      {
+        "func": "set_bits",
+        "file": "Mbpp_78.py",
+        "line": 6,
+        "calls_primitive": 900,
+        "calls_total": 900,
+        "tottime": 0.00016057200000000002,
+        "cumtime": 0.00026540600000000004,
+        "pct_cumtime": 58.67867628851392
+      },
+      {
+        "func": "<method 'count' of 'str' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 900,
+        "calls_total": 900,
+        "tottime": 6.0939e-05,
+        "cumtime": 6.0939e-05,
+        "pct_cumtime": 13.473018147086913
+      },
+      {
+        "func": "<built-in method builtins.bin>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 900,
+        "calls_total": 900,
+        "tottime": 4.3895000000000006e-05,
+        "cumtime": 4.3895000000000006e-05,
+        "pct_cumtime": 9.70475609324702
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 5.788e-06,
+        "cumtime": 5.788e-06,
+        "pct_cumtime": 1.279670310233825
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_78.py",
+        "line": 10,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 1.1413e-05,
+        "cumtime": 0.00045230400000000005,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_With_Odd_SetBits",
+        "file": "Mbpp_78.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 2.4243e-05,
+        "cumtime": 0.000440891,
+        "pct_cumtime": 97.47669708868371
+      },
+      {
+        "func": "<genexpr>",
+        "file": "Mbpp_78.py",
+        "line": 8,
+        "calls_primitive": 570,
+        "calls_total": 570,
+        "tottime": 0.000109232,
+        "cumtime": 0.000374638,
+        "pct_cumtime": 82.82880540521418
+      },
+      {
+        "func": "set_bits",
+        "file": "Mbpp_78.py",
+        "line": 6,
+        "calls_primitive": 900,
+        "calls_total": 900,
+        "tottime": 0.00016057200000000002,
+        "cumtime": 0.00026540600000000004,
+        "pct_cumtime": 58.67867628851392
+      }
+    ]
+  }
+]

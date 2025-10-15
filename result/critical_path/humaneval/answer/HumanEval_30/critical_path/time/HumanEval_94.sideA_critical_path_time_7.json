@@ -1,0 +1,122 @@
+[
+  {
+    "status": "success",
+    "task_file": "HumanEval_94.py",
+    "total_cumtime_hint": 0.001167482,
+    "total_tottime_sum_topk": 0.001173617,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "HumanEval_94.py",
+        "line": 28,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.0607e-05,
+        "cumtime": 0.001167482,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "skjkasdkd",
+        "file": "HumanEval_94.py",
+        "line": 1,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 0.000451444,
+        "cumtime": 0.001126875,
+        "pct_cumtime": 96.52183074342902
+      },
+      {
+        "func": "isPrime",
+        "file": "HumanEval_94.py",
+        "line": 14,
+        "calls_primitive": 990,
+        "calls_total": 990,
+        "tottime": 0.00038229400000000004,
+        "cumtime": 0.00038229400000000004,
+        "pct_cumtime": 32.745172944850545
+      },
+      {
+        "func": "<built-in method builtins.sum>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 8.440300000000001e-05,
+        "cumtime": 0.000175419,
+        "pct_cumtime": 15.025413668047987
+      },
+      {
+        "func": "<built-in method builtins.len>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 2970,
+        "calls_total": 2970,
+        "tottime": 0.00011771800000000001,
+        "cumtime": 0.00011771800000000001,
+        "pct_cumtime": 10.083067661856886
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_94.py",
+        "line": 25,
+        "calls_primitive": 1050,
+        "calls_total": 1050,
+        "tottime": 9.101600000000001e-05,
+        "cumtime": 9.101600000000001e-05,
+        "pct_cumtime": 7.795923191963559
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.1350000000000006e-06,
+        "cumtime": 6.1350000000000006e-06,
+        "pct_cumtime": 0.5254899004866885
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "HumanEval_94.py",
+        "line": 28,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 4.0607e-05,
+        "cumtime": 0.001167482,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "skjkasdkd",
+        "file": "HumanEval_94.py",
+        "line": 1,
+        "calls_primitive": 270,
+        "calls_total": 270,
+        "tottime": 0.000451444,
+        "cumtime": 0.001126875,
+        "pct_cumtime": 96.52183074342902
+      },
+      {
+        "func": "isPrime",
+        "file": "HumanEval_94.py",
+        "line": 14,
+        "calls_primitive": 990,
+        "calls_total": 990,
+        "tottime": 0.00038229400000000004,
+        "cumtime": 0.00038229400000000004,
+        "pct_cumtime": 32.745172944850545
+      },
+      {
+        "func": "<genexpr>",
+        "file": "HumanEval_94.py",
+        "line": 25,
+        "calls_primitive": 1050,
+        "calls_total": 1050,
+        "tottime": 9.101600000000001e-05,
+        "cumtime": 9.101600000000001e-05,
+        "pct_cumtime": 7.795923191963559
+      }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "status": "success",
+    "task_file": "Mbpp_781.py",
+    "total_cumtime_hint": 0.00014862,
+    "total_tottime_sum_topk": 0.000154656,
+    "top_all": [
+      {
+        "func": "check",
+        "file": "Mbpp_781.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.826e-06,
+        "cumtime": 0.00014862,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Divisors",
+        "file": "Mbpp_781.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000139794,
+        "cumtime": 0.000139794,
+        "pct_cumtime": 94.06136455389584
+      },
+      {
+        "func": "<method 'disable' of '_lsprof.Profiler' objects>",
+        "file": "~",
+        "line": 0,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 6.036e-06,
+        "cumtime": 6.036e-06,
+        "pct_cumtime": 4.061364553895842
+      }
+    ],
+    "top_ownfile": [
+      {
+        "func": "check",
+        "file": "Mbpp_781.py",
+        "line": 11,
+        "calls_primitive": 1,
+        "calls_total": 1,
+        "tottime": 8.826e-06,
+        "cumtime": 0.00014862,
+        "pct_cumtime": 100.0
+      },
+      {
+        "func": "count_Divisors",
+        "file": "Mbpp_781.py",
+        "line": 4,
+        "calls_primitive": 90,
+        "calls_total": 90,
+        "tottime": 0.000139794,
+        "cumtime": 0.000139794,
+        "pct_cumtime": 94.06136455389584
+      }
+    ]
+  }
+]
