@@ -9,7 +9,7 @@ Contains the datasets and static analysis rules used in the study.
 
 - **datasets/**
   - `humaneval-v2-20210705.jsonl` - HumanEval dataset
-  - `mbpp.jsonl` - MBPP (Mostly Basic Python Problems) dataset
+  - `mbpp.jsonl` - MBPP dataset
   - `evalperf_dataset.jsonl` - EvalPerf dataset
   - `aixbench_dataset_autotest_nl.jsonl` - AIxBench dataset
 
